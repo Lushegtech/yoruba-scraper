@@ -1,0 +1,64 @@
+[
+  {
+    "word": "á",
+    "url": "https://glosbe.com/yo/en/%C3%A1",
+    "scrape_time": "2025-04-11 16:52:10",
+    "status": "success",
+    "error": "",
+    "translation": "he",
+    "translations": [
+      "he",
+      "it",
+      "she"
+    ],
+    "part_of_speech": "pronoun",
+    "meanings": [
+      "third-person “Bí [ẹlẹ́tàn] tilẹ̀ mú ohùn rẹ̀ kún fún oore ọ̀fẹ́, má gbà á gbọ́"
+    ],
+    "examples": [
+      {
+        "yoruba": "Mo wá ní kó gbàyè ọjọ́ díẹ̀ níbi iṣẹ́ kó lè kà á parí.",
+        "english": "So I suggested that he take a few days off to complete his reading"
+      }
+    ]
+  },
+  {
+    "word": "a",
+    "url": "https://glosbe.com/yo/en/a",
+    "scrape_time": "2025-04-11 16:52:13",
+    "status": "success",
+    "error": "",
+    "translation": "we",
+    "translations": [
+      "we",
+      "us"
+    ],
+    "part_of_speech": "noun",
+    "meanings": [],
+    "examples": [
+      {
+        "yoruba": "Síwájú sí i, bá a bá ń ṣiṣẹ́ àṣekára, a máa rówó fi ran àwọn ẹlòmíì lọ́wọ́.",
+        "english": "Additionally, our hard work enables us to be generous in a financial way"
+      }
+    ]
+  },
+  {
+    "word": "à bá ti",
+    "url": "https://glosbe.com/yo/en/%C3%A0%20b%C3%A1%20ti",
+    "scrape_time": "2025-04-11 16:52:21",
+    "status": "success",
+    "error": "",
+    "translation": "we would have",
+    "translations": [
+      "we would have"
+    ],
+    "part_of_speech": "",
+    "meanings": [],
+    "examples": [
+      {
+        "yoruba": "À bá ti lò ó",
+        "english": "We would have used it"
+      }
+    ]
+  }
+]
