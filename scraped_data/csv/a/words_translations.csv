@@ -1,0 +1,15 @@
+id,word_id,translation,part_of_speech,confidence
+1,1,we will,phrase,high
+2,2,we,pronoun,high
+3,2,us,pronoun,high
+4,3,Happy Easter,phrase,high
+5,4,we give thanks,phrase,high
+6,5,we would have,phrase,high
+7,6,we accept the written word,phrase,high
+8,7,we will,phrase,high
+9,8,we sell,verb,high
+10,8,we sold,verb,high
+11,9,he,pronoun,high
+12,9,she,pronoun,high
+13,9,it,pronoun,high
+14,9,they,pronoun,high
