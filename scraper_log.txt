@@ -4567,3 +4567,5 @@
 2025-04-28 10:54:53,388 - INFO - Final scraping result for baálẹ̀: 7 translations, 4 examples
 2025-04-28 10:54:59,536 - INFO - Saved debug HTML to ./scraped_data\debug_html\bèbè_debug.html
 2025-04-28 10:55:00,054 - INFO - Final scraping result for bèbè: 3 translations, 28 examples
+2025-04-28 10:55:06,387 - INFO - Saved debug HTML to ./scraped_data\debug_html\bàbàowó kọbọ́àkàngbà_debug.html
+2025-04-28 10:55:06,613 - INFO - Final scraping result for bàbàowó kọbọ́àkàngbà: 2 translations, 1 examples
