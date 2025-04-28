@@ -4569,3 +4569,148 @@
 2025-04-28 10:55:00,054 - INFO - Final scraping result for bèbè: 3 translations, 28 examples
 2025-04-28 10:55:06,387 - INFO - Saved debug HTML to ./scraped_data\debug_html\bàbàowó kọbọ́àkàngbà_debug.html
 2025-04-28 10:55:06,613 - INFO - Final scraping result for bàbàowó kọbọ́àkàngbà: 2 translations, 1 examples
+2025-04-28 10:55:10,387 - INFO - Saved debug HTML to ./scraped_data\debug_html\Biochemistry_debug.html
+2025-04-28 10:55:10,594 - INFO - Final scraping result for Biochemistry: 0 translations, 1 examples
+2025-04-28 10:55:15,560 - INFO - Saved debug HTML to ./scraped_data\debug_html\bẹ́ẹ̀ ni_debug.html
+2025-04-28 10:55:15,949 - INFO - Final scraping result for bẹ́ẹ̀ ni: 2 translations, 2 examples
+2025-04-28 10:55:21,930 - INFO - Saved debug HTML to ./scraped_data\debug_html\bromine_debug.html
+2025-04-28 10:55:23,834 - INFO - Final scraping result for bromine: 0 translations, 2 examples
+2025-04-28 10:55:30,212 - INFO - Saved debug HTML to ./scraped_data\debug_html\Bẹ́ljíọ̀m_debug.html
+2025-04-28 10:55:31,925 - INFO - Final scraping result for Bẹ́ljíọ̀m: 1 translations, 1 examples
+2025-04-28 10:55:36,532 - INFO - Saved debug HTML to ./scraped_data\debug_html\Benin_debug.html
+2025-04-28 10:55:37,988 - INFO - Final scraping result for Benin: 3 translations, 31 examples
+2025-04-28 10:55:44,112 - INFO - Saved debug HTML to ./scraped_data\debug_html\bòlífíà_debug.html
+2025-04-28 10:55:44,947 - INFO - Final scraping result for bòlífíà: 1 translations, 13 examples
+2025-04-28 10:55:52,687 - INFO - Saved debug HTML to ./scraped_data\debug_html\bùléni_debug.html
+2025-04-28 10:55:53,179 - INFO - Final scraping result for bùléni: 2 translations, 1 examples
+2025-04-28 10:55:57,333 - INFO - Saved debug HTML to ./scraped_data\debug_html\Burkina Faso_debug.html
+2025-04-28 10:55:58,013 - INFO - Final scraping result for Burkina Faso: 0 translations, 1 examples
+2025-04-28 10:56:03,660 - INFO - Saved debug HTML to ./scraped_data\debug_html\Bẹ́rkẹ́líọ̀m_debug.html
+2025-04-28 10:56:04,322 - INFO - Final scraping result for Bẹ́rkẹ́líọ̀m: 2 translations, 1 examples
+2025-04-28 10:56:09,906 - INFO - Saved debug HTML to ./scraped_data\debug_html\berne_debug.html
+2025-04-28 10:56:10,279 - INFO - Final scraping result for berne: 1 translations, 1 examples
+2025-04-28 10:56:17,421 - INFO - Saved debug HTML to ./scraped_data\debug_html\búlọ́ọ̀gì_debug.html
+2025-04-28 10:56:18,238 - INFO - Final scraping result for búlọ́ọ̀gì: 1 translations, 1 examples
+2025-04-28 10:56:22,604 - INFO - Saved debug HTML to ./scraped_data\debug_html\bohrium_debug.html
+2025-04-28 10:56:22,934 - INFO - Final scraping result for bohrium: 0 translations, 1 examples
+2025-04-28 10:56:28,427 - INFO - Saved debug HTML to ./scraped_data\debug_html\b yá_debug.html
+2025-04-28 10:56:28,831 - INFO - Final scraping result for b yá: 4 translations, 2 examples
+2025-04-28 10:56:35,158 - INFO - Saved debug HTML to ./scraped_data\debug_html\bá-wí_debug.html
+2025-04-28 10:56:35,878 - INFO - Final scraping result for bá-wí: 4 translations, 2 examples
+2025-04-28 10:56:43,830 - INFO - Saved debug HTML to ./scraped_data\debug_html\bàbá àgbà_debug.html
+2025-04-28 10:56:44,626 - INFO - Final scraping result for bàbá àgbà: 3 translations, 3 examples
+2025-04-28 10:56:52,716 - INFO - Saved debug HTML to ./scraped_data\debug_html\brazzaville_debug.html
+2025-04-28 10:56:53,048 - INFO - Final scraping result for brazzaville: 0 translations, 1 examples
+2025-04-28 10:57:00,790 - INFO - Saved debug HTML to ./scraped_data\debug_html\bárbádọ̀s_debug.html
+2025-04-28 10:57:01,597 - INFO - Final scraping result for bárbádọ̀s: 1 translations, 1 examples
+2025-04-28 10:57:06,498 - INFO - Saved debug HTML to ./scraped_data\debug_html\Bàbàowó_debug.html
+2025-04-28 10:57:06,920 - INFO - Final scraping result for Bàbàowó: 1 translations, 1 examples
+2025-04-28 10:57:14,330 - INFO - Saved debug HTML to ./scraped_data\debug_html\bọ́tìnnì atọ́ka apá ọ̀tún_debug.html
+2025-04-28 10:57:14,951 - INFO - Final scraping result for bọ́tìnnì atọ́ka apá ọ̀tún: 1 translations, 1 examples
+2025-04-28 10:57:23,222 - INFO - Saved debug HTML to ./scraped_data\debug_html\bcc_debug.html
+2025-04-28 10:57:23,677 - INFO - Final scraping result for bcc: 1 translations, 2 examples
+2025-04-28 10:57:30,850 - INFO - Saved debug HTML to ./scraped_data\debug_html\beijing_debug.html
+2025-04-28 10:57:31,583 - INFO - Final scraping result for beijing: 1 translations, 19 examples
+2025-04-28 10:57:37,254 - INFO - Saved debug HTML to ./scraped_data\debug_html\béèrèfagbára béèrè_debug.html
+2025-04-28 10:57:37,741 - INFO - Final scraping result for béèrèfagbára béèrè: 2 translations, 1 examples
+2025-04-28 10:57:41,908 - INFO - Saved debug HTML to ./scraped_data\debug_html\bọ́ọ̀lù àfẹsẹ̀gbá_debug.html
+2025-04-28 10:57:42,698 - INFO - Final scraping result for bọ́ọ̀lù àfẹsẹ̀gbá: 3 translations, 2 examples
+2025-04-28 10:57:50,246 - INFO - Saved debug HTML to ./scraped_data\debug_html\bloemfontein_debug.html
+2025-04-28 10:57:50,689 - INFO - Final scraping result for bloemfontein: 0 translations, 2 examples
+2025-04-28 10:57:54,713 - INFO - Saved debug HTML to ./scraped_data\debug_html\Bọ̀ Ná_debug.html
+2025-04-28 10:57:55,428 - INFO - Final scraping result for Bọ̀ Ná: 1 translations, 1 examples
+2025-04-28 10:57:59,562 - INFO - Saved debug HTML to ./scraped_data\debug_html\bótìnnì gbogboǹṣe_debug.html
+2025-04-28 10:58:00,045 - INFO - Final scraping result for bótìnnì gbogboǹṣe: 1 translations, 1 examples
+2025-04-28 10:58:07,224 - INFO - Saved debug HTML to ./scraped_data\debug_html\Bob Marley_debug.html
+2025-04-28 10:58:07,602 - INFO - Final scraping result for Bob Marley: 1 translations, 1 examples
+2025-04-28 10:58:15,254 - INFO - Saved debug HTML to ./scraped_data\debug_html\Burundi_debug.html
+2025-04-28 10:58:15,952 - INFO - Final scraping result for Burundi: 0 translations, 20 examples
+2025-04-28 10:58:22,026 - INFO - Saved debug HTML to ./scraped_data\debug_html\bà_debug.html
+2025-04-28 10:58:22,867 - INFO - Final scraping result for bà: 1 translations, 61 examples
+2025-04-28 10:58:30,716 - INFO - Saved debug HTML to ./scraped_data\debug_html\burúkú_debug.html
+2025-04-28 10:58:31,491 - INFO - Final scraping result for burúkú: 0 translations, 26 examples
+2025-04-28 10:58:34,951 - INFO - Saved debug HTML to ./scraped_data\debug_html\Bósónì_debug.html
+2025-04-28 10:58:35,337 - INFO - Final scraping result for Bósónì: 1 translations, 1 examples
+2025-04-28 10:58:43,217 - INFO - Saved debug HTML to ./scraped_data\debug_html\bissau_debug.html
+2025-04-28 10:58:43,517 - INFO - Final scraping result for bissau: 0 translations, 6 examples
+2025-04-28 10:58:51,288 - INFO - Saved debug HTML to ./scraped_data\debug_html\bẹ̀lísè_debug.html
+2025-04-28 10:58:52,073 - INFO - Final scraping result for bẹ̀lísè: 1 translations, 1 examples
+2025-04-28 10:58:57,033 - INFO - Saved debug HTML to ./scraped_data\debug_html\Boliviano_debug.html
+2025-04-28 10:58:57,419 - INFO - Final scraping result for Boliviano: 1 translations, 1 examples
+2025-04-28 10:59:02,940 - INFO - Saved debug HTML to ./scraped_data\debug_html\bátìrì_debug.html
+2025-04-28 10:59:03,636 - INFO - Final scraping result for bátìrì: 2 translations, 1 examples
+2025-04-28 10:59:10,789 - INFO - Saved debug HTML to ./scraped_data\debug_html\boron_debug.html
+2025-04-28 10:59:11,192 - INFO - Final scraping result for boron: 0 translations, 1 examples
+2025-04-28 10:59:15,698 - INFO - Saved debug HTML to ./scraped_data\debug_html\Barium_debug.html
+2025-04-28 10:59:16,186 - INFO - Final scraping result for Barium: 1 translations, 1 examples
+2025-04-28 10:59:21,860 - INFO - Saved debug HTML to ./scraped_data\debug_html\bèbè òkúta_debug.html
+2025-04-28 10:59:22,409 - INFO - Final scraping result for bèbè òkúta: 2 translations, 3 examples
+2025-04-28 10:59:28,972 - INFO - Saved debug HTML to ./scraped_data\debug_html\bàbàowó kobóàkàngbà_debug.html
+2025-04-28 10:59:29,170 - INFO - Final scraping result for bàbàowó kobóàkàngbà: 2 translations, 1 examples
+2025-04-28 10:59:34,538 - INFO - Saved debug HTML to ./scraped_data\debug_html\bọ́tìnnì pẹpẹ-irinṣẹ́_debug.html
+2025-04-28 10:59:34,816 - INFO - Final scraping result for bọ́tìnnì pẹpẹ-irinṣẹ́: 1 translations, 1 examples
+2025-04-28 10:59:43,135 - INFO - Saved debug HTML to ./scraped_data\debug_html\Belgium_debug.html
+2025-04-28 10:59:43,526 - INFO - Final scraping result for Belgium: 1 translations, 27 examples
+2025-04-28 10:59:49,696 - INFO - Saved debug HTML to ./scraped_data\debug_html\budapest_debug.html
+2025-04-28 10:59:50,106 - INFO - Final scraping result for budapest: 0 translations, 26 examples
+2025-04-28 10:59:57,863 - INFO - Saved debug HTML to ./scraped_data\debug_html\Báwo ni mo ṣe le_debug.html
+2025-04-28 10:59:58,075 - INFO - Final scraping result for Báwo ni mo ṣe le: 1 translations, 1 examples
+2025-04-28 11:00:03,046 - INFO - Saved debug HTML to ./scraped_data\debug_html\bí_debug.html
+2025-04-28 11:00:03,559 - INFO - Final scraping result for bí: 3 translations, 82 examples
+2025-04-28 11:00:11,892 - INFO - Saved debug HTML to ./scraped_data\debug_html\báramu_debug.html
+2025-04-28 11:00:12,266 - INFO - Final scraping result for báramu: 1 translations, 2 examples
+2025-04-28 11:00:18,186 - INFO - Saved debug HTML to ./scraped_data\debug_html\bọ́tìnnì_debug.html
+2025-04-28 11:00:18,800 - INFO - Final scraping result for bọ́tìnnì: 10 translations, 10 examples
+2025-04-28 11:00:25,937 - INFO - Saved debug HTML to ./scraped_data\debug_html\berkelium_debug.html
+2025-04-28 11:00:26,147 - INFO - Final scraping result for berkelium: 0 translations, 1 examples
+2025-04-28 11:00:32,476 - INFO - Saved debug HTML to ./scraped_data\debug_html\bẹ́ljíọ̀m_debug.html
+2025-04-28 11:00:32,867 - INFO - Final scraping result for bẹ́ljíọ̀m: 1 translations, 1 examples
+2025-04-28 11:00:37,000 - INFO - Saved debug HTML to ./scraped_data\debug_html\bùlgáríà_debug.html
+2025-04-28 11:00:37,222 - INFO - Final scraping result for bùlgáríà: 1 translations, 1 examples
+2025-04-28 11:00:41,884 - INFO - Saved debug HTML to ./scraped_data\debug_html\biribiri_debug.html
+2025-04-28 11:00:42,412 - INFO - Final scraping result for biribiri: 1 translations, 26 examples
+2025-04-28 11:00:50,264 - INFO - Saved debug HTML to ./scraped_data\debug_html\bọ́tìnnì ojúṣe_debug.html
+2025-04-28 11:00:50,540 - INFO - Final scraping result for bọ́tìnnì ojúṣe: 1 translations, 1 examples
+2025-04-28 11:00:55,139 - INFO - Saved debug HTML to ./scraped_data\debug_html\barium_debug.html
+2025-04-28 11:00:55,386 - INFO - Final scraping result for barium: 1 translations, 1 examples
+2025-04-28 11:01:03,337 - INFO - Saved debug HTML to ./scraped_data\debug_html\bọ́tìnnì aláwòrán_debug.html
+2025-04-28 11:01:03,576 - INFO - Final scraping result for bọ́tìnnì aláwòrán: 1 translations, 1 examples
+2025-04-28 11:01:11,795 - INFO - Saved debug HTML to ./scraped_data\debug_html\bí òbìrìkìtìkibitikiribiti_debug.html
+2025-04-28 11:01:12,008 - INFO - Final scraping result for bí òbìrìkìtìkibitikiribiti: 2 translations, 1 examples
+2025-04-28 11:01:20,138 - INFO - Saved debug HTML to ./scraped_data\debug_html\búrẹ́dì_debug.html
+2025-04-28 11:01:20,603 - INFO - Final scraping result for búrẹ́dì: 2 translations, 7 examples
+2025-04-28 11:01:28,646 - INFO - Saved debug HTML to ./scraped_data\debug_html\Bí a tií kàn síni_debug.html
+2025-04-28 11:01:28,913 - INFO - Final scraping result for Bí a tií kàn síni: 1 translations, 1 examples
+2025-04-28 11:01:37,249 - INFO - Saved debug HTML to ./scraped_data\debug_html\brunei_debug.html
+2025-04-28 11:01:37,464 - INFO - Final scraping result for brunei: 0 translations, 1 examples
+2025-04-28 11:01:41,424 - INFO - Saved debug HTML to ./scraped_data\debug_html\bọ́tìnnì ìgbékiri_debug.html
+2025-04-28 11:01:41,721 - INFO - Final scraping result for bọ́tìnnì ìgbékiri: 2 translations, 2 examples
+2025-04-28 11:01:45,879 - INFO - Saved debug HTML to ./scraped_data\debug_html\bọ́tà_debug.html
+2025-04-28 11:01:46,205 - INFO - Final scraping result for bọ́tà: 1 translations, 1 examples
+2025-04-28 11:01:54,114 - INFO - Saved debug HTML to ./scraped_data\debug_html\bismuth_debug.html
+2025-04-28 11:01:54,383 - INFO - Final scraping result for bismuth: 0 translations, 1 examples
+2025-04-28 11:01:58,732 - INFO - Saved debug HTML to ./scraped_data\debug_html\bujumbura_debug.html
+2025-04-28 11:01:59,083 - INFO - Final scraping result for bujumbura: 0 translations, 2 examples
+2025-04-28 11:02:03,408 - INFO - Saved debug HTML to ./scraped_data\debug_html\bí eré bí eré_debug.html
+2025-04-28 11:02:03,822 - INFO - Final scraping result for bí eré bí eré: 2 translations, 8 examples
+2025-04-28 11:02:10,422 - INFO - Saved debug HTML to ./scraped_data\debug_html\Búkúmaàkìleti_debug.html
+2025-04-28 11:02:10,671 - INFO - Final scraping result for Búkúmaàkìleti: 1 translations, 1 examples
+2025-04-28 11:02:15,528 - INFO - Saved debug HTML to ./scraped_data\debug_html\bàbá ìyá_debug.html
+2025-04-28 11:02:15,994 - INFO - Final scraping result for bàbá ìyá: 1 translations, 1 examples
+2025-04-28 11:02:20,469 - INFO - Saved debug HTML to ./scraped_data\debug_html\bọ́ọ̀dù_debug.html
+2025-04-28 11:02:20,903 - INFO - Final scraping result for bọ́ọ̀dù: 2 translations, 2 examples
+2025-04-28 11:02:27,928 - INFO - Saved debug HTML to ./scraped_data\debug_html\bàbá_debug.html
+2025-04-28 11:02:28,326 - INFO - Final scraping result for bàbá: 5 translations, 3 examples
+2025-04-28 11:02:32,549 - INFO - Saved debug HTML to ./scraped_data\debug_html\Blu-ray Disc_debug.html
+2025-04-28 11:02:32,862 - INFO - Final scraping result for Blu-ray Disc: 1 translations, 1 examples
+2025-04-28 11:02:38,931 - INFO - Saved debug HTML to ./scraped_data\debug_html\bọ́tìnnì rédíò_debug.html
+2025-04-28 11:02:39,549 - INFO - Final scraping result for bọ́tìnnì rédíò: 1 translations, 1 examples
+2025-04-28 11:02:45,381 - INFO - Saved debug HTML to ./scraped_data\debug_html\bàbáàgbà_debug.html
+2025-04-28 11:02:45,881 - INFO - Final scraping result for bàbáàgbà: 1 translations, 1 examples
+2025-04-28 11:02:53,318 - INFO - Saved debug HTML to ./scraped_data\debug_html\bẹ̀rẹ̀_debug.html
+2025-04-28 11:02:54,696 - INFO - Final scraping result for bẹ̀rẹ̀: 7 translations, 7 examples
+2025-04-28 11:05:05,926 - ERROR - Error scraping bí òrombó: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-04-28 11:05:14,216 - INFO - Saved debug HTML to ./scraped_data\debug_html\bọ́tìnnì aṣàtúnṣe_debug.html
+2025-04-28 11:05:16,092 - INFO - Final scraping result for bọ́tìnnì aṣàtúnṣe: 1 translations, 1 examples
+2025-04-28 11:05:21,365 - INFO - Saved debug HTML to ./scraped_data\debug_html\bíbélì mímọ́_debug.html
+2025-04-28 11:05:27,899 - INFO - Final scraping result for bíbélì mímọ́: 4 translations, 2 examples
