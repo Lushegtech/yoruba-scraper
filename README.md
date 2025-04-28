@@ -1,73 +1,79 @@
-# Yoruba Dictionary Scraper
+# Yoruba Scraper - Improved Translation Extractor
 
-This script scrapes Yoruba words and their translations from Glosbe.com, including:
-- Word
-- Primary translation
-- Pronunciation
-- Part of speech
-- Meanings/definitions
-- Example sentences
-- URLs
-- Scrape time
-- Status and error information
+This repository contains scripts to improve the translation extraction process for the Yoruba-English dictionary scraper. The main focus is on correctly parsing debug HTML files to extract accurate translations.
 
-## Setup
+## Background
 
-1. Install Python 3.8 or higher
-2. Install required packages:
-```bash
-pip install -r requirements.txt
-```
+The original scraper was saving HTML files in debug mode, but the translation extraction mechanism wasn't properly extracting all translations from these saved files. This improved extractor addresses that issue, ensuring that all available translations are correctly captured.
 
-3. Create the following folder structure:
-```
-yoruba_words/
-  ├── a/
-  │   └── words.txt
-  ├── b/
-  │   └── words.txt
-  └── ... (other alphabet folders)
-```
+## Key Improvements
 
-4. Add Yoruba words to the text files in each alphabet folder, one word per line.
+1. Prioritizes translations found in the page summary section (generally the most accurate)
+2. Better captures part-of-speech information associated with translations
+3. Improves extraction from multiple HTML elements including:
+   - Direct translation elements (`h3.translation__item__pharse`)
+   - List items with translation markup (`li[data-element="translation"]`)
+   - Similar phrases section (`#simmilar-phrases`)
+   - Automatic translations section (`#translation_automatic`)
+4. Adds confidence levels to help prioritize the most accurate translations
+5. Updates the existing scraped data with improved translations
+
+## Files
+
+- `improved_translation_extractor.py` - The main script providing enhanced translation extraction
+- `test_improved_extractor.py` - A test script to verify extraction works correctly
+- `verify_fix.py` - The original verification script (for reference)
 
 ## Usage
 
-Run the scraper:
+### Running the Improved Extractor
+
+To process all debug HTML files and generate improved translations:
+
 ```bash
-python scrape.py
+python improved_translation_extractor.py
 ```
 
-The script will:
-- Create necessary output folders
-- Process words from each alphabet folder
-- Save results in JSON and CSV formats
-- Generate a combined CSV file
-- Create a SQL initialization file
+This will:
+1. Read all HTML files in the `scraped_data/debug_html/` directory
+2. Extract translations using the improved method
+3. Save results to `scraped_data/improved_translations.json`
+4. Update the main scraped data file with the improved translations
 
-## Output Structure
+### Testing a Specific Word
 
-```
-scraped_data/
-  ├── json/
-  │   └── [alphabet]/
-  │       └── [word_file].json
-  ├── csv/
-  │   └── [alphabet]/
-  │       └── [word_file].csv
-  ├── debug_html/
-  │   └── [word]_debug.html
-  ├── all_yoruba_words.csv
-  ├── init_database.sql
-  └── processed_words.txt
+To test the extraction specifically for the word "adìye" (chicken):
+
+```bash
+python test_improved_extractor.py
 ```
 
-## Features
+This will show details about what elements are found in the HTML and what translations are extracted.
 
-- Handles CAPTCHA detection and retries
-- Uses random delays and user agents to avoid blocking
-- Tracks processed words to avoid duplicates
-- Saves debug HTML for troubleshooting
-- Generates SQL schema for database setup
-- Progress bar for monitoring scraping progress
-- Error handling and logging 
+## Advanced Usage
+
+You can also use the functions directly in your code:
+
+```python
+from improved_translation_extractor import process_debug_html_files, update_scraper_with_improved_translations
+
+# Process debug files with custom paths
+results = process_debug_html_files(
+    input_dir="./custom_data_dir",
+    output_file="./custom_output.json"
+)
+
+# Update scraped data with improved translations
+update_scraper_with_improved_translations(
+    translation_file="./improved_translations.json",
+    output_folder="./updated_data.json"
+)
+```
+
+## Future Improvements
+
+Potential enhancements for the future:
+- Integration with the main scraper to use this improved method in real-time
+- Support for batch processing of specific words only
+- Ability to merge results from multiple sources
+- Web interface for manually reviewing and editing translations 

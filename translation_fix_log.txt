@@ -1,0 +1,225 @@
+2025-04-27 13:55:38,948 - INFO - Processing specific file: scraped_data/csv/a/words_translations.csv
+2025-04-27 13:55:38,948 - INFO - Processing translations file: scraped_data/csv/a/words_translations.csv
+2025-04-27 13:55:38,951 - INFO - Created backup at scraped_data/csv/a/words_translations.csv.bak
+2025-04-27 13:55:38,962 - INFO - Fixed 6 translations in scraped_data/csv/a/words_translations.csv
+2025-04-27 13:55:38,966 - INFO - Translation fix complete!
+2025-04-27 14:07:06,370 - INFO - Processing specific file: scraped_data/csv/a/words_translations.csv
+2025-04-27 14:07:06,370 - INFO - Processing translations file: scraped_data/csv/a/words_translations.csv
+2025-04-27 14:07:06,400 - ERROR - Error processing scraped_data/csv/a/words_translations.csv: Can only compare identically-labeled Series objects
+2025-04-27 14:07:06,401 - INFO - Translation fix complete!
+2025-04-27 14:09:46,479 - INFO - Processing specific file: scraped_data/csv/a/words_translations.csv
+2025-04-27 14:09:46,479 - INFO - Processing translations file: scraped_data/csv/a/words_translations.csv
+2025-04-27 14:09:46,490 - INFO - Fixed 12 translations in scraped_data/csv/a/words_translations.csv
+2025-04-27 14:09:46,490 - INFO - Removed 5 duplicate entries in scraped_data/csv/a/words_translations.csv
+2025-04-27 14:09:46,494 - INFO - Translation fix complete!
+2025-04-27 14:10:17,442 - INFO - Processing specific file: scraped_data/csv/a/words_translations.csv
+2025-04-27 14:10:17,442 - INFO - Processing translations file: scraped_data/csv/a/words_translations.csv
+2025-04-27 14:10:17,446 - INFO - Original row count: 8
+2025-04-27 14:10:17,449 - INFO - Fixed 0 translations in scraped_data/csv/a/words_translations.csv
+2025-04-27 14:10:17,451 - INFO - Removed 0 exact duplicate rows
+2025-04-27 14:10:17,452 - INFO - Removed 0 duplicate word/translation pairs
+2025-04-27 14:10:17,452 - INFO - Total rows removed: 0 (8 rows remaining)
+2025-04-27 14:10:17,457 - INFO - Translation fix complete!
+2025-04-27 14:18:58,546 - INFO - Processing specific file: scraped_data/csv/a/words_translations.csv
+2025-04-27 14:18:58,547 - INFO - Processing translations file: scraped_data/csv/a/words_translations.csv
+2025-04-27 14:18:58,547 - INFO - Reading file scraped_data/csv/a/words_translations.csv
+2025-04-27 14:18:58,550 - INFO - Columns in file: id, word_id, translation, part_of_speech, confidence
+2025-04-27 14:18:58,551 - INFO - Original row count: 8
+2025-04-27 14:18:58,554 - INFO - Fixed 0 translations in scraped_data/csv/a/words_translations.csv
+2025-04-27 14:18:58,556 - INFO - Removed 0 exact duplicate rows
+2025-04-27 14:18:58,557 - INFO - Removed 0 duplicate word/translation pairs
+2025-04-27 14:18:58,558 - INFO - Total rows removed: 0 (8 rows remaining)
+2025-04-27 14:18:58,558 - INFO - Writing cleaned data back to scraped_data/csv/a/words_translations.csv
+2025-04-27 14:18:58,563 - INFO - Translation fix complete!
+2025-04-27 14:25:01,247 - INFO - Processing specific file: scraped_data/csv/a/words_examples.csv
+2025-04-27 14:25:01,248 - INFO - Processing examples file: scraped_data/csv/a/words_examples.csv
+2025-04-27 14:25:01,251 - INFO - Created backup at scraped_data/csv/a/words_examples.csv.bak
+2025-04-27 14:25:01,251 - INFO - Reading file scraped_data/csv/a/words_examples.csv
+2025-04-27 14:25:01,258 - INFO - Columns in file: id, translation_id, word_id, yoruba_text, english_text, is_jw_reference, confidence, source, score
+2025-04-27 14:25:01,258 - INFO - Original row count: 95
+2025-04-27 14:25:01,264 - INFO - Fixed 88 Yoruba examples in scraped_data/csv/a/words_examples.csv
+2025-04-27 14:25:01,270 - INFO - Fixed 14 English examples in scraped_data/csv/a/words_examples.csv
+2025-04-27 14:25:01,279 - INFO - Removed 0 exact duplicate rows
+2025-04-27 14:25:01,279 - INFO - Total rows removed: 0 (95 rows remaining)
+2025-04-27 14:25:01,279 - INFO - Writing cleaned data back to scraped_data/csv/a/words_examples.csv
+2025-04-27 14:25:01,285 - INFO - Fix process complete!
+2025-04-27 14:32:00,856 - INFO - Processing specific file: scraped_data/csv/a/words_examples.csv
+2025-04-27 14:32:00,856 - INFO - Processing examples file: scraped_data/csv/a/words_examples.csv
+2025-04-27 14:32:00,857 - INFO - Reading file scraped_data/csv/a/words_examples.csv
+2025-04-27 14:32:00,875 - INFO - Columns in file: id, translation_id, word_id, yoruba_text, english_text, is_jw_reference, confidence, source, score
+2025-04-27 14:32:00,876 - INFO - Original row count: 95
+2025-04-27 14:32:00,880 - INFO - Fixed 50 Yoruba examples in scraped_data/csv/a/words_examples.csv
+2025-04-27 14:32:00,884 - INFO - Example Yoruba fix 1: 'Bá wo ni Jésù ṣe fi hà n pé Òfin Mósè ni à bá tifi òye à ti à ánú lò?' -> 'Bá wo ni Jésù ṣe fi hà n pé Òfin Mósè ni à bá tifi òye à ti à á nú lò?'
+2025-04-27 14:32:00,885 - INFO - Example Yoruba fix 2: 'Mo wá ní kó gbà yè ọjọ́ díẹ̀ níbi iṣẹ́ kó lè kà áparí.' -> 'Mo wá ní kó gbà yè ọjọ́ díẹ̀ níbi iṣẹ́ kó lè kà á parí.'
+2025-04-27 14:32:00,886 - INFO - Example Yoruba fix 3: 'Nígbà tí Rèbékà gbọ́, ẹ̀rù bà ágidigidi.' -> 'Nígbà tí Rèbékà gbọ́, ẹ̀rù bà á gidigidi.'
+2025-04-27 14:32:00,893 - INFO - Fixed 6 English examples in scraped_data/csv/a/words_examples.csv
+2025-04-27 14:32:00,894 - INFO - Example English fix 1: '1, 2. (a) How might manyofmankind'smistakes have been prevented?' -> '1, 2. (a) How might manyof mankind'smistakes have been prevented?'
+2025-04-27 14:32:00,895 - INFO - Example English fix 2: 'Moreover, Agrippa said to Festus: 'Thismancould have been released ifhe had not appealed to Caesar.'”' -> 'Moreover, Agrippa said to Festus: 'This man could have been released if he had not appealed to Caesar.'”'
+2025-04-27 14:32:00,895 - INFO - Example English fix 3: 'That is why Agrippa said to Festus: “Thismancould have been released ifhe had not appealed to Caesar.”—Acts 26:30-32.' -> 'That is why Agrippa said to Festus: “This man could have been released if he had not appealed to Caesar.”—Acts 26:30-32.'
+2025-04-27 14:32:00,898 - INFO - Removed 0 exact duplicate rows
+2025-04-27 14:32:00,898 - INFO - Total rows removed: 0 (95 rows remaining)
+2025-04-27 14:32:00,899 - INFO - Writing cleaned data back to scraped_data/csv/a/words_examples.csv
+2025-04-27 14:32:00,907 - INFO - Fix process complete!
+2025-04-27 14:32:15,527 - INFO - Processing specific file: scraped_data/csv/a/words_examples.csv
+2025-04-27 14:32:15,528 - INFO - Processing examples file: scraped_data/csv/a/words_examples.csv
+2025-04-27 14:32:15,528 - INFO - Reading file scraped_data/csv/a/words_examples.csv
+2025-04-27 14:32:15,546 - INFO - Columns in file: id, translation_id, word_id, yoruba_text, english_text, is_jw_reference, confidence, source, score
+2025-04-27 14:32:15,546 - INFO - Original row count: 95
+2025-04-27 14:32:15,550 - INFO - Fixed 0 Yoruba examples in scraped_data/csv/a/words_examples.csv
+2025-04-27 14:32:15,556 - INFO - Fixed 0 English examples in scraped_data/csv/a/words_examples.csv
+2025-04-27 14:32:15,559 - INFO - Removed 0 exact duplicate rows
+2025-04-27 14:32:15,560 - INFO - Total rows removed: 0 (95 rows remaining)
+2025-04-27 14:32:15,560 - INFO - Writing cleaned data back to scraped_data/csv/a/words_examples.csv
+2025-04-27 14:32:15,567 - INFO - Fix process complete!
+2025-04-27 14:33:17,372 - INFO - Processing specific file: scraped_data/csv/a/words_examples.csv
+2025-04-27 14:33:17,372 - INFO - Processing examples file: scraped_data/csv/a/words_examples.csv
+2025-04-27 14:33:17,375 - WARNING - Found 1 truncated lines in the file
+2025-04-27 14:33:17,377 - INFO - Attempted to fix truncated CSV format
+2025-04-27 14:33:17,378 - INFO - Reading file scraped_data/csv/a/words_examples.csv
+2025-04-27 14:33:17,398 - INFO - Columns in file: id, translation_id, word_id, yoruba_text, english_text, is_jw_reference, confidence, source, score
+2025-04-27 14:33:17,398 - INFO - Original row count: 95
+2025-04-27 14:33:17,402 - INFO - Fixed 0 Yoruba examples in scraped_data/csv/a/words_examples.csv
+2025-04-27 14:33:17,407 - INFO - Fixed 0 English examples in scraped_data/csv/a/words_examples.csv
+2025-04-27 14:33:17,410 - INFO - Removed 0 exact duplicate rows
+2025-04-27 14:33:17,410 - INFO - Total rows removed: 0 (95 rows remaining)
+2025-04-27 14:33:17,411 - INFO - Writing cleaned data back to scraped_data/csv/a/words_examples.csv
+2025-04-27 14:33:17,417 - INFO - Fix process complete!
+2025-04-27 14:39:49,360 - INFO - Processing directory: scraped_data
+2025-04-27 14:39:49,362 - INFO - Found 3 translations CSV files to process
+2025-04-27 14:39:49,362 - INFO - Found 3 examples CSV files to process
+2025-04-27 14:39:49,375 - INFO - Processing translations file: scraped_data\all_yoruba_words_translations.csv
+2025-04-27 14:39:49,395 - INFO - Created backup at scraped_data\all_yoruba_words_translations.csv.bak
+2025-04-27 14:39:49,395 - INFO - Reading file scraped_data\all_yoruba_words_translations.csv
+2025-04-27 14:39:49,403 - INFO - Columns in file: id, word_id, translation, part_of_speech, confidence
+2025-04-27 14:39:49,404 - INFO - Original row count: 562
+2025-04-27 14:39:49,433 - INFO - Example fix 2: 'we give thankswiki' -> 'we give thanks'
+2025-04-27 14:39:49,434 - INFO - Example fix 5: 'ask forverbGlosbeResearch' -> 'ask for'
+2025-04-27 14:39:49,436 - INFO - Fixed 306 translations in scraped_data\all_yoruba_words_translations.csv
+2025-04-27 14:39:49,439 - INFO - Removed 0 exact duplicate rows
+2025-04-27 14:39:49,442 - INFO - Removed 175 duplicate word/translation pairs
+2025-04-27 14:39:49,442 - INFO - Total rows removed: 175 (387 rows remaining)
+2025-04-27 14:39:49,442 - INFO - Writing cleaned data back to scraped_data\all_yoruba_words_translations.csv
+2025-04-27 14:39:49,452 - INFO - Processing translations file: scraped_data\csv\a\words_translations.csv
+2025-04-27 14:39:49,453 - INFO - Reading file scraped_data\csv\a\words_translations.csv
+2025-04-27 14:39:49,456 - INFO - Columns in file: id, word_id, translation, part_of_speech, confidence
+2025-04-27 14:39:49,456 - INFO - Original row count: 8
+2025-04-27 14:39:49,459 - INFO - Fixed 0 translations in scraped_data\csv\a\words_translations.csv
+2025-04-27 14:39:49,462 - INFO - Removed 0 exact duplicate rows
+2025-04-27 14:39:49,464 - INFO - Removed 0 duplicate word/translation pairs
+2025-04-27 14:39:49,464 - INFO - Total rows removed: 0 (8 rows remaining)
+2025-04-27 14:39:49,465 - INFO - Writing cleaned data back to scraped_data\csv\a\words_translations.csv
+2025-04-27 14:39:49,467 - INFO - Processing translations file: scraped_data\csv\b\b_translations.csv
+2025-04-27 14:39:49,473 - INFO - Created backup at scraped_data\csv\b\b_translations.csv.bak
+2025-04-27 14:39:49,474 - INFO - Reading file scraped_data\csv\b\b_translations.csv
+2025-04-27 14:39:49,479 - INFO - Columns in file: id, word_id, translation, part_of_speech, confidence
+2025-04-27 14:39:49,479 - INFO - Original row count: 549
+2025-04-27 14:39:49,502 - INFO - Example fix 3: 'ask forverbGlosbeResearch' -> 'ask for'
+2025-04-27 14:39:49,502 - INFO - Example fix 4: 'askverb(b) Àwọn ìbéèrè wo la lè bi ara wa nípa irú ẹ̀mí tí à ń fi hàn?(b) What questions might weaskourselves about the spirit we show?GlosbeResearch' -> 'ask'
+2025-04-27 14:39:49,503 - INFO - Example fix 5: 'bnoun(b) Irú iṣẹ́ ìsìn ọlọ́wọ̀ wo ni yóò mú ayọ̀ wá fún wa?(b) What kind of sacred service will bring us joy?wiki' -> 'Ir'
+2025-04-27 14:39:49,506 - INFO - Fixed 300 translations in scraped_data\csv\b\b_translations.csv
+2025-04-27 14:39:49,508 - INFO - Removed 0 exact duplicate rows
+2025-04-27 14:39:49,509 - INFO - Removed 173 duplicate word/translation pairs
+2025-04-27 14:39:49,510 - INFO - Total rows removed: 173 (376 rows remaining)
+2025-04-27 14:39:49,510 - INFO - Writing cleaned data back to scraped_data\csv\b\b_translations.csv
+2025-04-27 14:39:49,517 - INFO - Processing examples file: scraped_data\all_yoruba_words_examples.csv
+2025-04-27 14:39:49,532 - INFO - Created backup at scraped_data\all_yoruba_words_examples.csv.bak
+2025-04-27 14:39:49,553 - WARNING - Found 1 truncated lines in the file
+2025-04-27 14:39:49,571 - INFO - Attempted to fix truncated CSV format
+2025-04-27 14:39:49,571 - INFO - Reading file scraped_data\all_yoruba_words_examples.csv
+2025-04-27 14:39:49,606 - INFO - Columns in file: id, translation_id, word_id, yoruba_text, english_text, is_jw_reference, confidence, source, score
+2025-04-27 14:39:49,607 - INFO - Original row count: 1820
+2025-04-27 14:39:49,661 - INFO - Fixed 1571 Yoruba examples in scraped_data\all_yoruba_words_examples.csv
+2025-04-27 14:39:49,663 - INFO - Example Yoruba fix 1: '(b) Àwọn ìbéèrè wo la lè bi ara wa nípa irú ẹ̀mí tí à ń fi hàn?' -> '(b) À wọn ìbéèrè wo la lè bi ara wa nípa irú ẹ̀mí tí à ń fi hà n?'
+2025-04-27 14:39:49,664 - INFO - Example Yoruba fix 2: '(b) Báwo ni Jèhófà ṣe bù kún Hánà síwájú sí i?' -> '(b) Bá wo ni Jèhófà ṣe bù kún Há nà síwá jú sí i?'
+2025-04-27 14:39:49,664 - INFO - Example Yoruba fix 3: '(b) Kí ni ẹ̀jẹ́ tí Jèhófà ṣì máa san fún àwọn èèyàn rẹ̀?' -> '(b) Kí ni ẹ̀jẹ́ tí Jèhófà ṣì má a san fún à wọn èèyà n rẹ̀?'
+2025-04-27 14:39:49,733 - INFO - Fixed 474 English examples in scraped_data\all_yoruba_words_examples.csv
+2025-04-27 14:39:49,734 - INFO - Example English fix 1: 'YorubaEnglish' -> 'Yoruba English'
+2025-04-27 14:39:49,735 - INFO - Example English fix 2: '2 Then David and all the men with him set out forBaʹal·e-juʹdahto bring up from there the Ark of the true God,+ before which people call on the name of Jehovah of armies,+ who sits enthroned above* the cherubs.' -> '2 Then David and all the men with him set out for Baʹal·e-juʹdahto bring up from there the Ark of the true God,+ before which people call on the name of Jehovah of armies,+ who sits enthroned above* the cherubs.'
+2025-04-27 14:39:49,736 - INFO - Example English fix 3: '(1 Timothy 6:9) To help them avoid this “snare,” Jesus reminded his followers that their heavenlyFatherknew they needed all these things.' -> '(1 Timothy 6:9) To help them avoid this “snare,” Jesus reminded his followers that their heavenly Fatherknew they needed all these things.'
+2025-04-27 14:39:49,742 - INFO - Removed 0 exact duplicate rows
+2025-04-27 14:39:49,743 - INFO - Total rows removed: 0 (1820 rows remaining)
+2025-04-27 14:39:49,743 - INFO - Writing cleaned data back to scraped_data\all_yoruba_words_examples.csv
+2025-04-27 14:39:49,767 - INFO - Processing examples file: scraped_data\csv\a\words_examples.csv
+2025-04-27 14:39:49,769 - WARNING - Found 1 truncated lines in the file
+2025-04-27 14:39:49,772 - INFO - Attempted to fix truncated CSV format
+2025-04-27 14:39:49,773 - INFO - Reading file scraped_data\csv\a\words_examples.csv
+2025-04-27 14:39:49,787 - INFO - Columns in file: id, translation_id, word_id, yoruba_text, english_text, is_jw_reference, confidence, source, score
+2025-04-27 14:39:49,788 - INFO - Original row count: 95
+2025-04-27 14:39:49,793 - INFO - Fixed 0 Yoruba examples in scraped_data\csv\a\words_examples.csv
+2025-04-27 14:39:49,798 - INFO - Fixed 0 English examples in scraped_data\csv\a\words_examples.csv
+2025-04-27 14:39:49,800 - INFO - Removed 0 exact duplicate rows
+2025-04-27 14:39:49,800 - INFO - Total rows removed: 0 (95 rows remaining)
+2025-04-27 14:39:49,801 - INFO - Writing cleaned data back to scraped_data\csv\a\words_examples.csv
+2025-04-27 14:39:49,805 - INFO - Processing examples file: scraped_data\csv\b\b_examples.csv
+2025-04-27 14:39:49,810 - INFO - Created backup at scraped_data\csv\b\b_examples.csv.bak
+2025-04-27 14:39:49,827 - WARNING - Found 1 truncated lines in the file
+2025-04-27 14:39:49,843 - INFO - Attempted to fix truncated CSV format
+2025-04-27 14:39:49,844 - INFO - Reading file scraped_data\csv\b\b_examples.csv
+2025-04-27 14:39:49,874 - INFO - Columns in file: id, translation_id, word_id, yoruba_text, english_text, is_jw_reference, confidence, source, score
+2025-04-27 14:39:49,875 - INFO - Original row count: 1726
+2025-04-27 14:39:49,919 - INFO - Fixed 1483 Yoruba examples in scraped_data\csv\b\b_examples.csv
+2025-04-27 14:39:49,920 - INFO - Example Yoruba fix 1: '(b) Àwọn ìbéèrè wo la lè bi ara wa nípa irú ẹ̀mí tí à ń fi hàn?' -> '(b) À wọn ìbéèrè wo la lè bi ara wa nípa irú ẹ̀mí tí à ń fi hà n?'
+2025-04-27 14:39:49,921 - INFO - Example Yoruba fix 2: '(b) Báwo ni Jèhófà ṣe bù kún Hánà síwájú sí i?' -> '(b) Bá wo ni Jèhófà ṣe bù kún Há nà síwá jú sí i?'
+2025-04-27 14:39:49,922 - INFO - Example Yoruba fix 3: '(b) Kí ni ẹ̀jẹ́ tí Jèhófà ṣì máa san fún àwọn èèyàn rẹ̀?' -> '(b) Kí ni ẹ̀jẹ́ tí Jèhófà ṣì má a san fún à wọn èèyà n rẹ̀?'
+2025-04-27 14:39:49,983 - INFO - Fixed 457 English examples in scraped_data\csv\b\b_examples.csv
+2025-04-27 14:39:49,984 - INFO - Example English fix 1: 'YorubaEnglish' -> 'Yoruba English'
+2025-04-27 14:39:49,985 - INFO - Example English fix 2: '2 Then David and all the men with him set out forBaʹal·e-juʹdahto bring up from there the Ark of the true God,+ before which people call on the name of Jehovah of armies,+ who sits enthroned above* the cherubs.' -> '2 Then David and all the men with him set out for Baʹal·e-juʹdahto bring up from there the Ark of the true God,+ before which people call on the name of Jehovah of armies,+ who sits enthroned above* the cherubs.'
+2025-04-27 14:39:49,986 - INFO - Example English fix 3: '(1 Timothy 6:9) To help them avoid this “snare,” Jesus reminded his followers that their heavenlyFatherknew they needed all these things.' -> '(1 Timothy 6:9) To help them avoid this “snare,” Jesus reminded his followers that their heavenly Fatherknew they needed all these things.'
+2025-04-27 14:39:49,993 - INFO - Removed 0 exact duplicate rows
+2025-04-27 14:39:49,994 - INFO - Total rows removed: 0 (1726 rows remaining)
+2025-04-27 14:39:49,994 - INFO - Writing cleaned data back to scraped_data\csv\b\b_examples.csv
+2025-04-27 14:39:50,021 - INFO - Processed 6 files, fixed 4 files
+2025-04-27 14:39:50,021 - INFO - Fix process complete!
+2025-04-27 15:31:55,800 - INFO - Processing directory: scraped_data
+2025-04-27 15:31:55,802 - INFO - Found 2 translations CSV files to process
+2025-04-27 15:31:55,802 - INFO - Found 2 examples CSV files to process
+2025-04-27 15:31:55,814 - INFO - Processing translations file: scraped_data\all_yoruba_words_translations.csv
+2025-04-27 15:31:55,816 - INFO - Reading file scraped_data\all_yoruba_words_translations.csv
+2025-04-27 15:31:55,820 - INFO - Columns in file: id, word_id, translation, part_of_speech, confidence
+2025-04-27 15:31:55,821 - INFO - Original row count: 8
+2025-04-27 15:31:55,824 - INFO - Example fix 3: 'we would haveÀ bá tilò óWe would haveused it' -> 'b'
+2025-04-27 15:31:55,827 - INFO - Fixed 1 translations in scraped_data\all_yoruba_words_translations.csv
+2025-04-27 15:31:55,830 - INFO - Removed 0 exact duplicate rows
+2025-04-27 15:31:55,831 - INFO - Removed 0 duplicate word/translation pairs
+2025-04-27 15:31:55,832 - INFO - Total rows removed: 0 (8 rows remaining)
+2025-04-27 15:31:55,832 - INFO - Writing cleaned data back to scraped_data\all_yoruba_words_translations.csv
+2025-04-27 15:31:55,838 - INFO - Processing translations file: scraped_data\csv\a\words_translations.csv
+2025-04-27 15:31:55,839 - INFO - Reading file scraped_data\csv\a\words_translations.csv
+2025-04-27 15:31:55,841 - INFO - Columns in file: id, word_id, translation, part_of_speech, confidence
+2025-04-27 15:31:55,842 - INFO - Original row count: 8
+2025-04-27 15:31:55,843 - INFO - Example fix 3: 'we would haveÀ bá tilò óWe would haveused it' -> 'b'
+2025-04-27 15:31:55,844 - INFO - Fixed 1 translations in scraped_data\csv\a\words_translations.csv
+2025-04-27 15:31:55,845 - INFO - Removed 0 exact duplicate rows
+2025-04-27 15:31:55,847 - INFO - Removed 0 duplicate word/translation pairs
+2025-04-27 15:31:55,847 - INFO - Total rows removed: 0 (8 rows remaining)
+2025-04-27 15:31:55,847 - INFO - Writing cleaned data back to scraped_data\csv\a\words_translations.csv
+2025-04-27 15:31:55,851 - INFO - Processing examples file: scraped_data\all_yoruba_words_examples.csv
+2025-04-27 15:31:55,868 - WARNING - Found 1 truncated lines in the file
+2025-04-27 15:31:55,870 - INFO - Attempted to fix truncated CSV format
+2025-04-27 15:31:55,871 - INFO - Reading file scraped_data\all_yoruba_words_examples.csv
+2025-04-27 15:31:55,889 - INFO - Columns in file: id, translation_id, word_id, yoruba_text, english_text, is_jw_reference, confidence, source, score
+2025-04-27 15:31:55,890 - INFO - Original row count: 95
+2025-04-27 15:31:55,894 - INFO - Fixed 50 Yoruba examples in scraped_data\all_yoruba_words_examples.csv
+2025-04-27 15:31:55,896 - INFO - Example Yoruba fix 1: 'Bá wo ni Jésù ṣe fi hà n pé Òfin Mósè ni à bá ti fi òye à ti à ánú lò?' -> 'Bá wo ni Jésù ṣe fi hà n pé Òfin Mósè ni à bá ti fi òye à ti à á nú lò?'
+2025-04-27 15:31:55,897 - INFO - Example Yoruba fix 2: 'Mo wá ní kó gbà yè ọjọ́ díẹ̀ níbi iṣẹ́ kó lè kà áparí.' -> 'Mo wá ní kó gbà yè ọjọ́ díẹ̀ níbi iṣẹ́ kó lè kà á parí.'
+2025-04-27 15:31:55,897 - INFO - Example Yoruba fix 3: 'Nígbà tí Rèbékà gbọ́, ẹ̀rù bà ágidigidi.' -> 'Nígbà tí Rèbékà gbọ́, ẹ̀rù bà á gidigidi.'
+2025-04-27 15:31:55,906 - INFO - Fixed 0 English examples in scraped_data\all_yoruba_words_examples.csv
+2025-04-27 15:31:55,909 - INFO - Removed 0 exact duplicate rows
+2025-04-27 15:31:55,909 - INFO - Total rows removed: 0 (95 rows remaining)
+2025-04-27 15:31:55,910 - INFO - Writing cleaned data back to scraped_data\all_yoruba_words_examples.csv
+2025-04-27 15:31:55,914 - INFO - Processing examples file: scraped_data\csv\a\words_examples.csv
+2025-04-27 15:31:55,916 - WARNING - Found 1 truncated lines in the file
+2025-04-27 15:31:55,918 - INFO - Attempted to fix truncated CSV format
+2025-04-27 15:31:55,919 - INFO - Reading file scraped_data\csv\a\words_examples.csv
+2025-04-27 15:31:55,939 - INFO - Columns in file: id, translation_id, word_id, yoruba_text, english_text, is_jw_reference, confidence, source, score
+2025-04-27 15:31:55,939 - INFO - Original row count: 95
+2025-04-27 15:31:55,943 - INFO - Fixed 50 Yoruba examples in scraped_data\csv\a\words_examples.csv
+2025-04-27 15:31:55,944 - INFO - Example Yoruba fix 1: 'Bá wo ni Jésù ṣe fi hà n pé Òfin Mósè ni à bá ti fi òye à ti à ánú lò?' -> 'Bá wo ni Jésù ṣe fi hà n pé Òfin Mósè ni à bá ti fi òye à ti à á nú lò?'
+2025-04-27 15:31:55,944 - INFO - Example Yoruba fix 2: 'Mo wá ní kó gbà yè ọjọ́ díẹ̀ níbi iṣẹ́ kó lè kà áparí.' -> 'Mo wá ní kó gbà yè ọjọ́ díẹ̀ níbi iṣẹ́ kó lè kà á parí.'
+2025-04-27 15:31:55,945 - INFO - Example Yoruba fix 3: 'Nígbà tí Rèbékà gbọ́, ẹ̀rù bà ágidigidi.' -> 'Nígbà tí Rèbékà gbọ́, ẹ̀rù bà á gidigidi.'
+2025-04-27 15:31:55,952 - INFO - Fixed 0 English examples in scraped_data\csv\a\words_examples.csv
+2025-04-27 15:31:55,955 - INFO - Removed 0 exact duplicate rows
+2025-04-27 15:31:55,956 - INFO - Total rows removed: 0 (95 rows remaining)
+2025-04-27 15:31:55,956 - INFO - Writing cleaned data back to scraped_data\csv\a\words_examples.csv
+2025-04-27 15:31:55,961 - INFO - Processed 4 files, fixed 4 files
+2025-04-27 15:31:55,962 - INFO - Fix process complete!
