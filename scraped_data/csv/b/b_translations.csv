@@ -1,0 +1,316 @@
+id,word_id,translation,part_of_speech,confidence
+1,1,ask,verb,high
+2,1,ask for,verb,high
+3,1,ask for GlosbeResearch,verb,high
+4,2,maybe,adjective,high
+5,2,maybe GlosbeResearch,adjective,high
+6,2,perhaps,noun,high
+7,2,perhaps GlosbeResearch,adjective,high
+8,3,chief,adjective,high
+9,3,chief nounlocal chiefIfedayo H Ayeni,adjective,high
+10,4,boss,adjective,high
+11,4,boss GlosbeResearch,adjective,high
+12,4,dada,adjective,high
+13,4,ancestor,noun,medium
+14,4,forefather,noun,medium
+15,5,ancestor,noun,high
+16,6,forefather,noun,high
+17,7,ancestor,noun,high
+18,7,ancestral father,noun,high
+19,7,forefather,noun,high
+20,8,baghd,noun,high
+21,11,bacteria,noun,high
+22,11,bacterianoundomain of prokaryotes,noun,high
+23,12,bacteria,noun,high
+24,12,bacterianoundomain of prokaryotes,noun,high
+25,15,Balinese language,noun,high
+26,15,Balinese languagehttp-,noun,high
+27,16,army general,noun,high
+28,16,army generalnounbaba ológun,noun,high
+29,17,complete,adjective,high
+30,18,vanadium,noun,high
+31,20,bangladesh,noun,high
+32,21,Barack ObamaHeiNER - the,phrase,high
+33,22,bariumnounelement with the atomic number of 56,noun,high
+34,23,bariumnounelement with the atomic number of 56,noun,high
+35,24,Bauchi State,noun,medium
+36,27,how,adverb,high
+37,28,governor,noun,high
+38,28,governor Glosbe Research,noun,high
+39,28,mayor,noun,high
+40,28,overseer,noun,high
+41,28,overseer Glosbe Research,noun,high
+42,28,steward,noun,high
+43,28,steward Glosbe Research,noun,high
+44,29,governor,noun,high
+45,29,governor Glosbe Research,noun,high
+46,29,mayor,noun,high
+47,29,overseer,noun,high
+48,29,overseer Glosbe Research,noun,high
+49,29,steward,noun,high
+50,29,steward Glosbe Research,noun,high
+51,30,bcc abbreviation,verb,high
+52,31,that's it,noun,high
+53,31,that's itPhraseYemi,noun,high
+54,32,Peking,verb,high
+55,33,Peking,verb,high
+56,36,Kingdom of Belgium,phrase,high
+57,38,Republic of Benin,phrase,high
+58,38,Benin City,noun,medium
+59,38,Benin Empire,noun,medium
+60,39,Republic of Benin,phrase,high
+61,39,Benin City,noun,medium
+62,39,Benin Empire,noun,medium
+63,44,bern,noun,high
+64,47,bhutan,noun,high
+65,49,Thursday,noun,high
+66,50,question,verb,high
+67,50,question TraverseGPAware,verb,high
+68,53,to be angry,phrase,high
+69,55,silhouette,noun,high
+70,60,Blu-ray Disc HeiNER-the-,noun,high
+71,61,Blu-ray Disc HeiNER-the-,noun,high
+72,63,Bob Dylan HeiNER - the,noun,high
+73,64,Bob Marley HeiNER - the,noun,high
+74,66,bohrium,noun,high
+75,68,bolivianonouncurrency of Bolivia,noun,high
+76,71,overcome,verb,high
+77,75,brazil,noun,high
+78,76,Brazil,noun,high
+79,84,bite,verb,high
+80,84,bite Aláǹtakùnbuẹrankojẹ,verb,high
+81,91,awful,adjective,high
+82,91,awful TraverseGPAware,adjective,high
+83,91,be b,noun,high
+84,93,to,noun,high
+85,94,copper,adjective,high
+86,94,dadnounmasculineGlosbeResearch,adjective,high
+87,94,guinea corn,adjective,high
+88,95,copper,adjective,high
+89,96,copper,noun,high
+90,96,copper GlosbeResearch,noun,high
+91,97,copper,noun,high
+92,97,copper TraverseGPAware,noun,high
+93,98,daddy,noun,high
+94,98,father,noun,high
+95,98,grandfather,noun,medium
+96,98,old man,noun,medium
+97,98,uncle,noun,medium
+98,99,old man,noun,high
+99,100,father's father,noun,high
+100,100,grandfather,noun,high
+101,100,paternal grandfather,noun,high
+102,101,grand,noun,high
+103,101,grandfather,noun,high
+104,101,grandpa,noun,high
+105,102,grandfather,noun,high
+106,103,grandfather,noun,high
+107,104,forefather,noun,high
+108,105,Badagry,noun,high
+109,106,plane,noun,high
+110,106,plane Bàlúùń fò kọjáAplaneis flying past,noun,high
+111,107,bitter apple,noun,high
+112,107,melon,noun,high
+113,107,melon GlosbeResearch,noun,high
+114,108,boot,noun,high
+115,108,sandal,noun,high
+116,108,shoe,noun,high
+117,108,shoe size,noun,medium
+118,109,sneakers,noun,high
+119,109,trainers,noun,high
+120,110,loincloth,noun,high
+121,110,loincloth Wọ́n ń sánbàǹtẹ́They're wearingloincloth,noun,high
+122,111,accident,noun,high
+123,111,accidental,adjective,high
+124,111,befall,verb,high
+125,112,blame,noun,high
+126,112,blame TraverseGPAware,noun,high
+127,112,censure,verb,high
+128,112,censure TraverseGPAware,noun,high
+129,113,barber,verb,high
+130,114,likewise,adverb,high
+131,114,similarly,adverb,high
+132,115,bank,verb,high
+133,115,bank Owó rẹ̀ wà níbánkì.His money,verb,high
+134,115,check,noun,medium
+135,116,banner,noun,high
+136,116,flag,noun,high
+137,116,flag GlosbeResearch,noun,high
+138,117,habit,noun,high
+139,118,compatible,adjective,high
+140,119,barbados,verb,high
+141,120,bicycle,noun,high
+142,120,bicycle Wiktionnaire,noun,high
+143,120,bike,noun,high
+144,120,bike Wiktionnaire,noun,high
+145,120,cycle,noun,high
+146,120,cycle GlosbeResearch,noun,high
+147,121,pattern,noun,high
+148,121,desktop pattern,noun,medium
+149,122,desktop pattern,noun,high
+150,123,battery,noun,high
+151,123,battery life,noun,medium
+152,124,How do I,phrase,high
+153,126,scold,verb,high
+154,126,scold TraverseGPAware,verb,high
+155,127,byte,noun,high
+156,128,bank,noun,high
+157,128,cliff,noun,medium
+158,128,riverbank,noun,medium
+159,129,riverbank,noun,high
+160,130,cliff,noun,high
+161,130,cliff TraverseGPAware,noun,high
+162,131,demand,verb,high
+163,131,demand TraverseGPAware,verb,high
+164,132,vomit,verb,high
+165,133,eject,verb,high
+166,133,eject TraverseGPAware,verb,high
+167,134,as,conjunction,high
+168,134,cause,verb,high
+169,134,how,adverb,high
+170,135,Contact info,noun,high
+171,136,before you know it,phrase,high
+172,136,like play like play,phrase,high
+173,137,circular,adjective,high
+174,137,circular TraverseGPAware,adjective,high
+175,138,orange,adjective,high
+176,138,orange GlosbeResearch,adjective,high
+177,139,orange,adjective,high
+178,140,orange,adjective,high
+179,141,Bible,adjective,high
+180,142,bible,noun,high
+181,142,scripture,noun,high
+182,142,scripture GlTrav3,noun,high
+183,142,scripture TraverseGPAware,noun,high
+184,143,Bible,adjective,high
+185,143,scripture,noun,high
+186,143,scripture GlTrav3,noun,high
+187,143,scripture TraverseGPAware,noun,high
+188,144,bit,noun,high
+189,144,8-bit color,noun,medium
+190,144,bit rate,noun,medium
+191,144,bits per second,phrase,medium
+192,145,bolivia,noun,high
+193,146,botswana,noun,high
+194,146,Republic of Botswana,phrase,medium
+195,147,orange,adjective,high
+196,147,orange GlosbeResearch,adjective,high
+197,148,bolshevik,noun,high
+198,149,boson,noun,high
+199,150,master key,noun,high
+200,151,maybe,adverb,high
+201,151,perchance,adverb,high
+202,151,perchance GlosbeResearch,adverb,high
+203,151,perhaps,adverb,high
+204,151,whether,conjunction,high
+205,151,whether pro,adverb,high
+206,152,top,noun,high
+207,152,top Yoruba blouse,noun,high
+208,153,camp,noun,high
+209,153,campnoun TraverseGPAware,noun,high
+210,153,occupy,verb,high
+211,153,occupy TraverseGPAware,noun,high
+212,154,add,verb,high
+213,154,add TraverseGPAware,verb,high
+214,155,bulgaria,noun,high
+215,156,fine,verb,high
+216,156,fine TraverseGPAware,verb,high
+217,157,burundi,noun,high
+218,158,add,verb,high
+219,158,add TraverseGPAware,verb,high
+220,159,"evil, wickeden",noun,high
+221,159,cancer,noun,medium
+222,159,malignant,noun,medium
+223,160,bookmarklet,noun,high
+224,161,bullet,noun,high
+225,161,bullet character,noun,medium
+226,162,Blog,noun,high
+227,163,blog,verb,high
+228,164,bre,noun,high
+229,164,bakery,noun,medium
+230,165,cold boot,noun,high
+231,165,cold start,noun,high
+232,166,visit,verb,high
+233,166,visit Mobẹọ̀rẹ́ miwòIvisitedmy friend,verb,high
+234,167,belize,noun,high
+235,168,bermuda,noun,high
+236,169,begin,verb,high
+237,169,begin GlosbeResearch,verb,high
+238,169,commence,verb,high
+239,169,commence GlosbeResearch,verb,high
+240,169,embark,verb,high
+241,169,embark TraverseGPAware,verb,high
+242,169,Start Here,noun,medium
+243,170,Start Here,noun,high
+244,171,Belgium,noun,high
+245,172,belgium,noun,high
+246,173,berkelium,noun,high
+247,173,berkeliumnounelement with the atomic number of 97,noun,high
+248,174,it is not so,phrase,high
+249,174,no,noun,high
+250,175,it is so,phrase,high
+251,175,yes,verb,high
+252,176,likewise,adverb,high
+253,177,Be Right Back,phrase,high
+254,178,roasted plantain,noun,high
+255,179,butter,verb,high
+256,180,button,noun,high
+257,180,key,noun,high
+258,180,field button,noun,medium
+259,180,flyout anchor,noun,medium
+260,180,glassiness,verb,medium
+261,180,macro,noun,medium
+262,180,option button,noun,medium
+263,180,right mouse button,phrase,medium
+264,180,standard keyboard,noun,medium
+265,180,taskbar button,noun,medium
+266,181,flyout anchor,noun,high
+267,182,picture button,noun,high
+268,183,mouse button,noun,high
+269,183,left mouse button,phrase,medium
+270,183,primary mouse button,phrase,medium
+271,183,right mouse button,phrase,medium
+272,184,right mouse button,noun,high
+273,185,primary mouse button,phrase,high
+274,186,left mouse button,noun,high
+275,187,modifier key,noun,high
+276,188,tab set,noun,high
+277,189,menu button,noun,high
+278,190,Office Button,noun,high
+279,191,primary key,noun,high
+280,192,taskbar button,noun,high
+281,193,toolbar button,noun,high
+282,194,radio button,noun,high
+283,195,shortcut key,noun,high
+284,196,foreign key,noun,high
+285,197,default button,noun,high
+286,198,key sequence,noun,high
+287,199,key combination,noun,high
+288,200,field button,noun,high
+289,201,Control key,noun,high
+290,202,action button,noun,high
+291,203,product key,noun,high
+292,204,scroll arrow,noun,high
+293,204,scroll arrow button,phrase,high
+294,205,access key,noun,high
+295,206,toggle button,noun,high
+296,206,toggle buttonnounmasculine,noun,high
+297,206,toggle key,noun,high
+298,207,option button,noun,high
+299,208,push button,noun,high
+300,208,command button,noun,medium
+301,209,command button,noun,high
+302,210,baud,noun,high
+303,210,baud rate,noun,medium
+304,211,ball,verb,high
+305,211,ball Sérgio Domingues,verb,high
+306,211,basketball,noun,medium
+307,211,soccer pitch,noun,medium
+308,212,football,noun,high
+309,212,soccer,noun,high
+310,212,soccer pitch,noun,medium
+311,213,basketball,noun,high
+312,214,association football,noun,high
+313,214,football,noun,high
+314,214,football British gameen.wiktionary2016,noun,high
+315,214,soccer,noun,high

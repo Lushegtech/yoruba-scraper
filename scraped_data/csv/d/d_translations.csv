@@ -1,0 +1,226 @@
+id,word_id,translation,part_of_speech,confidence
+1,2,restore,verb,high
+2,4,goblet drum,noun,high
+3,8,new delhi,noun,medium
+4,10,Denzel WashingtonHeiNER - the,phrase,high
+5,11,deoxyribonucleic acid,noun,high
+6,12,Arrive into goodness,phrase,high
+7,13,Desmond Tutu HeiNER - the,noun,high
+8,16,become,verb,high
+9,17,pack,noun,high
+10,17,pack GlosbeResearch,noun,high
+11,18,hold,verb,high
+12,18,hold Diọwọ́ mimúHold my hand,verb,high
+13,19,de,adjective,high
+14,21,deaf,adjective,high
+15,22,djibouti,noun,high
+16,27,dolomitenouncarbonate mineral - CaMg2,noun,high
+17,28,dolomitenouncarbonate mineral - CaMg2,noun,high
+18,31,yoruba,noun,high
+19,36,property,verb,high
+20,36,property Ifedayo H Ayeni,verb,high
+21,37,dunun,noun,high
+22,40,dysprosiumnounelement with the atomic number of 66,noun,high
+23,41,dysprosiumnounelement with the atomic number of 66,noun,high
+24,42,pour,verb,high
+25,42,scatter,verb,high
+26,42,shed,verb,high
+27,43,damascus,verb,high
+28,44,damask,adjective,high
+29,45,merge,verb,high
+30,46,create,verb,high
+31,46,found,verb,high
+32,46,make,verb,high
+33,47,definite,adjective,high
+34,47,definite TraverseGPAware,adjective,high
+35,47,definitive,adjective,high
+36,47,definitive GlosbeResearch,adjective,high
+37,48,obviously,adverb,high
+38,49,faint,verb,high
+39,50,mute,verb,high
+40,51,test,verb,high
+41,52,cook,verb,high
+42,52,cookverbláti dá ináMò ńdáná.I'm cooking,verb,high
+43,53,fair,adjective,high
+44,53,fine,adjective,high
+45,53,good,adjective,high
+46,54,condone,verb,high
+47,54,condone GlosbeResearch,verb,high
+48,54,forgive,verb,high
+49,54,pardon,verb,high
+50,54,pardon TraverseGPAware,verb,high
+51,55,data,noun,high
+52,55,datanounfacts represented for handling,noun,high
+53,55,broadband network,noun,medium
+54,55,data bar,noun,medium
+55,55,data graphic,adjective,medium
+56,55,data integrity,noun,medium
+57,55,data processing,verb,medium
+58,55,data storage,noun,medium
+59,55,shape data,noun,medium
+60,56,danfo,noun,high
+61,57,abide,verb,high
+62,57,abide GlosbeResearch,verb,high
+63,57,await,verb,high
+64,57,expect,verb,high
+65,58,hijack,verb,high
+66,58,hijack GlosbeResearch,verb,high
+67,59,arrive,verb,high
+68,59,come about,verb,high
+69,59,come about Glosbe Research,verb,high
+70,59,happen,verb,high
+71,60,accurate,adjective,high
+72,60,accurate TraverseGPAware,adjective,high
+73,60,precision,noun,high
+74,60,precision TraverseGPAware,adjective,high
+75,60,regular,adjective,high
+76,60,regular TraverseGPAware,adjective,high
+77,60,symmetric,adjective,medium
+78,61,data,noun,high
+79,61,data label,noun,medium
+80,61,data source,noun,medium
+81,61,data table,adjective,medium
+82,61,data type,noun,medium
+83,61,device metadata package,phrase,medium
+84,61,dump,noun,medium
+85,61,external data,noun,medium
+86,62,report snapshot,noun,high
+87,63,database connection,noun,high
+88,64,source data,noun,high
+89,65,lost data,noun,high
+90,66,master user domain,phrase,high
+91,67,metadata,noun,high
+92,67,metadata Information about the,noun,high
+93,68,external data,noun,high
+94,68,external dataData that,phrase,high
+95,68,external data range,phrase,medium
+96,69,status date,noun,high
+97,70,last donation date,phrase,high
+98,71,start date,noun,high
+99,71,start dateThe date when a project or task,phrase,high
+100,72,finish date,noun,high
+101,72,finish dateThe date that a project or task,phrase,high
+102,73,expiration date,noun,high
+103,74,due date,noun,high
+104,75,exactly,adverb,high
+105,75,exactly GlosbeResearch,adverb,high
+106,75,Normal template,noun,medium
+107,76,bind,verb,high
+108,76,connect,verb,high
+109,76,fasten,verb,high
+110,76,fasten TraverseGPAware,verb,high
+111,77,maintain,verb,high
+112,77,maintain TraverseGPAware,verb,high
+113,78,rabies,noun,high
+114,78,rabiesnounviral disease medicina veterinaria,noun,high
+115,79,rabies,noun,high
+116,79,rabiesnounviral disease medicina veterinaria,noun,high
+117,80,a little,adverb,high
+118,80,a little GlosbeResearch,adverb,high
+119,80,rather,adjective,high
+120,80,some,adverb,high
+121,80,somewhat,adverb,high
+122,80,somewhat GlTrav3,adverb,high
+123,81,conducting,verb,high
+124,82,painful,adjective,high
+125,82,painful TraverseGPAware,adjective,high
+126,83,copying,noun,high
+127,84,glossy,adjective,high
+128,84,glossy TraverseGPAware,adjective,high
+129,84,smooth,adjective,high
+130,84,smooth IkedídánSmoothplastic,adjective,high
+131,84,marble,noun,medium
+132,85,beauty,noun,high
+133,85,beauty TraverseGPAware,noun,high
+134,85,elegant,adjective,high
+135,85,elegant TraverseGPAware,noun,high
+136,85,scenic,adjective,medium
+137,86,gorgeous,adjective,high
+138,86,gorgeous TraverseGPAware,adjective,high
+139,87,elegant,adjective,high
+140,87,elegant TraverseGPAware,adjective,high
+141,87,tasty,adjective,high
+142,87,arthritis,verb,medium
+143,87,rose,noun,medium
+144,88,dirty,adjective,high
+145,88,dirty Aṣọdídọ̀tíDirtyclothes,adjective,high
+146,89,glass,noun,high
+147,89,lens,noun,high
+148,89,lens TraverseGPAware,noun,high
+149,89,looking-glass,noun,high
+150,89,looking-glass GlosbeResearch,noun,high
+151,89,glasses,verb,medium
+152,90,glasses,noun,high
+153,90,glasses TraverseGPAware,noun,high
+154,91,glass,noun,high
+155,91,glass TraverseGPAware,noun,high
+156,92,digital,adjective,high
+157,92,high-density multichip interconnect,phrase,medium
+158,92,stream,noun,medium
+159,93,binary digit,noun,high
+160,94,bake,verb,high
+161,95,looking-glass,noun,high
+162,95,mirror,noun,high
+163,96,fall,verb,high
+164,96,fall TraverseGPAware,verb,high
+165,97,inste of,noun,high
+166,97,inste ofadposition,noun,high
+167,97,rather than,conjunction,high
+168,97,rather than adposition,phrase,high
+169,97,versus,verb,high
+170,97,versusadpositionTraverseGPAware,noun,high
+171,98,diamond,noun,high
+172,98,diamond nounallotrope of carbon,adjective,high
+173,99,diamond,adjective,high
+174,99,diamond nounallotrope of carbon,adjective,high
+175,100,fried plantain,noun,high
+176,101,dominica,noun,high
+177,102,camp,verb,high
+178,103,doctor,verb,high
+179,104,doughnut,noun,high
+180,104,doughnut Mo fẹ́ jẹdónọ́ọ̀tìI want to eat adoughnut,noun,high
+181,105,fine,adjective,high
+182,105,nice,adjective,high
+183,105,pleasant,adjective,high
+184,106,delicious,adjective,high
+185,106,delicious TraverseGPAware,adjective,high
+186,107,fried yam,noun,high
+187,107,fried yam Mo fẹ́ díndùndúI want to makefried yam,noun,high
+188,108,keyboard,noun,high
+189,108,keyboard TraverseGPAware,noun,high
+190,108,chord,noun,medium
+191,109,black,adjective,high
+192,109,blacken,adjective,high
+193,109,dark,noun,high
+194,109,green,noun,high
+195,109,black people,noun,medium
+196,109,black sea,noun,medium
+197,110,asset,noun,high
+198,110,reserve,noun,high
+199,110,reserve GlTrav3,noun,high
+200,111,building block,noun,high
+201,111,Building Blocks Organizer,phrase,medium
+202,112,stand,verb,high
+203,112,stay,verb,high
+204,112,stop,verb,high
+205,112,a gba ọ̀rọ̀ àkọsílẹ̀ dúró · note container,phrase,medium
+206,112,breakpoint,noun,medium
+207,112,freeze,noun,medium
+208,112,obstruct,noun,medium
+209,112,pause,noun,medium
+210,112,wait,noun,medium
+211,113,pause,verb,high
+212,114,freeze,verb,high
+213,115,wait,verb,high
+214,115,wait TraverseGPAware,verb,high
+215,116,check out,verb,high
+216,117,Denmark,noun,high
+217,117,Denmarken,noun,high
+218,118,denmark,noun,high
+219,118,Denmarken,noun,high
+220,119,dollar,noun,high
+221,119,dollarnounname of many currencies,noun,high
+222,119,dollar sign,noun,medium
+223,120,dollar,noun,high
+224,120,dollarnounname of many currencies,noun,high
+225,120,dollar sign,noun,medium

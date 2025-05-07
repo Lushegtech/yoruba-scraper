@@ -6,6 +6,7 @@ import sys
 import re
 import logging
 import types
+import argparse
 
 # Set up our own fix_yoruba_spacing and fix_english_spacing functions
 def _fix_yoruba_spacing_impl(self, text):
@@ -90,8 +91,8 @@ def monkey_patch_extractor():
     
     return True
 
-# Main function
-if __name__ == "__main__":
+def run_scraper_with_alphabet(start_alphabet=None, end_alphabet=None):
+    """Run the scraper with optional start and end alphabet filters"""
     # Add our spacing fix methods to the ExampleSentenceExtractor class
     monkey_patch_extractor()
     
@@ -101,5 +102,102 @@ if __name__ == "__main__":
     # Create a scraper instance
     scraper = GlosbeYorubaScraper()
     
-    # Run the scraper
-    scraper.run() 
+    # Get the word files 
+    word_files = scraper.get_word_files()
+    
+    # If no alphabets specified, process all
+    if not word_files:
+        print("No word files found.")
+        return
+        
+    # Filter alphabets if specified
+    if start_alphabet:
+        # Confirm start_alphabet exists
+        if start_alphabet not in word_files:
+            print(f"Start alphabet '{start_alphabet}' not found in word files.")
+            print(f"Available alphabets: {', '.join(sorted(word_files.keys()))}")
+            return
+            
+    if end_alphabet:
+        # Confirm end_alphabet exists
+        if end_alphabet not in word_files:
+            print(f"End alphabet '{end_alphabet}' not found in word files.")
+            print(f"Available alphabets: {', '.join(sorted(word_files.keys()))}")
+            return
+            
+    # Sort alphabets to process them in order
+    alphabet_keys = sorted(word_files.keys())
+    
+    # Filter the alphabets to process based on start and end
+    filtered_alphabets = {}
+    processing = False if start_alphabet else True
+    
+    for alpha in alphabet_keys:
+        # Start processing when we reach start_alphabet
+        if alpha == start_alphabet:
+            processing = True
+        
+        # Add this alphabet if we're in processing mode
+        if processing:
+            filtered_alphabets[alpha] = word_files[alpha]
+        
+        # Stop after processing end_alphabet
+        if alpha == end_alphabet:
+            processing = False
+            
+    # Display which alphabets will be processed
+    print(f"Will process alphabets: {', '.join(sorted(filtered_alphabets.keys()))}")
+    
+    # Now process only the selected alphabets
+    total_words = 0
+    total_processed = 0
+    total_failed = 0
+    
+    for alphabet, files in filtered_alphabets.items():
+        print(f"Processing alphabet: {alphabet}")
+        alphabet_folder = os.path.join(scraper.json_folder, alphabet)
+        os.makedirs(alphabet_folder, exist_ok=True)
+        
+        alphabet_csv_folder = os.path.join(scraper.csv_folder, alphabet)
+        os.makedirs(alphabet_csv_folder, exist_ok=True)
+        
+        for word_file in files:
+            result = scraper.process_file(word_file, alphabet)
+            if result:
+                total_words += result
+                total_processed += result
+                
+    print(f"Completed processing {len(filtered_alphabets)} alphabets")
+    print(f"Total words: {total_words}")
+    print(f"Successfully processed: {total_processed}")
+    print(f"Failed: {total_failed}")
+    
+    # Generate combined CSV
+    scraper.generate_combined_csv()
+    
+    return {
+        "total_words": total_words,
+        "processed": total_processed,
+        "failed": total_failed
+    }
+
+# Main function
+if __name__ == "__main__":
+    # Set up argument parser
+    parser = argparse.ArgumentParser(description='Run the Yoruba Scraper with specific alphabet ranges')
+    parser.add_argument('--start', help='Alphabet to start processing from (e.g., "a")')
+    parser.add_argument('--end', help='Alphabet to end processing at (inclusive)')
+    parser.add_argument('--alphabet', help='Process only a single alphabet')
+    
+    args = parser.parse_args()
+    
+    # If single alphabet is specified, use it for both start and end
+    if args.alphabet:
+        start_alphabet = args.alphabet
+        end_alphabet = args.alphabet
+    else:
+        start_alphabet = args.start
+        end_alphabet = args.end
+    
+    # Run the scraper with the specified alphabets
+    run_scraper_with_alphabet(start_alphabet, end_alphabet) 
