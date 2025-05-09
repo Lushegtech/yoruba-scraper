@@ -1,0 +1,283 @@
+id,word_id,translation,part_of_speech,confidence
+1,2,I will,noun,high
+2,3,call,verb,high
+3,3,call TraverseGPAware,verb,high
+4,4,Nigeria,noun,high
+5,4,Local Government Areas of Nigeria,phrase,medium
+6,4,Nigerian Civil War,phrase,medium
+7,4,President of Nigeria,phrase,medium
+8,4,States of Nigeria,phrase,medium
+9,5,Nigeria,noun,high
+10,11,Nelson Mandela HeiNER - the,noun,high
+11,13,neon nounelement with the atomic number of 10,adjective,high
+12,16,brain,verb,high
+13,16,brain Mallow82,verb,high
+14,24,water,verb,high
+15,24,water Mohamm Omar,verb,high
+16,24,Niger River,noun,medium
+17,24,Niger State,noun,medium
+18,26,nicaragua,noun,high
+19,30,entity,noun,high
+20,30,entitynounsomething that exists,noun,high
+21,30,adhesive,adjective,medium
+22,30,edge,noun,medium
+23,30,fictional entity,noun,medium
+24,30,forlone,noun,medium
+25,31,fictional entity,noun,high
+26,32,sack,noun,high
+27,32,sack GlTrav3,noun,high
+28,33,Nnamdi AzikiweHeiNER - the,phrase,high
+29,35,number,noun,high
+30,38,wipe,verb,high
+31,39,beat,verb,high
+32,39,reach,verb,high
+33,39,whip,verb,high
+34,40,namibia,noun,high
+35,41,nigeria,noun,high
+36,41,Federal Republic of Nigeria,phrase,medium
+37,41,Nigerian Civil War,phrase,medium
+38,42,Nigeria,noun,high
+39,42,Federal Republic of Nigeria,phrase,medium
+40,42,Nigerian Civil War,phrase,medium
+41,43,Niger,noun,high
+42,43,Niger River,noun,medium
+43,44,niger,noun,high
+44,44,Niger River,noun,medium
+45,45,alone,adjective,high
+46,45,only,adverb,high
+47,46,optical,adjective,high
+48,46,optical TraverseGPAware,adjective,high
+49,47,at,noun,high
+50,47,have,verb,high
+51,47,have Moníológbò méjì.Ihavetwo cats.TraverseGPAware,phrase,high
+52,47,in,noun,high
+53,48,has part,noun,high
+54,49,false,adjective,high
+55,49,false TraverseGPAware,adjective,high
+56,49,phoney,adjective,high
+57,49,phoney TraverseGPAware,adjective,high
+58,50,passionate,adjective,high
+59,50,passionate TraverseGPAware,adjective,high
+60,51,sandy,adjective,high
+61,51,sandy TraverseGPAware,adjective,high
+62,52,partial,adjective,high
+63,52,partial TraverseGPAware,adjective,high
+64,53,malignant,adjective,high
+65,53,malignant TraverseGPAware,adjective,high
+66,54,chiefly,adjective,high
+67,54,chiefly TraverseGPAware,adjective,high
+68,54,mainly,adverb,high
+69,54,mainly TraverseGPAware,adjective,high
+70,54,particularly,adverb,high
+71,55,chaotic,adjective,high
+72,55,chaotic TraverseGPAware,adjective,high
+73,56,patient,adjective,high
+74,57,northern,adjective,high
+75,57,northern TraverseGPAware,adjective,high
+76,58,in society,noun,high
+77,59,color,adjective,high
+78,59,color nounvisual perception of light wavelengths,adjective,high
+79,60,at the start of the year,phrase,high
+80,61,while,verb,high
+81,62,dangerous,adjective,high
+82,62,dangerous GlosbeResearch,adjective,high
+83,63,malignant,adjective,high
+84,63,malignant TraverseGPAware,adjective,high
+85,64,malignant,adjective,high
+86,64,malignant TraverseGPAware,adjective,high
+87,65,questionable,adjective,high
+88,65,questionable TraverseGPAware,adjective,high
+89,66,at the end of the year,phrase,high
+90,67,need,verb,high
+91,68,across,verb,high
+92,68,acrossadpositionTraverseGPAware,noun,high
+93,70,noticeable,adjective,high
+94,70,noticeable GlosbeResearch,adjective,high
+95,72,openly,adverb,high
+96,72,openly TraverseGPAware,adverb,high
+97,73,once,adverb,high
+98,74,at the time that,phrase,high
+99,74,when,noun,high
+100,75,when,noun,high
+101,76,when,noun,high
+102,77,youthful,adjective,high
+103,78,at the time that,phrase,high
+104,80,bare,adjective,high
+105,80,bare TraverseGPAware,adjective,high
+106,80,naked,adjective,high
+107,80,naked TraverseGPAware,adjective,high
+108,81,three days ago,phrase,high
+109,82,on the day before yesterday,phrase,high
+110,82,two days ago,phrase,high
+111,83,savage,adjective,high
+112,83,savage TraverseGPAware,adjective,high
+113,84,hazy,adjective,high
+114,84,hazy TraverseGPAware,adjective,high
+115,85,healthy,adjective,high
+116,85,healthy TraverseGPAware,adjective,high
+117,86,occasionally,adverb,high
+118,86,occasionally TraverseGPAware,adverb,high
+119,87,nile,noun,high
+120,88,kind,adjective,high
+121,88,kind TraverseGPAware,adjective,high
+122,89,About,noun,high
+123,89,by,noun,high
+124,89,of,noun,high
+125,89,through,noun,high
+126,89,citizenship,noun,medium
+127,89,fanatic,adjective,medium
+128,89,marine biologist,noun,medium
+129,90,About,noun,high
+130,91,citizenship,noun,high
+131,91,citizenship GlosbeResearch,noun,high
+132,92,about,noun,high
+133,93,harmful,adjective,high
+134,93,harmful TraverseGPAware,adjective,high
+135,94,able,adjective,high
+136,94,able GlosbeResearch,adjective,high
+137,94,valid,adjective,high
+138,94,valid TraverseGPAware,adjective,high
+139,95,bold,noun,high
+140,96,obscene,adjective,high
+141,96,obscene TraverseGPAware,adjective,high
+142,97,get,verb,high
+143,97,get TraverseGPAware,verb,high
+144,98,painful,adjective,high
+145,98,painful TraverseGPAware,adjective,high
+146,99,fantastic,adjective,high
+147,99,fantastic TraverseGPAware,adjective,high
+148,100,easily,adverb,high
+149,100,easily Without difficulty.MicrosoftLanguagePortal,adverb,high
+150,100,Ease Out,noun,medium
+151,101,just,adverb,high
+152,101,just TraverseGPAware,adverb,high
+153,102,below,adverb,high
+154,103,quickly,adverb,high
+155,103,quickly TraverseGPAware,adverb,high
+156,104,active,adjective,high
+157,104,active TraverseGPAware,adjective,high
+158,104,eager,adjective,high
+159,104,passionate,adjective,high
+160,105,of,noun,high
+161,106,because,conjunction,high
+162,106,because of this,phrase,medium
+163,106,racist,noun,medium
+164,106,so,noun,medium
+165,107,so,adjective,high
+166,107,so pro Nítorí náàta ni ọba àríwá nísinsìnyí?Sowho,adjective,high
+167,108,because of this,phrase,high
+168,109,because,conjunction,high
+169,109,because TraverseGPAware,conjunction,high
+170,110,nitrogen,noun,high
+171,110,nitrogennounelement with the atomic number of 7,noun,high
+172,111,nitrogen,noun,high
+173,111,nitrogennounelement with the atomic number of 7,noun,high
+174,112,bashful,adjective,high
+175,112,bashful TraverseGPAware,adjective,high
+176,113,about,noun,high
+177,113,adjacent,adjective,high
+178,113,near,adjective,high
+179,113,next,adverb,high
+180,114,ahe,adverb,high
+181,114,before,noun,high
+182,114,by,noun,high
+183,114,followed by,adverb,high
+184,115,eager,adjective,high
+185,115,eager TraverseGPAware,adjective,high
+186,116,just,adverb,high
+187,116,just TraverseGPAware,adverb,high
+188,117,numerical,adjective,high
+189,118,doubtful,adjective,high
+190,118,doubtful TraverseGPAware,adjective,high
+191,118,uncertain,adjective,high
+192,118,uncertain TraverseGPAware,adjective,high
+193,119,notable,adjective,high
+194,119,notable TraverseGPAware,adjective,high
+195,120,system rating,verb,high
+196,121,cancel,verb,high
+197,121,cancel TraverseGPAware,verb,high
+198,122,atomic core,noun,high
+199,122,atomic nucleus,noun,high
+200,122,nucleus,verb,high
+201,123,atomic core,noun,high
+202,123,atomic nucleus,verb,high
+203,123,nucleus,verb,high
+204,124,something,adjective,high
+205,124,something pro,adjective,high
+206,124,thing,adjective,high
+207,124,Accessibility Wizard,noun,medium
+208,124,drawing object,noun,medium
+209,124,make hay while the sun shine,phrase,medium
+210,124,Mark as Final,phrase,medium
+211,124,reading pane,noun,medium
+212,124,Reading View,noun,medium
+213,124,to-do,noun,medium
+214,125,to-do,noun,high
+215,125,to-do MicrosoftLanguagePortal,noun,high
+216,126,menstruation,noun,high
+217,126,period,noun,high
+218,127,drawing object,noun,high
+219,128,network,verb,high
+220,128,network Adekunle David Gbenro,verb,high
+221,129,netherlands,verb,high
+222,130,neptunium,noun,high
+223,131,neptune,noun,high
+224,132,Neptune,noun,high
+225,133,number,noun,high
+226,133,complex number,noun,medium
+227,133,irrational number,noun,medium
+228,133,natural number,noun,medium
+229,133,negative number,noun,medium
+230,133,parity,noun,medium
+231,133,real number,noun,medium
+232,133,square,noun,medium
+233,134,parity,noun,high
+234,135,parity,noun,high
+235,136,irrational number,noun,high
+236,137,negative number,noun,high
+237,138,real number,noun,high
+238,138,real numbernounquantity along a continuous line,noun,high
+239,139,real number,noun,high
+240,139,real numbernounquantity along a continuous line,noun,high
+241,140,integer,noun,high
+242,140,whole number,noun,high
+243,141,integer,noun,high
+244,141,whole number,noun,high
+245,142,square,adjective,high
+246,143,rational number,noun,high
+247,144,imaginary number,noun,high
+248,145,imaginary number,noun,high
+249,146,complex number,noun,high
+250,147,natural number,noun,high
+251,148,natural number,noun,high
+252,149,prime number,noun,high
+253,150,prime number,noun,high
+254,151,algebraic number,noun,high
+255,151,algebraic numbernouncomplex number that,noun,high
+256,152,atomic number,noun,high
+257,153,atomic number,noun,high
+258,154,Norway,noun,high
+259,155,norway,noun,high
+260,156,ordinal number,noun,high
+261,157,serial number,noun,high
+262,158,personal identification number,noun,high
+263,159,integer,noun,high
+264,160,complex number,noun,high
+265,161,week number,noun,high
+266,162,nurse,verb,high
+267,163,Busy,noun,high
+268,163,busy Pertaining to time when a person,adjective,high
+269,164,busy,adjective,high
+270,164,busy Pertaining to time when a person,adjective,high
+271,165,Exploding,verb,high
+272,166,big,adjective,high
+273,166,great,adjective,high
+274,166,high,adjective,high
+275,166,capitalization,noun,medium
+276,166,enterprise,noun,medium
+277,166,forefather,noun,medium
+278,166,large organization,noun,medium
+279,166,small caps,verb,medium
+280,166,uppercase,noun,medium
+281,167,I would have,phrase,high
+282,168,hello,verb,high

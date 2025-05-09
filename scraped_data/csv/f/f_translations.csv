@@ -1,0 +1,305 @@
+id,word_id,translation,part_of_speech,confidence
+1,1,love,verb,high
+2,1,love GlosbeResearch,verb,high
+3,2,pull,verb,high
+4,2,pull Máfairun mi.Don'tpullmy hair,verb,high
+5,3,s TraverseGPAware,adjective,high
+6,5,obvious,adjective,high
+7,5,obvious TraverseGPAware,adjective,high
+8,6,France,noun,high
+9,6,French,noun,medium
+10,7,cache,noun,high
+11,7,hidden,noun,medium
+12,8,Oko,noun,high
+13,10,Fela KutiHeiNER - the,phrase,high
+14,12,Vermont,noun,high
+15,13,seize,verb,high
+16,13,seize GlTrav3,verb,high
+17,14,lick,verb,high
+18,15,seal,verb,high
+19,16,kiss,verb,high
+20,16,kiss GlosbeResearch,verb,high
+21,17,grant,verb,high
+22,17,grant TraverseGPAware,verb,high
+23,17,present,verb,high
+24,18,grant,verb,high
+25,18,grant TraverseGPAware,verb,high
+26,19,join,verb,high
+27,19,join TraverseGPAware,verb,high
+28,20,ratify,verb,high
+29,20,ratify TraverseGPAware,verb,high
+30,21,rub,verb,high
+31,21,rub MofiòríparaIrubbedmy body with shea butter,verb,high
+32,22,put,verb,high
+33,22,putverbẸfiatasínú oúnjẹPutpepper in the food,verb,high
+34,23,leave,verb,high
+35,23,"leave Jọ̀ọ́,fimísílẹ̀Please,leaveme",verb,high
+36,24,compare,verb,high
+37,25,endanger,verb,high
+38,25,endanger GlosbeResearch,verb,high
+39,26,cross hatch,noun,high
+40,26,hatch,noun,high
+41,27,Broadcast Slide Show,phrase,high
+42,28,send,verb,high
+43,29,ban,verb,high
+44,29,ban TraverseGPAware,verb,high
+45,30,reach,verb,high
+46,31,add,verb,high
+47,31,add TraverseGPAware,verb,high
+48,32,embed,verb,high
+49,33,patent,verb,high
+50,33,patent TraverseGPAware,verb,high
+51,34,movie,noun,high
+52,34,movienounmotion pictureen,noun,high
+53,35,add,verb,high
+54,35,add TraverseGPAware,verb,high
+55,36,Philippines,verb,high
+56,37,philippines,verb,high
+57,39,rape,verb,high
+58,40,pin,verb,high
+59,41,accuse,verb,high
+60,41,accuse TraverseGPAware,verb,high
+61,44,fluorine,noun,high
+62,45,fluorine,noun,high
+63,47,eka-le,noun,high
+64,47,flerovium,noun,high
+65,47,ununquadium,noun,high
+66,48,imagine,verb,high
+67,49,sign up,verb,high
+68,51,France,noun,high
+69,52,france,noun,high
+70,53,France,noun,high
+71,54,francium,noun,high
+72,54,franciumnounelement with the atomic number of 87,noun,high
+73,55,headache,noun,high
+74,55,headache GlosbeResearch,noun,high
+75,58,black,adjective,high
+76,58,black Swadesh Lists,adjective,high
+77,58,blank,noun,high
+78,58,blank GlosbeResearch,adjective,high
+79,58,pure,noun,high
+80,58,whiteen,adjective,high
+81,58,trapping,verb,medium
+82,58,white,noun,medium
+83,58,White and Red jathropha leaves,phrase,medium
+84,58,white as a bundle of cotton wool,phrase,medium
+85,59,white as a bundle of cotton wool,phrase,high
+86,59,white as a bundle of cotton woolsimile,phrase,high
+87,61,silver,adjective,high
+88,61,silverware,noun,high
+89,61,silverware Glosbe Research,noun,high
+90,62,silver,noun,high
+91,62,silverware,noun,high
+92,62,silverware Glosbe Research,noun,high
+93,63,mercury,noun,high
+94,64,absorben,noun,high
+95,65,tear,verb,high
+96,65,tear TraverseGPAware,verb,high
+97,66,enjoyment,noun,high
+98,66,enjoyment GlosbeResearch,noun,high
+99,66,entertainment,noun,high
+100,66,pastime,noun,high
+101,66,pastime TraverseGPAware,noun,high
+102,66,hiker,noun,medium
+103,67,enjoyment,noun,high
+104,67,enjoyment GlosbeResearch,noun,high
+105,67,entertainment,noun,high
+106,67,pastime,noun,high
+107,67,pastime TraverseGPAware,noun,high
+108,67,hiker,noun,medium
+109,68,pharaoh,noun,high
+110,69,barber,noun,high
+111,69,barber TraverseGPAware,noun,high
+112,70,vowel,noun,high
+113,70,nasal vowel,noun,medium
+114,70,oral vowel,noun,medium
+115,71,nasal vowel,noun,high
+116,72,oral vowel,noun,high
+117,73,parade,noun,high
+118,73,parade TraverseGPAware,noun,high
+119,74,data connection file,phrase,high
+120,74,file,noun,high
+121,74,backup file,noun,medium
+122,74,file name extension,phrase,medium
+123,74,file system,noun,medium
+124,74,form definition file,phrase,medium
+125,74,project file,noun,medium
+126,74,test file,noun,medium
+127,74,uplo,noun,medium
+128,75,binary file,noun,high
+129,76,concordance file,noun,high
+130,77,form definition file,phrase,high
+131,78,Office data connection file,phrase,high
+132,79,default data file,phrase,high
+133,80,project file,noun,high
+134,81,readme file,noun,high
+135,82,media file,noun,high
+136,83,page file,noun,high
+137,83,pagefile,noun,high
+138,84,source file,noun,high
+139,85,log file,noun,high
+140,86,test file,noun,high
+141,87,destination file,noun,high
+142,88,subscription file,noun,high
+143,89,swap file,noun,high
+144,90,backup file,noun,high
+145,91,balloon,noun,high
+146,91,markup balloon,noun,medium
+147,91,tattoo,noun,medium
+148,92,tattoo,noun,high
+149,92,tattoo TraverseGPAware,noun,high
+150,93,markup balloon,noun,high
+151,94,counter,noun,high
+152,94,counter TraverseGPAware,noun,high
+153,94,window,noun,high
+154,94,window glass,verb,medium
+155,95,window,noun,high
+156,96,answer,verb,high
+157,96,react,verb,high
+158,96,reply,verb,high
+159,96,respond,verb,high
+160,97,frame,noun,high
+161,98,frame,noun,high
+162,98,bound object frame,phrase,medium
+163,98,text frame,noun,medium
+164,98,unbound object frame,phrase,medium
+165,99,unbound object frame,phrase,high
+166,100,bound object frame,phrase,high
+167,101,text frame,noun,high
+168,102,bonnet,noun,high
+169,102,bonnet GlosbeResearch,noun,high
+170,102,cap,noun,high
+171,102,cap TraverseGPAware,noun,high
+172,102,hat,noun,high
+173,102,abeti aja cap,phrase,medium
+174,103,abeti aja cap,noun,high
+175,105,candle,noun,high
+176,105,candle TraverseGPAware,noun,high
+177,105,lamp,noun,high
+178,105,light,noun,high
+179,105,light GlosbeResearch,noun,high
+180,106,Video Left,noun,high
+181,107,digital video,noun,high
+182,108,embedded video clip,phrase,high
+183,109,Import Video,noun,high
+184,110,caching,verb,high
+185,111,uplo,verb,high
+186,112,text wrapping,verb,high
+187,113,neat,adjective,high
+188,113,neat TraverseGPAware,adjective,high
+189,114,stretch,verb,high
+190,114,bandwidth,noun,medium
+191,114,broadband,noun,medium
+192,114,broadband connection,noun,medium
+193,114,broadband network,noun,medium
+194,115,bandwidth,noun,high
+195,116,Fiji,noun,high
+196,117,finland,noun,high
+197,118,Finland,noun,high
+198,119,physics,noun,high
+199,120,physics,noun,high
+200,121,physics,noun,high
+201,123,fade,verb,high
+202,123,fade TraverseGPAware,verb,high
+203,123,jump,verb,high
+204,123,leap,verb,high
+205,124,folder,noun,high
+206,124,folder home page,phrase,medium
+207,124,Folder List,noun,medium
+208,124,root folder,noun,medium
+209,124,shared folder,noun,medium
+210,124,Synced folder,noun,medium
+211,124,Web Folders,verb,medium
+212,125,shared folder,noun,high
+213,126,Synced folder,noun,high
+214,127,synced folder,noun,high
+215,128,Web Folders,verb,high
+216,129,root folder,noun,high
+217,130,digital photo,noun,high
+218,131,phone,verb,high
+219,131,phone screen,noun,medium
+220,132,cell phone,noun,high
+221,132,cellular phone,noun,high
+222,132,mobile phone,noun,high
+223,133,afford,verb,high
+224,133,for,preposition,high
+225,133,give,verb,high
+226,133,sewen,verb,high
+227,133,accessible,adjective,medium
+228,133,allow,noun,medium
+229,133,American Standard Code for Information Interchange,phrase,medium
+230,133,data storage,noun,medium
+231,133,male given name,phrase,medium
+232,133,pattern-matching character,noun,medium
+233,134,accessible,adjective,high
+234,134,accessible TraverseGPAware,adjective,high
+235,135,allow,verb,high
+236,136,Allow,noun,high
+237,137,compress,verb,high
+238,138,animate,verb,high
+239,139,milk,verb,high
+240,139,to milk,verb,high
+241,140,charge,verb,high
+242,140,charge TraverseGPAware,verb,high
+243,141,scatter,verb,high
+244,141,scatter TraverseGPAware,verb,high
+245,142,expand,verb,high
+246,143,Filter By Selection,phrase,high
+247,144,retire,verb,high
+248,144,retire nounfi ẹ̀yìn tí,verb,high
+249,144,sit back,verb,high
+250,145,blow,verb,high
+251,145,blow Atẹ́gùn máafẹ́.The wind willblow,verb,high
+252,145,caress,verb,high
+253,145,caress Glosbe Research,verb,high
+254,145,desire,verb,high
+255,145,desire Glosbe Research,verb,high
+256,145,floppy disk,noun,medium
+257,145,floppy disk drive,phrase,medium
+258,145,grace period,noun,medium
+259,145,pink,noun,medium
+260,145,wind,noun,medium
+261,146,soft,adjective,high
+262,146,floppy disk,noun,medium
+263,146,floppy disk drive,phrase,medium
+264,147,fermium,noun,high
+265,148,like,verb,high
+266,148,like TraverseGPAware,verb,high
+267,148,love,verb,high
+268,148,want to,noun,high
+269,148,want toGlosbe Research,verb,high
+270,149,wash,verb,high
+271,149,wash Mo tifọaṣọ náà.I havewashedthe clothes,verb,high
+272,150,octopus,noun,high
+273,150,octopusnounoctopus,noun,high
+274,151,phonetics,noun,high
+275,152,touch,verb,high
+276,152,touch Ta lófọwọ́ kànmí?Whotouchedme,verb,high
+277,153,subscribe,verb,high
+278,154,interview,verb,high
+279,155,post,verb,high
+280,157,crush,verb,high
+281,157,shatter,verb,high
+282,157,smash,verb,high
+283,158,blind,adjective,high
+284,159,formula,noun,high
+285,159,formula bar,noun,medium
+286,159,validation formula,noun,medium
+287,160,validation formula,noun,high
+288,160,validation formulaChecks the data in a field as it,phrase,high
+289,161,boast,verb,high
+290,162,string,noun,high
+291,162,thre,noun,high
+292,162,thre GlTrav3,noun,high
+293,162,encryption key,noun,medium
+294,163,encryption key,conjunction,high
+295,164,Photos,verb,high
+296,164,photo album,noun,medium
+297,164,Windows Live Photo Gallery,phrase,medium
+298,164,Windows Photo Gallery,phrase,medium
+299,165,photography,noun,high
+300,166,form,noun,high
+301,166,form field,noun,medium
+302,166,form template,noun,medium
+303,166,Form view,noun,medium
+304,166,forms cache,noun,medium

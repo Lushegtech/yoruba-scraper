@@ -1,0 +1,85 @@
+id,word,url,scrape_time,status,error
+1,gba ipò,https://glosbe.com/yo/en/gba%20ip%C3%B2,2025-05-08 08:45:09,success,
+2,gbajúmò,https://glosbe.com/yo/en/gbaj%C3%BAm%C3%B2,2025-05-08 08:31:20,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/gbaj%C3%BAm%C3%B2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EC07610>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"
+3,gbangba,https://glosbe.com/yo/en/gbangba,2025-05-08 08:44:54,success,
+4,gbaradì,https://glosbe.com/yo/en/gbarad%C3%AC,2025-05-08 08:45:58,success,
+5,gbe,https://glosbe.com/yo/en/gbe,2025-05-08 08:27:48,success,
+6,gberingberin,https://glosbe.com/yo/en/gberingberin,2025-05-08 08:24:26,success,
+7,gbiná,https://glosbe.com/yo/en/gbin%C3%A1,2025-05-08 08:22:54,success,
+8,gbo,https://glosbe.com/yo/en/gbo,2025-05-08 08:32:07,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/gbo (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EF15450>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"
+9,gbogbo,https://glosbe.com/yo/en/gbogbo,2025-05-08 08:18:04,success,
+10,gbogbo gbòò,https://glosbe.com/yo/en/gbogbo%20gb%C3%B2%C3%B2,2025-05-08 08:23:55,success,
+11,Gbogbo Ìpawó Orílẹ̀-èdè,https://glosbe.com/yo/en/Gbogbo%20%C3%8Cpaw%C3%B3%20Or%C3%ADl%E1%BA%B9%CC%80-%C3%A8d%C3%A8,2025-05-08 08:20:59,success,
+12,Gbogbo ìpèsè,https://glosbe.com/yo/en/Gbogbo%20%C3%ACp%C3%A8s%C3%A8,2025-05-08 08:46:57,success,
+13,gbogbogbòò,https://glosbe.com/yo/en/gbogbogb%C3%B2%C3%B2,2025-05-08 08:26:53,success,
+14,gbogbohun,https://glosbe.com/yo/en/gbogbohun,2025-05-08 08:44:39,success,
+15,gbogboǹṣe,https://glosbe.com/yo/en/gbogbo%C7%B9%E1%B9%A3e,2025-05-08 08:46:14,success,
+16,Gbogboǹṣe Ìṣọ́nà,https://glosbe.com/yo/en/Gbogbo%C7%B9%E1%B9%A3e%20%C3%8C%E1%B9%A3%E1%BB%8D%CC%81n%C3%A0,2025-05-08 08:21:26,success,
+17,Gbohùngbohùn,https://glosbe.com/yo/en/Gboh%C3%B9ngboh%C3%B9n,2025-05-08 08:45:18,success,
+18,gbohùngbohùn,https://glosbe.com/yo/en/gboh%C3%B9ngboh%C3%B9n,2025-05-08 08:48:12,success,
+19,gbohùngbohùn àtẹ̀bọtí,https://glosbe.com/yo/en/gboh%C3%B9ngboh%C3%B9n%20%C3%A0t%E1%BA%B9%CC%80b%E1%BB%8Dt%C3%AD,2025-05-08 08:44:30,success,
+20,Gbona,https://glosbe.com/yo/en/Gbona,2025-05-08 08:19:00,success,
+21,gbona,https://glosbe.com/yo/en/gbona,2025-05-08 08:38:14,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/gbona (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EF16850>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"
+22,gbà,https://glosbe.com/yo/en/gb%C3%A0,2025-05-08 08:33:39,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/gb%C3%A0 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EF14B90>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"
+23,gbà là,https://glosbe.com/yo/en/gb%C3%A0%20l%C3%A0,2025-05-08 08:42:12,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/gb%C3%A0%20l%C3%A0 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EC07610>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"
+24,gbà á,https://glosbe.com/yo/en/gb%C3%A0%20%C3%A1,2025-05-08 08:37:27,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/gb%C3%A0%20%C3%A1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EF16490>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"
+25,gbàdúrà,https://glosbe.com/yo/en/gb%C3%A0d%C3%BAr%C3%A0,2025-05-08 08:38:59,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/gb%C3%A0d%C3%BAr%C3%A0 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EF16AD0>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"
+26,gbàgbé,https://glosbe.com/yo/en/gb%C3%A0gb%C3%A9,2025-05-08 08:45:23,success,
+27,gbàgbọ́,https://glosbe.com/yo/en/gb%C3%A0gb%E1%BB%8D%CC%81,2025-05-08 08:47:05,success,
+28,gbàgede,https://glosbe.com/yo/en/gb%C3%A0gede,2025-05-08 08:46:24,success,
+29,Gbàgede Fọ́tò Windows,https://glosbe.com/yo/en/Gb%C3%A0gede%20F%E1%BB%8D%CC%81t%C3%B2%20Windows,2025-05-08 08:19:30,success,
+30,Gbàgede Gájẹ́ẹ̀tì Ojú-iṣẹ́,https://glosbe.com/yo/en/Gb%C3%A0gede%20G%C3%A1j%E1%BA%B9%CC%81%E1%BA%B9%CC%80t%C3%AC%20Oj%C3%BA-i%E1%B9%A3%E1%BA%B9%CC%81,2025-05-08 08:47:55,success,
+31,Gbàgede Wínńdò,https://glosbe.com/yo/en/Gb%C3%A0gede%20W%C3%ADn%C5%84d%C3%B2,2025-05-08 08:28:15,success,
+32,gbá nàlù,https://glosbe.com/yo/en/gb%C3%A1%20n%C3%A0l%C3%B9,2025-05-08 08:46:06,success,
+33,gbádùn,https://glosbe.com/yo/en/gb%C3%A1d%C3%B9n,2025-05-08 08:35:10,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/gb%C3%A1d%C3%B9n (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EF15D10>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"
+34,gbágùúdá,https://glosbe.com/yo/en/gb%C3%A1g%C3%B9%C3%BAd%C3%A1,2025-05-08 08:45:40,success,
+35,gbáko,https://glosbe.com/yo/en/gb%C3%A1ko,2025-05-08 08:46:30,success,
+36,gbálẹ̀,https://glosbe.com/yo/en/gb%C3%A1l%E1%BA%B9%CC%80,2025-05-08 08:41:23,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/gb%C3%A1l%E1%BA%B9%CC%80 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EF17610>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"
+37,Gbèdéke Ìpàrokò,https://glosbe.com/yo/en/Gb%C3%A8d%C3%A9ke%20%C3%8Cp%C3%A0rok%C3%B2,2025-05-08 08:26:24,success,
+38,gbèsè,https://glosbe.com/yo/en/gb%C3%A8s%C3%A8,2025-05-08 08:47:41,success,
+39,gbé,https://glosbe.com/yo/en/gb%C3%A9,2025-05-08 08:24:57,success,
+40,gbé ga,https://glosbe.com/yo/en/gb%C3%A9%20ga,2025-05-08 08:25:54,success,
+41,gbé mì,https://glosbe.com/yo/en/gb%C3%A9%20m%C3%AC,2025-05-08 08:16:34,error,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+42,gbé ní ìyàwó,https://glosbe.com/yo/en/gb%C3%A9%20n%C3%AD%20%C3%ACy%C3%A0w%C3%B3,2025-05-08 08:46:36,success,
+43,gbé sílẹ̀,https://glosbe.com/yo/en/gb%C3%A9%20s%C3%ADl%E1%BA%B9%CC%80,2025-05-08 08:29:00,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/gb%C3%A9%20s%C3%ADl%E1%BA%B9%CC%80 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EC06E90>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"
+44,gbé sípò àìṣeélò,https://glosbe.com/yo/en/gb%C3%A9%20s%C3%ADp%C3%B2%20%C3%A0%C3%AC%E1%B9%A3e%C3%A9l%C3%B2,2025-05-08 08:47:21,success,
+45,gbé-ga,https://glosbe.com/yo/en/gb%C3%A9-ga,2025-05-08 08:15:32,error,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+46,gbédè,https://glosbe.com/yo/en/gb%C3%A9d%C3%A8,2025-05-08 08:43:46,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/gb%C3%A9d%C3%A8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EF17110>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"
+47,gbéga,https://glosbe.com/yo/en/gb%C3%A9ga,2025-05-08 08:45:34,success,
+48,Gbéjáde Nírọ̀rùn,https://glosbe.com/yo/en/Gb%C3%A9j%C3%A1de%20N%C3%ADr%E1%BB%8D%CC%80r%C3%B9n,2025-05-08 08:35:56,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/Gb%C3%A9j%C3%A1de%20N%C3%ADr%E1%BB%8D%CC%80r%C3%B9n (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EF160D0>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"
+49,gbéringbérin,https://glosbe.com/yo/en/gb%C3%A9ringb%C3%A9rin,2025-05-08 08:45:02,success,
+50,Gbéringbérin,https://glosbe.com/yo/en/Gb%C3%A9ringb%C3%A9rin,2025-05-08 08:48:30,success,
+51,gbígbà,https://glosbe.com/yo/en/gb%C3%ADgb%C3%A0,2025-05-08 08:48:45,success,
+52,gbígbà ìjúbà,https://glosbe.com/yo/en/gb%C3%ADgb%C3%A0%20%C3%ACj%C3%BAb%C3%A0,2025-05-08 08:20:27,success,
+53,Gbígbà ẹ̀dà fáìlì,https://glosbe.com/yo/en/Gb%C3%ADgb%C3%A0%20%E1%BA%B9%CC%80d%C3%A0%20f%C3%A1%C3%ACl%C3%AC,2025-05-08 08:15:49,success,
+54,gbígbà ẹ̀dà fáìlì,https://glosbe.com/yo/en/gb%C3%ADgb%C3%A0%20%E1%BA%B9%CC%80d%C3%A0%20f%C3%A1%C3%ACl%C3%AC,2025-05-08 08:46:51,success,
+55,gbígbé,https://glosbe.com/yo/en/gb%C3%ADgb%C3%A9,2025-05-08 08:17:33,success,
+56,gbígbé dátà,https://glosbe.com/yo/en/gb%C3%ADgb%C3%A9%20d%C3%A1t%C3%A0,2025-05-08 08:23:25,success,
+57,gbígbé lọ,https://glosbe.com/yo/en/gb%C3%ADgb%C3%A9%20l%E1%BB%8D,2025-05-08 08:15:18,success,
+58,gbígbìn,https://glosbe.com/yo/en/gb%C3%ADgb%C3%ACn,2025-05-08 08:21:56,success,
+59,gbígbìn igi,https://glosbe.com/yo/en/gb%C3%ADgb%C3%ACn%20igi,2025-05-08 08:47:12,success,
+60,gbígbó bí ajá,https://glosbe.com/yo/en/gb%C3%ADgb%C3%B3%20b%C3%AD%20aj%C3%A1,2025-05-08 08:42:58,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/gb%C3%ADgb%C3%B3%20b%C3%AD%20aj%C3%A1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EF174D0>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"
+61,gbígbẹ,https://glosbe.com/yo/en/gb%C3%ADgb%E1%BA%B9,2025-05-08 08:18:34,success,
+62,gbòmìnira,https://glosbe.com/yo/en/gb%C3%B2m%C3%ACnira,2025-05-08 08:27:22,success,
+63,gbòngbò alágbáraméjì,https://glosbe.com/yo/en/gb%C3%B2ngb%C3%B2%20al%C3%A1gb%C3%A1ram%C3%A9j%C3%AC,2025-05-08 08:15:24,success,
+64,gbòǹgbò,https://glosbe.com/yo/en/gb%C3%B2%C7%B9gb%C3%B2,2025-05-08 08:15:55,success,
+65,gbó,https://glosbe.com/yo/en/gb%C3%B3,2025-05-08 08:47:47,success,
+66,gbó bí ajá,https://glosbe.com/yo/en/gb%C3%B3%20b%C3%AD%20aj%C3%A1,2025-05-08 08:39:47,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/gb%C3%B3%20b%C3%AD%20aj%C3%A1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EF16E90>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"
+67,gbógun sí,https://glosbe.com/yo/en/gb%C3%B3gun%20s%C3%AD,2025-05-08 08:48:03,success,
+68,gbólóhùn,https://glosbe.com/yo/en/gb%C3%B3l%C3%B3h%C3%B9n,2025-05-08 08:19:57,success,
+69,gbóná,https://glosbe.com/yo/en/gb%C3%B3n%C3%A1,2025-05-08 08:48:35,success,
+70,gbóná janjan,https://glosbe.com/yo/en/gb%C3%B3n%C3%A1%20janjan,2025-05-08 08:48:22,success,
+71,gbóná lọwọwọ,https://glosbe.com/yo/en/gb%C3%B3n%C3%A1%20l%E1%BB%8Dw%E1%BB%8Dw%E1%BB%8D,2025-05-08 08:29:46,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/gb%C3%B3n%C3%A1%20l%E1%BB%8Dw%E1%BB%8Dw%E1%BB%8D (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EF15450>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"
+72,gbórin,https://glosbe.com/yo/en/gb%C3%B3rin,2025-05-08 08:36:42,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/gb%C3%B3rin (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EF14910>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"
+73,gbẹ́,https://glosbe.com/yo/en/gb%E1%BA%B9%CC%81,2025-05-08 08:46:45,success,
+74,gbẹ́nàgbẹ́nà,https://glosbe.com/yo/en/gb%E1%BA%B9%CC%81n%C3%A0gb%E1%BA%B9%CC%81n%C3%A0,2025-05-08 08:44:47,success,
+75,gbọjànsanwó,https://glosbe.com/yo/en/gb%E1%BB%8Dj%C3%A0nsanw%C3%B3,2025-05-08 08:34:24,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/gb%E1%BB%8Dj%C3%A0nsanw%C3%B3 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EF15A90>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"
+76,gbọ̀n,https://glosbe.com/yo/en/gb%E1%BB%8D%CC%80n,2025-05-08 08:40:36,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/gb%E1%BB%8D%CC%80n (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EF17250>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"
+77,gbọ̀ngàn ìjọba,https://glosbe.com/yo/en/gb%E1%BB%8D%CC%80ng%C3%A0n%20%C3%ACj%E1%BB%8Dba,2025-05-08 08:15:40,success,
+78,gbọ̀ngàn ìtajà,https://glosbe.com/yo/en/gb%E1%BB%8D%CC%80ng%C3%A0n%20%C3%ACtaj%C3%A0,2025-05-08 08:45:48,success,
+79,gbọ̀ngàn ìṣeré ìdárayá,https://glosbe.com/yo/en/gb%E1%BB%8D%CC%80ng%C3%A0n%20%C3%AC%E1%B9%A3er%C3%A9%20%C3%ACd%C3%A1ray%C3%A1,2025-05-08 08:22:24,success,
+80,gbọ̀ngàn ìṣeré ìfarapitú,https://glosbe.com/yo/en/gb%E1%BB%8D%CC%80ng%C3%A0n%20%C3%AC%E1%B9%A3er%C3%A9%20%C3%ACfarapit%C3%BA,2025-05-08 08:32:52,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/gb%E1%BB%8D%CC%80ng%C3%A0n%20%C3%AC%E1%B9%A3er%C3%A9%20%C3%ACfarapit%C3%BA (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EF14CD0>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"
+81,gbọ̀rọ̀,https://glosbe.com/yo/en/gb%E1%BB%8D%CC%80r%E1%BB%8D%CC%80,2025-05-08 08:47:31,success,
+82,gbọ́,https://glosbe.com/yo/en/gb%E1%BB%8D%CC%81,2025-05-08 08:17:03,success,
+83,gbọ́n féfé,https://glosbe.com/yo/en/gb%E1%BB%8D%CC%81n%20f%C3%A9f%C3%A9,2025-05-08 08:25:24,success,
+84,gbọ́ràn,https://glosbe.com/yo/en/gb%E1%BB%8D%CC%81r%C3%A0n,2025-05-08 08:30:33,error,"HTTPSConnectionPool(host='glosbe.com', port=443): Max retries exceeded with url: /yo/en/gb%E1%BB%8D%CC%81r%C3%A0n (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC3EF147D0>, 'Connection to glosbe.com timed out. (connect timeout=30)'))"

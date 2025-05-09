@@ -1,0 +1,147 @@
+id,word_id,translation,part_of_speech,confidence
+1,2,Happy Holidays,verb,high
+2,2,Happy HolidaysPhrase,noun,high
+3,2,Merry Christmas and a Happy New Year,phrase,high
+4,2,Merry Christmas and a Happy New YearPhrase,phrase,high
+5,3,thank you,interjection,high
+6,6,hunger,noun,high
+7,8,good morning,noun,high
+8,9,Armenian language,noun,high
+9,9,Armenian languagenounhttp-,noun,high
+10,9,Greek language,noun,high
+11,9,Greek languagehttp-,noun,high
+12,10,Latin,noun,high
+13,12,Charcoal,adjective,high
+14,13,bone,noun,high
+15,20,African basil,noun,high
+16,20,scent leaf,noun,high
+17,20,scent leafOcimum gratissimum,noun,high
+18,21,African basil,noun,high
+19,21,African basilOcimum gratissimum,phrase,high
+20,22,chalk,noun,high
+21,22,chalk GlosbeResearch,noun,high
+22,23,Egbe Omo OduduwaHeiNER - the,phrase,high
+23,24,Puerto Rican Independence Party,phrase,high
+24,24,Puerto Rican Independence PartyHeiNER-the-,phrase,high
+25,27,brother,noun,high
+26,27,brother GlosbeResearch,noun,high
+27,30,tickle,adjective,high
+28,30,tickle Stephen Ogunbiyi,adjective,high
+29,31,bone,adjective,high
+30,38,hare,noun,high
+31,38,rabbit,noun,high
+32,39,rabbiten,noun,high
+33,41,einsteinium,noun,high
+34,42,bird,noun,high
+35,42,bird GlosbeResearch,noun,high
+36,44,fish,noun,high
+37,44,carp,noun,medium
+38,44,jellyfish,noun,medium
+39,44,salmon,noun,medium
+40,44,sardine,noun,medium
+41,45,two,noun,high
+42,45,twonumeralGlTrav3,noun,high
+43,45,downpour,noun,medium
+44,47,bitter melon,noun,high
+45,51,pap,adjective,high
+46,51,Lagos State,noun,medium
+47,52,Happy Easter,noun,high
+48,52,Happy EasterPhrase,noun,high
+49,53,it's been a while,phrase,high
+50,54,raten,noun,high
+51,57,pig,noun,high
+52,57,pig GlosbeResearch,noun,high
+53,57,swine,noun,high
+54,57,swine GlTrav3,noun,high
+55,59,hog,noun,high
+56,59,hog GlosbeResearch,noun,high
+57,60,God,noun,high
+58,61,Skimmer,noun,high
+59,67,mouse,noun,high
+60,67,mouseen,noun,high
+61,68,text formatting,verb,high
+62,68,text formattingElufidodo Akinwumi Gabriel,phrase,high
+63,69,me,pronoun,high
+64,76,mouth,noun,high
+65,76,mouth GlosbeResearch,noun,high
+66,76,beak,noun,medium
+67,76,kiss,noun,medium
+68,76,oral,adjective,medium
+69,78,Enugu State,noun,medium
+70,79,Enugu State,noun,medium
+71,80,butter,noun,high
+72,80,butter GlosbeResearch,noun,high
+73,80,fat,noun,high
+74,80,fat GlosbeResearch,noun,high
+75,80,gasoline,noun,high
+76,80,oil,verb,high
+77,80,orange,noun,medium
+78,80,Palm Oil,noun,medium
+79,80,petrol explosion,noun,medium
+80,80,petroleum,noun,medium
+81,81,butter,noun,high
+82,81,butter GlosbeResearch,noun,high
+83,81,fat,noun,high
+84,81,fat GlosbeResearch,noun,high
+85,81,gasoline,noun,high
+86,81,oil,verb,high
+87,81,orange,noun,medium
+88,81,Palm Oil,noun,medium
+89,81,petrol explosion,noun,medium
+90,81,petroleum,noun,medium
+91,82,palm oil,noun,high
+92,82,red oil,noun,high
+93,82,red oildictionaric.com,noun,high
+94,83,Palm Oil,noun,high
+95,83,red oil,noun,high
+96,83,red oildictionaric.com,noun,high
+97,86,flesh,noun,high
+98,86,flesh GlosbeResearch,noun,high
+99,86,meat,noun,high
+100,86,meat GlosbeResearch,noun,high
+101,86,carcass,verb,medium
+102,86,pasture,noun,medium
+103,86,sausage,noun,medium
+104,88,erbiumnounchemical element with atomic number 68,noun,high
+105,89,kidney,noun,high
+106,89,kidney TraverseGPAware,noun,high
+107,89,game,noun,medium
+108,90,game,adjective,high
+109,107,elephant,noun,high
+110,107,elephanten,noun,high
+111,108,elephant,noun,high
+112,108,elephanten,noun,high
+113,109,hippopotamus,noun,high
+114,109,hippopotamus Stephen Ogunbiyi,noun,high
+115,109,seal,adjective,medium
+116,111,brain,verb,high
+117,111,brain Mallow82,verb,high
+118,111,thought,noun,high
+119,111,machine learning,verb,medium
+120,112,brain,verb,high
+121,112,brain Mallow82,verb,high
+122,112,computer,noun,high
+123,112,computernoundeviceen.wiktionary2016,verb,high
+124,113,objective,adjective,high
+125,114,lo,verb,high
+126,114,lo GlosbeResearch,verb,high
+127,114,luggage,noun,high
+128,114,luggage GlosbeResearch,verb,high
+129,115,dust,noun,high
+130,119,foot,noun,high
+131,119,foot GlosbeResearch,noun,high
+132,119,leg,noun,high
+133,119,leg GlosbeResearch,noun,high
+134,120,nemesy,noun,high
+135,121,good evening,noun,high
+136,122,order,verb,high
+137,122,order GlosbeResearch,verb,high
+138,122,thigh,noun,high
+139,122,thighnounupper legen.wiktionary2016,verb,high
+140,122,verse,noun,high
+141,122,verse GlTrav3,verb,high
+142,122,toe,noun,medium
+143,126,fly,verb,high
+144,313,fish,noun,high
+145,314,animal,noun,high
+146,314,animalnounorganismen.wiktionary2016,noun,high

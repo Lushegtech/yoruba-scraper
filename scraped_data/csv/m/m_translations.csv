@@ -1,0 +1,388 @@
+id,word_id,translation,part_of_speech,confidence
+1,1,Moshood Kashimawo Olawale Abiola,phrase,high
+2,1,Moshood Kashimawo Olawale AbiolaHeiNER-the-,phrase,high
+3,2,madagascar,noun,high
+4,6,magnesium,noun,high
+5,6,magnesiumnounelement with the atomic number of 12,noun,high
+6,7,Mohandas Karamchand Gandhi,noun,high
+7,7,Mohandas Karamchand Gandhi HeiNER-the-,noun,high
+8,13,oxen,noun,high
+9,14,mother,noun,high
+10,14,mother GlosbeResearch,noun,high
+11,15,Lightening,verb,high
+12,19,manganese,noun,high
+13,20,manganese,noun,high
+14,30,math,noun,high
+15,30,mathematics,noun,high
+16,30,maths,noun,high
+17,31,mathematics,noun,high
+18,32,mauritania,noun,high
+19,33,Max Weber HeiNER - the,noun,high
+20,35,nelspruit,noun,high
+21,36,meitnerium,noun,high
+22,37,seven,noun,high
+23,37,sevennumeral,adjective,high
+24,38,two,noun,high
+25,43,drop-down menu,noun,high
+26,44,one,noun,high
+27,44,onedeterminerneuterSwadesh-Lists,verb,high
+28,46,three,noun,high
+29,46,three numeralGlTrav3,noun,high
+30,46,it's been a while,phrase,medium
+31,47,methanenounchemical compound,noun,high
+32,48,methanenounchemical compound,noun,high
+33,49,electronic mail,noun,high
+34,50,me,pronoun,high
+35,50,mine,pronoun,high
+36,50,my,adjective,high
+37,51,nod,verb,high
+38,51,nod TraverseGPAware,verb,high
+39,52,i did not go,phrase,high
+40,52,i did not goYemi,phrase,high
+41,55,Microsoft Excel Web App,phrase,medium
+42,55,Microsoft Office InterConnect,phrase,medium
+43,55,Microsoft PowerPoint Web App,phrase,medium
+44,55,Microsoft Software License Terms,phrase,medium
+45,55,Microsoft text telephone,phrase,medium
+46,55,Microsoft Windows Installer,phrase,medium
+47,55,Microsoft Word Web App,phrase,medium
+48,61,candy,verb,high
+49,62,milwaukee,noun,high
+50,65,I,pronoun,high
+51,65,me,pronoun,high
+52,67,I went to visit my friend,phrase,high
+53,67,I went to visit my friendJemBee,phrase,high
+54,68,I love you,phrase,high
+55,68,I love youPhraseWiktionary,phrase,high
+56,69,I love you,phrase,high
+57,69,I love youPhraseWiktionary,phrase,high
+58,70,I love you,phrase,high
+59,70,I love youPhrase,phrase,high
+60,71,I love you,phrase,high
+61,71,I love youPhrase,phrase,high
+62,72,Moldova,noun,high
+63,76,montenegro,noun,high
+64,78,grateful,adjective,high
+65,79,mosque,noun,high
+66,80,mottonounshort sentence expressing a motivation,noun,high
+67,81,mottonounshort sentence expressing a motivation,noun,high
+68,83,Monday,noun,high
+69,84,drink,verb,high
+70,84,eat,verb,high
+71,84,sharpen,verb,high
+72,84,sharpen To make sharp.The Linguazee,verb,high
+73,85,align,verb,high
+74,85,Synced folder,noun,medium
+75,86,zoom,verb,high
+76,87,drown,verb,high
+77,88,enable,verb,high
+78,89,Muhammadu BuhariHeiNER - the,phrase,high
+79,90,muhamm,noun,high
+80,93,prepare,verb,high
+81,93,prepare Ifedayo H Ayeni,verb,high
+82,94,Murtala Mohammed,verb,high
+83,94,Murtala MohammedHeiNER-the-,noun,high
+84,95,Muslim,noun,high
+85,95,Muslimnounbeliever of Islamenwiktionary-2017-09,noun,high
+86,95,I'm a Muslim,phrase,medium
+87,96,I'm a Muslim,phrase,high
+88,96,I'm a MuslimPhraseI'm a Muslimenwiktionary-2017-09,phrase,high
+89,97,Mwai KibakiHeiNER - the,phrase,high
+90,99,burma,noun,high
+91,101,I will,noun,high
+92,101,I willMà ágbìyànjúI willtry,phrase,high
+93,102,soot,noun,high
+94,103,deception,noun,high
+95,103,dishonesty,noun,high
+96,104,malaria,noun,high
+97,104,malarianounmosquito-transmitted disease,noun,high
+98,105,malaria,noun,high
+99,105,malarianounmosquito-transmitted disease,noun,high
+100,106,Malawi,noun,high
+101,107,malawi,noun,high
+102,108,angel,noun,high
+103,109,Malaysia,noun,high
+104,109,Malaysiaorúkọ,noun,high
+105,109,Malay,noun,medium
+106,110,cow,verb,high
+107,110,zebu,verb,high
+108,110,beef,noun,medium
+109,110,bull,noun,medium
+110,110,calf,noun,medium
+111,111,mother,noun,high
+112,112,palm frond,noun,high
+113,113,mary,noun,high
+114,114,Mary,noun,high
+115,115,five,adjective,high
+116,115,fivedeterminerSwadesh-Lists,verb,high
+117,116,I will,noun,high
+118,116,I willMàágbìyànjúI willtry,phrase,high
+119,117,Always Move gallery,phrase,high
+120,118,moustache,noun,high
+121,119,poison,noun,high
+122,120,old testament,noun,high
+123,121,new testament,noun,high
+124,122,malta,noun,high
+125,123,Mali,noun,high
+126,124,mali,noun,high
+127,125,manga,noun,high
+128,125,manganouncomics created in Japan,noun,high
+129,126,mars,noun,high
+130,127,all five,adjective,high
+131,128,five,adjective,high
+132,128,five o'clock,noun,medium
+133,128,half past five,phrase,medium
+134,128,ten minutes to five o'clock,phrase,medium
+135,129,Matrix,noun,high
+136,130,map,verb,high
+137,131,mile,noun,high
+138,131,square mile,noun,medium
+139,132,mango,verb,high
+140,133,all seven,noun,high
+141,134,both,conjunction,high
+142,134,in both cases,phrase,medium
+143,135,all twelve,noun,high
+144,136,couple,noun,high
+145,136,two,noun,high
+146,136,asymmetric,adjective,medium
+147,136,disyllabic,adjective,medium
+148,136,halve,noun,medium
+149,136,Internet Key Exchange,phrase,medium
+150,136,symmetric,adjective,medium
+151,136,two o'clock,noun,medium
+152,136,two-dimensional,adjective,medium
+153,136,valley,noun,medium
+154,137,dualism,noun,high
+155,137,dualismnounstate of two parts,noun,high
+156,138,eighteen,noun,high
+157,139,a few,pronoun,high
+158,139,a fewpronounỌjọ́mélòó kanlẹ́yìn náà,pronoun,high
+159,139,some,adverb,high
+160,140,fantasy,noun,high
+161,140,fantasy TraverseGPAware,noun,high
+162,141,Mail,noun,high
+163,141,junk mail,noun,medium
+164,141,mail merge,noun,medium
+165,141,mail recipient,noun,medium
+166,141,mailbox,noun,medium
+167,141,mailing address,verb,medium
+168,141,mailing label,noun,medium
+169,141,Notes E-mailed To Me,phrase,medium
+170,141,spammer,noun,medium
+171,142,mail,noun,high
+172,142,junk mail,noun,medium
+173,142,mail merge,noun,medium
+174,142,mail recipient,noun,medium
+175,142,mailbox,noun,medium
+176,142,mailing address,verb,medium
+177,142,mailing label,noun,medium
+178,142,Notes E-mailed To Me,phrase,medium
+179,142,spammer,noun,medium
+180,143,junk mail,noun,high
+181,144,shake,verb,high
+182,145,straight quotation mark,phrase,high
+183,146,other,adjective,high
+184,146,otheradjectiveÈyí wúlò ju ẹ̀kọ́mìírànlọThis,adjective,high
+185,146,form definition file,phrase,medium
+186,147,breathe,verb,high
+187,147,breathe Mi ò lèmíI cannotbreathe,verb,high
+188,148,gasp,verb,high
+189,148,wheeze,verb,high
+190,149,media clip,noun,high
+191,150,milk,noun,high
+192,150,milk Wọ́n ti mumílíìkìtánThey finished themilk,noun,high
+193,150,powdered milk,noun,medium
+194,151,powdered milk,noun,high
+195,152,Million,noun,high
+196,153,drink,verb,high
+197,153,drink nounkind of liquid which,verb,high
+198,154,sharp,adjective,high
+199,154,acute,noun,medium
+200,155,acute,adjective,high
+201,155,acute TraverseGPAware,adjective,high
+202,156,clean,adjective,high
+203,156,clean Aṣọmímọ́rèé.These arecleanclothes,adjective,high
+204,156,holy,adverb,high
+205,156,Church of Jesus Christ of Latter-day Saints,phrase,medium
+206,156,Holy Roman Empire,phrase,medium
+207,157,metre,noun,high
+208,157,metre SI unit of length,verb,high
+209,157,metric system,noun,medium
+210,157,square metre,noun,medium
+211,158,metre,verb,high
+212,158,metre SI unit of length,verb,high
+213,158,metric system,noun,medium
+214,158,square metre,noun,medium
+215,159,other,adjective,high
+216,160,i am coming,phrase,high
+217,161,kin,adjective,high
+218,161,kinship,noun,high
+219,162,mongolia,noun,high
+220,163,Morocco,noun,high
+221,164,morocco,noun,high
+222,165,mozambique,noun,high
+223,166,Mozambique,noun,high
+224,167,internal modem,noun,high
+225,168,modem,noun,high
+226,168,cable modem,noun,medium
+227,169,cable modem,noun,high
+228,170,moldova,noun,high
+229,171,monaco,noun,high
+230,172,moses,verb,high
+231,173,mode,noun,high
+232,173,modal dialog,noun,medium
+233,173,overtype mode,noun,medium
+234,174,overtype mode,noun,high
+235,175,molue,noun,high
+236,175,moluenounolder type of yellow bus in Lagos,noun,high
+237,176,muslim,noun,high
+238,177,acid,adjective,high
+239,177,acid TraverseGPAware,adjective,high
+240,177,sharpen,verb,high
+241,177,sharpen The Linguazee,adjective,high
+242,178,catch,verb,high
+243,178,catch TraverseGPAware,verb,high
+244,179,dock,verb,high
+245,179,left align,noun,medium
+246,180,left align,noun,high
+247,181,clear,verb,high
+248,181,eliminate,verb,high
+249,182,unstack,verb,high
+250,183,bring,verb,high
+251,183,bring MomúowówáIbroughtmoney,verb,high
+252,184,adapt,adjective,high
+253,184,adapt GlosbeResearch,adjective,high
+254,185,magnify,verb,high
+255,185,magnify TraverseGPAware,verb,high
+256,186,justify,verb,high
+257,186,justify To adjust horizontal spacing so that text,verb,high
+258,186,sync,verb,high
+259,187,Hooray,noun,high
+260,188,qualify,verb,high
+261,188,qualify TraverseGPAware,verb,high
+262,189,eight,noun,high
+263,190,memory,noun,high
+264,190,memory Adekunle David Gbenro,noun,high
+265,191,four,noun,high
+266,192,three,noun,high
+267,193,mendelevium,noun,high
+268,194,methuselah,noun,high
+269,195,six,noun,high
+270,195,sixnumeral,adjective,high
+271,195,half past six,phrase,medium
+272,195,six o'clock,noun,medium
+273,196,all six,noun,high
+274,197,megabyte,noun,high
+275,197,"megabyte Usually 1,048,576 bytes. It",noun,high
+276,198,all eight,noun,high
+277,199,mecca,noun,high
+278,200,Mexico,noun,high
+279,200,United Mexican States,phrase,high
+280,200,mexico city,noun,medium
+281,201,mexico,noun,high
+282,201,United Mexican States,phrase,high
+283,201,mexico city,noun,medium
+284,202,menu,noun,high
+285,202,context menu,noun,medium
+286,202,control menu,noun,medium
+287,202,menu bar,noun,medium
+288,202,pop-up menu,noun,medium
+289,202,shortcut menu,noun,medium
+290,202,Start menu,noun,medium
+291,202,submenu,noun,medium
+292,202,system menu,noun,medium
+293,203,submenu,noun,high
+294,204,personalized menu,noun,high
+295,205,pop-up menu,noun,high
+296,206,File menu,noun,high
+297,207,cascading menu,noun,high
+298,208,shortcut menu,noun,high
+299,209,Start menu,noun,high
+300,210,control menu,noun,high
+301,211,system menu,noun,high
+302,212,Edit menu,noun,high
+303,213,contextual menu,noun,high
+304,214,context menu,noun,high
+305,215,four,noun,high
+306,215,fournumeralthe cardinal number 4en.wiktionary2016,phrase,high
+307,215,fifteen past four in the afternoon,phrase,medium
+308,215,four o'clock,noun,medium
+309,215,half past four,phrase,medium
+310,216,mercury,noun,high
+311,217,Mercury,noun,high
+312,218,sixteen,adjective,high
+313,218,sixteen numeral,adjective,high
+314,219,fourteen,noun,high
+315,219,fourteennumeral,adjective,high
+316,219,fourteenth,noun,high
+317,219,fourteenth Glosbe Research,phrase,high
+318,220,all four,noun,high
+319,221,nine,noun,high
+320,221,ninenumeral,adjective,high
+321,221,half past nine,phrase,medium
+322,221,nine o'clock,noun,medium
+323,222,Mexico,noun,high
+324,222,Mexico City,noun,medium
+325,223,all nine,noun,high
+326,224,three,noun,high
+327,224,three numeralGlosbe Research,noun,high
+328,224,bevel,noun,medium
+329,224,half past three,phrase,medium
+330,224,three-dimensional,adjective,medium
+331,224,trisyllabic,adjective,medium
+332,225,thirteen,noun,high
+333,225,thirteennumeral,adjective,high
+334,226,metal,adjective,high
+335,226,"metal nounelement, compound, or alloy that",adjective,high
+336,226,alkali metals,verb,medium
+337,226,nonmetal,adjective,medium
+338,227,alkali metals,noun,high
+339,227,alkali metalsnoungroup of chemical elements,noun,high
+340,228,metalloid,adjective,high
+341,228,metalloid nounchemical element with,adjective,high
+342,229,metric,noun,high
+343,230,all three,noun,high
+344,231,ten,noun,high
+345,231,tennumeral,adjective,high
+346,231,half past ten,phrase,medium
+347,231,ten commandments,verb,medium
+348,231,ten minutes to five o'clock,phrase,medium
+349,231,ten o'clock,noun,medium
+350,232,all ten,noun,high
+351,233,fifteen,noun,high
+352,233,fifteennumeralGlosbe Research,noun,high
+353,233,fifteen past four in the afternoon,phrase,medium
+354,233,thirty thousand,noun,medium
+355,234,Mormon,noun,high
+356,234,Mormonadjective,adjective,high
+357,235,appreciate,verb,high
+358,236,moscow,noun,high
+359,237,appreciate,verb,high
+360,238,know,verb,high
+361,238,know Mi ò mọ̀.I don't know,verb,high
+362,238,lightning,verb,medium
+363,238,Suggested Contacts,verb,medium
+364,239,mother,noun,high
+365,239,mothernounfeminine,noun,high
+366,240,lightning,adjective,high
+367,240,lightning nounatmospheric discharge of electricity,adjective,high
+368,240,electricity,noun,medium
+369,241,lightning,noun,high
+370,241,lightning nounatmospheric discharge of electricity,adjective,high
+371,241,electricity,noun,medium
+372,242,lightning,noun,high
+373,243,eleven,noun,high
+374,243,eleven TraverseGPAware,noun,high
+375,243,twelve,noun,high
+376,243,twelvenumeral,noun,high
+377,243,eleven o'clock,noun,medium
+378,243,half past eleven,phrase,medium
+379,244,all eleven,noun,high
+380,245,color monitor,noun,high
+381,246,mauritius,verb,high
+382,247,mosque,noun,high
+383,247,mosque TraverseGPAware,noun,high
+384,247,mosquenounplace of worship for followers of Islam,noun,high
+385,248,mosque,noun,high
+386,248,mosque TraverseGPAware,noun,high
+387,248,mosquenounplace of worship for followers of Islam,noun,high

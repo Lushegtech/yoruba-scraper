@@ -1,0 +1,522 @@
+id,word_id,translation,part_of_speech,confidence
+1,2,Mark as Final,phrase,high
+2,4,cab,noun,high
+3,4,taxi,noun,high
+4,5,cadmium,noun,high
+5,6,cadmium,noun,high
+6,7,caffeine,noun,high
+7,8,cashew,noun,high
+8,8,cashew KajúdùnCashewsare nice,noun,high
+9,9,californium,noun,high
+10,11,Cameroon,noun,high
+11,12,cameroon,noun,high
+12,13,Cameroon,noun,high
+13,14,Cameroon,noun,high
+14,15,once,adverb,high
+15,15,one,noun,high
+16,15,onenumeralneuterGlosbeResearch,noun,high
+17,15,accusative,adjective,medium
+18,15,cancer,noun,medium
+19,15,cherry,noun,medium
+20,15,each,noun,medium
+21,15,jellyfish,noun,medium
+22,15,one o'clock,noun,medium
+23,15,only,adverb,medium
+24,15,someone,noun,medium
+25,16,only,adjective,high
+26,16,only TraverseGPAware,adjective,high
+27,17,well,adjective,high
+28,17,well Wale Akoti,adjective,high
+29,18,crow,noun,high
+30,19,carrion crow,noun,high
+31,19,carrion crownounsv.wiktionary.org,noun,high
+32,19,crowen,noun,high
+33,20,crow,noun,high
+34,20,crownounany bird of the genus Corvus,noun,high
+35,21,Kano HeiNER - the,noun,high
+36,21,Kano State,noun,medium
+37,23,gnat,noun,high
+38,25,fifth,adjective,high
+39,25,fifth Oríkarùn-únThefifthchapter,adjective,high
+40,28,qatar,noun,high
+41,29,cation,noun,high
+42,30,manage,verb,high
+43,30,manage TraverseGPAware,verb,high
+44,31,Kazimierz NowakKazimierz Nowak HeiNER - the,phrase,high
+45,32,July,adverb,high
+46,32,seventh,noun,high
+47,33,February,noun,high
+48,33,second,adjective,high
+49,33,second adverbÌdíkejìni pé...Thesecondreason,verb,high
+50,33,type 2 diabetes,phrase,medium
+51,33,Wi-Fi Protected Access 2,phrase,medium
+52,34,December,adjective,high
+53,34,twelth,adjective,high
+54,34,twelthadjectiveÌwékejìláThetwelthbook,adjective,high
+55,35,Cape Verde,noun,high
+56,36,Cape Verde,noun,high
+57,36,Republic of Cape Verde,noun,high
+58,37,caesium,noun,high
+59,37,caesiumnounelement with the atomic number of 55,noun,high
+60,38,June,noun,high
+61,38,Friday,noun,medium
+62,39,August,noun,high
+63,40,lo,verb,high
+64,41,forlone,noun,high
+65,41,forloneSegun Apotieri,noun,high
+66,45,why,adverb,high
+67,45,whyadverbfor what reasonen.wiktionary2016,adverb,high
+68,46,King Sunny AdéHeiNER - the,phrase,high
+69,47,Lion,noun,high
+70,48,lionen,noun,high
+71,49,accolade,verb,high
+72,50,Christianity,noun,high
+73,51,aluminum chloride anhydrous,phrase,high
+74,51,aluminum chloride anhydrouschemical compound,phrase,high
+75,52,chlorine,noun,high
+76,52,chlorinenounelement with the atomic number of 17,noun,high
+77,53,coffee,noun,high
+78,53,Kofi Annan,noun,medium
+79,54,Kofi AnnanHeiNER - the,phrase,high
+80,55,mothen,noun,high
+81,56,congo,noun,high
+82,57,copernicium,noun,high
+83,59,weed,noun,high
+84,59,weed TraverseGPAware,noun,high
+85,60,grass,noun,high
+86,60,pasture,noun,high
+87,60,graze,noun,medium
+88,60,hay,noun,medium
+89,60,haystack,noun,medium
+90,60,lemon grass,verb,medium
+91,60,seaweed,verb,medium
+92,61,seaweed,noun,high
+93,61,seaweed TraverseGPAware,noun,high
+94,62,hay,verb,high
+95,62,hay GlosbeResearch,verb,high
+96,62,haystack,noun,medium
+97,63,lemon grass,noun,high
+98,63,lemon grass Cymbopogon citratus,noun,high
+99,64,bitter,adjective,high
+100,64,nasty,adjective,high
+101,64,nasty TraverseGPAware,adjective,high
+102,64,serious,adjective,high
+103,64,serious Glosbe Research,adjective,high
+104,64,tart,adjective,high
+105,64,tart Glosbe Research,adjective,high
+106,64,bitter like bitter leaf,phrase,medium
+107,65,bitter like bitter leaf,phrase,high
+108,65,bitter like bitter leafsimilie,phrase,high
+109,66,November,noun,high
+110,67,hiss-teeth,noun,high
+111,67,kiss-teeth,noun,high
+112,67,KST,noun,high
+113,68,croatia,noun,high
+114,69,chromium,noun,high
+115,69,chromium trioxide,noun,medium
+116,70,chromium,noun,high
+117,70,chromium trioxide,noun,medium
+118,71,chromium trioxide,noun,high
+119,71,chromium trioxidechemical compound,phrase,high
+120,72,chromosome,noun,high
+121,73,xenon,noun,high
+122,74,calculate,verb,high
+123,74,calculate TraverseGPAware,verb,high
+124,74,count,verb,high
+125,75,re,verb,high
+126,75,re TraverseGPAware,verb,high
+127,76,gregorian calendar,noun,high
+128,77,calendar,noun,high
+129,77,calendar program,noun,high
+130,77,Calendar Preview,noun,medium
+131,77,Calendar Snapshot,noun,medium
+132,77,calendar view,noun,medium
+133,77,charm,noun,medium
+134,77,Gregorian calendar,noun,medium
+135,77,Hijri calendar,noun,medium
+136,77,Windows Calendar,noun,medium
+137,78,Gregorian calendar,noun,high
+138,79,Hijri calendar,noun,high
+139,80,Calendar Snapshot,noun,high
+140,81,Windows Calendar,noun,high
+141,82,Cambodia,noun,high
+142,83,cambodia,noun,high
+143,84,knock,verb,high
+144,84,Contact info,noun,medium
+145,84,I don't care,phrase,medium
+146,84,multi-touch,noun,medium
+147,84,multi-touch input,noun,medium
+148,84,not applicable,adjective,medium
+149,84,tap,noun,medium
+150,84,touch,noun,medium
+151,84,touch keyboard,noun,medium
+152,85,read-only,adjective,high
+153,86,not applicable,adjective,medium
+154,87,tap,verb,high
+155,88,well,adjective,high
+156,89,knock,verb,high
+157,89,knock TraverseGPAware,verb,high
+158,90,clove,noun,high
+159,91,caribbean,noun,high
+160,92,kazakhstan,noun,high
+161,93,casino,noun,high
+162,94,fold,verb,high
+163,94,fold Bá mikáṣòkòtò yẹnHelp mefoldthose trousers,verb,high
+164,95,Record Slide Show,phrase,high
+165,96,carpenter,noun,high
+166,97,calorie,noun,high
+167,98,camera,noun,high
+168,99,drop,verb,high
+169,99,telecommunication,noun,medium
+170,100,quickly,adverb,high
+171,100,rapid,noun,medium
+172,101,Canada,noun,high
+173,102,canada,noun,high
+174,103,condition,noun,high
+175,103,conditional,adjective,medium
+176,103,conditional expression,noun,medium
+177,103,conditional formatting,verb,medium
+178,104,kernel,noun,high
+179,105,manage,verb,high
+180,106,carbon dioxide,noun,high
+181,106,carbon dioxidenounchemical compound,noun,high
+182,107,carbon dioxide,noun,high
+183,107,carbon dioxidenounchemical compound,noun,high
+184,108,carbon,noun,high
+185,108,allotrope of carbon,phrase,medium
+186,109,carbon,noun,high
+187,109,allotrope of carbon,phrase,medium
+188,110,global,adjective,high
+189,110,global address list,phrase,medium
+190,110,Universal Disk Format,phrase,medium
+191,111,caret,noun,high
+192,111,system caret,noun,medium
+193,112,system caret,noun,high
+194,113,carrot,noun,high
+195,114,album,noun,high
+196,114,albumnouncollection of recorded music,noun,high
+197,115,catalog,noun,high
+198,115,"catalog In computing, a catalog",noun,high
+199,115,catalogue,noun,high
+200,115,catalogue GlosbeResearch,noun,high
+201,116,welcome,adjective,high
+202,116,Welcome Center,noun,medium
+203,117,card,noun,high
+204,117,Business Card,noun,medium
+205,117,credit card,noun,medium
+206,117,Electronic Business Card,phrase,medium
+207,117,network adapter,noun,medium
+208,117,smart card,noun,medium
+209,117,sound card,noun,medium
+210,117,video card,noun,medium
+211,118,network adapter,noun,high
+212,119,smart card,noun,high
+213,120,credit card,noun,high
+214,121,video card,noun,high
+215,122,Business Card,noun,high
+216,123,Electronic Business Card,phrase,high
+217,124,sound card,noun,high
+218,125,kaaba,noun,high
+219,126,cairo,noun,high
+220,127,Kanuri,noun,high
+221,128,September,noun,high
+222,129,October,noun,high
+223,130,announce,verb,high
+224,131,lament,verb,high
+225,131,lament Wọ́nkédàáròTheylamented,verb,high
+226,132,little,adjective,high
+227,132,minor,noun,high
+228,132,short,adjective,high
+229,132,small,adjective,high
+230,132,casket,noun,medium
+231,132,child element,noun,medium
+232,132,hill,noun,medium
+233,132,lowercase,noun,medium
+234,132,manual,adjective,medium
+235,132,pamphlet,noun,medium
+236,132,seal,adjective,medium
+237,132,stream,noun,medium
+238,133,little,adjective,high
+239,133,small,adjective,high
+240,134,Christmas,verb,high
+241,134,christmas island,noun,medium
+242,134,Merry Christmas,verb,medium
+243,135,christmas,noun,high
+244,135,christmas island,noun,medium
+245,135,Merry Christmas,verb,medium
+246,136,ass,noun,high
+247,136,donkey,noun,high
+248,136,donkeynouna domestic animalen.wiktionary2016,noun,high
+249,137,neither,pronoun,high
+250,138,hilly,adjective,high
+251,138,hilly TraverseGPAware,adjective,high
+252,139,incline,noun,high
+253,139,incline TraverseGPAware,noun,high
+254,140,kilometre,noun,high
+255,141,lion,adjective,high
+256,142,lion,adjective,high
+257,142,lionen.wiktionary.org,noun,high
+258,143,lion,noun,high
+259,143,lionen.wiktionary.org,noun,high
+260,144,first,adjective,high
+261,144,first ApákìínírèéThis,adjective,high
+262,144,type 1 diabetes,phrase,medium
+263,145,make hay while the sun shine,phrase,high
+264,146,what happened,verb,high
+265,146,why,adverb,high
+266,147,what,noun,high
+267,147,what pro,noun,high
+268,148,before,conjunction,high
+269,149,shout,verb,high
+270,149,shout Wọ́nkígbeTheyshouted,verb,high
+271,150,acid,adjective,high
+272,150,acid TraverseGPAware,adjective,high
+273,150,deoxyribonucleic acid,noun,medium
+274,150,vinegar,noun,medium
+275,151,census,noun,high
+276,151,census TraverseGPAware,noun,high
+277,152,density,noun,high
+278,152,densitynounmass per unit volume,noun,high
+279,153,calculation,noun,high
+280,153,calculation TraverseGPAware,noun,high
+281,153,reading,verb,medium
+282,153,text-to-speech,noun,medium
+283,154,accidental,adjective,high
+284,154,accidental TraverseGPAware,adjective,high
+285,155,shade,verb,high
+286,155,art of painting,phrase,medium
+287,155,painting,verb,medium
+288,156,full,adjective,high
+289,156,fill effect,noun,medium
+290,157,kilobyte,noun,high
+291,158,kilobit,noun,high
+292,159,cyprus,verb,high
+293,159,Northern Cyprus,verb,medium
+294,160,pray namaz,verb,high
+295,160,pray salah,verb,high
+296,161,cicero,noun,high
+297,162,notice,verb,high
+298,163,fast,adjective,high
+299,163,quickly,adverb,high
+300,163,Quick Steps,verb,medium
+301,164,not,interjection,high
+302,164,not Miòní àkókò tó tó.I donothave enough time,interjection,high
+303,165,I don't care,phrase,high
+304,166,not applicable,adjective,high
+305,167,absent,adjective,high
+306,167,Out of Office,phrase,medium
+307,168,Out of Office,phrase,high
+308,169,absent,adjective,high
+309,169,absent TraverseGPAware,adjective,high
+310,171,coca-cola,noun,high
+311,172,bug,noun,high
+312,172,bugs,verb,high
+313,172,creature,noun,high
+314,172,insect,noun,high
+315,172,bacteria,noun,medium
+316,172,bee,noun,medium
+317,172,carrier,noun,medium
+318,172,pathogen,noun,medium
+319,173,bug,noun,high
+320,173,bugs,verb,high
+321,173,creature,noun,high
+322,173,insect,noun,high
+323,173,bacteria,noun,medium
+324,173,bee,noun,medium
+325,173,carrier,noun,medium
+326,173,pathogen,noun,medium
+327,174,bee,noun,high
+328,175,carrier,noun,high
+329,175,carrier GlosbeResearch,noun,high
+330,176,pathogen,noun,high
+331,177,coronavirus,noun,high
+332,177,COVID-19,noun,high
+333,177,COVID-19noun,noun,high
+334,178,bacteria,noun,high
+335,178,bacteria TraverseGPAware,noun,high
+336,179,worm,noun,high
+337,179,worm Swadesh Lists,noun,high
+338,180,cacao,noun,high
+339,180,cacao GlosbeResearch,noun,high
+340,180,chocolate,noun,high
+341,180,chocolate GlosbeResearch,noun,high
+342,180,cocoa,noun,high
+343,180,hot chocolate,noun,high
+344,180,hot chocolate Wikisanakirja,noun,high
+345,181,anonymous,adjective,high
+346,181,anonymous Pertaining to a process or content that,adjective,high
+347,182,colombia,noun,high
+348,183,hyena,noun,high
+349,183,hyena Glosbe Research,noun,high
+350,183,wolf,noun,high
+351,183,wolf TraverseGPAware,noun,high
+352,184,south korea,noun,high
+353,185,Korea,noun,high
+354,186,corona,noun,high
+355,186,coronavirus,verb,medium
+356,187,nothing,noun,high
+357,188,fox,noun,high
+358,188,vixen,noun,high
+359,189,must-have,noun,high
+360,189,necessity,noun,high
+361,189,necessitynounkò-ṣeé-má-ní-i,noun,high
+362,189,Windows Live Essentials,phrase,medium
+363,190,Windows Live Essentials,phrase,high
+364,191,gather,verb,high
+365,192,codec,noun,high
+366,192,codec Software that,noun,high
+367,193,cocoyam,noun,high
+368,193,type of yam,phrase,high
+369,193,type of yamborabi,noun,high
+370,194,bow,verb,high
+371,194,bow Glosbe Research,verb,high
+372,194,headline,verb,high
+373,194,knob,noun,high
+374,194,body text,noun,medium
+375,194,keyword,noun,medium
+376,194,nipple,noun,medium
+377,194,theme,noun,medium
+378,194,theme pack,noun,medium
+379,195,theme,noun,high
+380,196,nipple,noun,high
+381,197,keyword,noun,high
+382,197,body text,noun,medium
+383,198,body text,noun,high
+384,199,stutter,verb,high
+385,200,take part,verb,high
+386,201,hate,verb,high
+387,201,hate TraverseGPAware,verb,high
+388,202,hate,verb,high
+389,202,resent,verb,high
+390,203,efficiency bonus,verb,high
+391,204,Costa Rica,noun,high
+392,204,Costa Ricaen.wiktionary.org,noun,high
+393,205,costa rica,noun,high
+394,205,Costa Ricaen.wiktionary.org,noun,high
+395,206,Kosovo,noun,high
+396,207,facility field,noun,high
+397,208,bar code,noun,high
+398,209,area code,noun,high
+399,210,error code,noun,high
+400,210,error codeOne of four fields of an SCODE. It,phrase,high
+401,211,postal code,noun,high
+402,212,access code,noun,high
+403,213,character code,noun,high
+404,214,club,noun,high
+405,214,club Wọ́n jàn mí níkóńdóThey beat me withclubs,noun,high
+406,215,key,noun,high
+407,216,write,verb,high
+408,217,sixth,adjective,high
+409,217,june,noun,medium
+410,218,eighth,noun,high
+411,218,eighth Ní ọ̀rúndúnkẹjọIn theeighthcentury,noun,high
+412,218,august,noun,medium
+413,219,wheel,noun,high
+414,220,fourth,adjective,high
+415,220,fourth Ní ọjọ́kẹrinOn thefourthday,adjective,high
+416,220,april,noun,medium
+417,222,kerosene,noun,high
+418,222,kerosenenouncombustible hydrocarbon liquid,noun,high
+419,223,sixteenth,adjective,high
+420,224,fourteenth,adjective,high
+421,224,fourteenth OríkẹrìnláThefourteenthchapter,adjective,high
+422,225,ninth,adjective,high
+423,225,ninth Abalakẹsàn-ánTheninthsection,adjective,high
+424,226,third,adjective,high
+425,226,third Mo ka àpilẹ̀kọkẹtaI re thethirdarticle,adjective,high
+426,226,march,noun,medium
+427,227,thirteenth,adjective,high
+428,228,"ass, donkeyen",noun,high
+429,229,tenth,adjective,high
+430,230,bicycle,noun,high
+431,230,bicycle Wiktionnaire,noun,high
+432,230,bike,noun,high
+433,230,bike Wiktionnaire,noun,high
+434,230,wheelchair,noun,medium
+435,231,wheelchair,noun,high
+436,232,rickshaw,noun,high
+437,232,tuk-tuk,noun,high
+438,233,study,verb,high
+439,234,religious discrimination,noun,high
+440,235,ethnic discrimination,noun,high
+441,235,racism,noun,high
+442,236,chemistry,noun,high
+443,237,chemistry,noun,high
+444,238,kenya,noun,high
+445,239,donkey,noun,high
+446,239,zebra,noun,medium
+447,240,zebra,noun,high
+448,240,zebranounneuterAfrican animalen.wiktionary2016,noun,high
+449,241,zebra,noun,high
+450,241,zebranounneuterAfrican animalen.wiktionary2016,noun,high
+451,242,Kenya,noun,high
+452,243,alma mater,noun,high
+453,244,fifteenth,adjective,high
+454,244,fifteenthadjectiveẸ̀kọ́ ìṣiròkẹẹ̀ẹ́dógúnnìyíThis,adjective,high
+455,245,inscribe,verb,high
+456,245,learn,verb,high
+457,245,note,verb,high
+458,246,coffee,noun,high
+459,246,coffeenounbeverageen.wiktionary2016,noun,high
+460,247,coffee,noun,high
+461,248,cross,verb,high
+462,248,cross Wọ́nkọjáààlà!Theycrossedthe line,verb,high
+463,248,fifteen past four in the afternoon,phrase,medium
+464,248,twenty past one in the afternoon,phrase,medium
+465,249,eleventh,noun,high
+466,249,eleventh ApákọkànláTheeleventhpart,noun,high
+467,249,november,noun,medium
+468,250,collide,verb,high
+469,251,attack,verb,high
+470,251,attack Wọ́nkọlùúTheyattackedhim,verb,high
+471,252,comma,noun,high
+472,252,"comma The, character.MicrosoftLanguagePortal",noun,high
+473,252,apostrophe,noun,medium
+474,253,apostrophe,noun,high
+475,253,apostrophe The ' character.MicrosoftLanguagePortal,noun,high
+476,254,confucius,verb,high
+477,255,Confucius,verb,high
+478,256,Well,noun,high
+479,257,play,verb,high
+480,257,sing,verb,high
+481,258,fox,noun,high
+482,258,foxen,noun,high
+483,258,foxnounsv.wiktionary.org,noun,high
+484,259,brain,verb,high
+485,259,brain Mallow82,verb,high
+486,259,computer,verb,high
+487,259,computing,verb,medium
+488,259,operating system,noun,medium
+489,260,brain,verb,high
+490,260,brain Mallow82,verb,high
+491,260,computer,noun,high
+492,260,computing,verb,medium
+493,260,operating system,noun,medium
+494,261,frog,noun,high
+495,262,ABS,noun,high
+496,262,ABSnoun abbreviationMallow82,noun,high
+497,262,Computer,noun,high
+498,262,PC,adjective,high
+499,262,PCadjective,noun,high
+500,262,broadband network,noun,medium
+501,262,coprocessor,noun,medium
+502,262,local area network,phrase,medium
+503,262,Messaging Application Programming Interface,phrase,medium
+504,262,portable computer,noun,medium
+505,262,software upgrade,noun,medium
+506,262,System Protection,noun,medium
+507,263,portable computer,noun,high
+508,263,docking station,noun,medium
+509,264,client computer,noun,high
+510,265,My Computer,noun,high
+511,266,homegroup computer,noun,high
+512,267,each,noun,high
+513,267,each one,noun,medium
+514,267,each person,noun,medium
+515,268,volume license key,phrase,high
+516,268,volume license product key,phrase,high
+517,268,volume license product keyMicrosoftLanguagePortal,phrase,high
+518,269,multi-activation key,noun,high
+519,270,builder,noun,high
+520,271,Kosovo,noun,high
+521,272,cursor,noun,high

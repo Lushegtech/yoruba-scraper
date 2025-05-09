@@ -1,0 +1,276 @@
+id,word_id,translation,part_of_speech,confidence
+1,1,part,verb,high
+2,1,part TraverseGPAware,verb,high
+3,3,perplexed,adjective,high
+4,3,perplexed Aderibole Peter,adjective,high
+5,4,butterfly,noun,high
+6,4,butterflyen,noun,high
+7,6,active,adjective,high
+8,6,active TraverseGPAware,adjective,high
+9,8,schedule,noun,high
+10,8,schedule TraverseGPAware,noun,high
+11,10,peninsula,noun,high
+12,11,country of origin,noun,high
+13,12,to-do,noun,high
+14,16,able,adjective,high
+15,16,able Tí ara rẹ̀ báleó ní láti ṣiṣẹ́.If he,adjective,high
+16,16,difficult,adjective,high
+17,16,durable,adjective,high
+18,16,durable TraverseGPAware,adjective,high
+19,17,le,noun,high
+20,19,strong,adjective,high
+21,19,strong TraverseGPAware,adjective,high
+22,20,Leonhard Euler HeiNER - the,noun,high
+23,28,lithuania,noun,high
+24,35,defraud,verb,high
+25,35,practice fraud,verb,high
+26,37,Kingdom of Lunda,phrase,high
+27,37,Kingdom of LundaHeiNER - the,phrase,high
+28,39,lutetiumnounelement with the atomic number of 71,noun,high
+29,40,lutetiumnounelement with the atomic number of 71,noun,high
+30,41,enlighten,verb,high
+31,42,endeavor,verb,high
+32,42,strive,verb,high
+33,42,struggle,verb,high
+34,43,rheumatism,noun,high
+35,43,rheumatism Stephen Ogunbiyi,noun,high
+36,44,rash,noun,high
+37,45,sweat,verb,high
+38,46,intuition,noun,high
+39,47,henna,adjective,high
+40,47,henna Lawsonia inermis,adjective,high
+41,48,anguish,noun,high
+42,48,ordeal,noun,high
+43,49,liberia,noun,high
+44,50,absorb,verb,high
+45,50,absorb TraverseGPAware,verb,high
+46,50,lick,verb,high
+47,51,b GlosbeResearch,adjective,high
+48,51,nasty,adjective,high
+49,51,nasty GlosbeResearch,adjective,high
+50,51,ugly,adjective,high
+51,51,ugly TraverseGPAware,adjective,high
+52,51,unpleasant,adjective,high
+53,51,unpleasant Glosbe Research,adjective,high
+54,52,under,adjective,high
+55,53,vanity,noun,high
+56,53,vanity TraverseGPAware,noun,high
+57,54,tasteful,adjective,high
+58,54,tasteful TraverseGPAware,adjective,high
+59,54,tasty,adjective,high
+60,54,tasty TraverseGPAware,adjective,high
+61,55,delightful,adjective,high
+62,55,delightful TraverseGPAware,adjective,high
+63,56,qu,adjective,high
+64,57,able,adjective,high
+65,57,powerful,adjective,high
+66,57,strong,adjective,high
+67,57,valiant,adjective,high
+68,57,valiant TraverseGPAware,adjective,high
+69,57,charge,noun,medium
+70,58,adjacent,adjective,high
+71,58,adjacent TraverseGPAware,adjective,high
+72,59,eating in excess,phrase,high
+73,59,excessive eating,verb,high
+74,60,happy,adjective,high
+75,60,happy TraverseGPAware,adjective,high
+76,61,dream,verb,high
+77,62,peaceful,adjective,high
+78,63,in the evening,phrase,high
+79,64,dragon-fly,adverb,high
+80,64,dragonfly,noun,high
+81,65,drinking in excess,noun,high
+82,65,excessive drinking,noun,high
+83,66,yesterday,adverb,high
+84,66,yesterdayadverbní ànáIgi wó lulẹ̀lánàá,adverb,high
+85,67,Latvia,noun,high
+86,68,latvia,noun,high
+87,69,from,noun,high
+88,69,to-do,noun,medium
+89,70,in society,noun,high
+90,71,between,noun,high
+91,72,without question,adverb,high
+92,73,carelessly,adverb,high
+93,74,bare,adjective,high
+94,74,bare TraverseGPAware,adjective,high
+95,74,naked,adjective,high
+96,74,naked Glosbe Research,adjective,high
+97,74,nakedness,noun,high
+98,74,nakedness Glosbe Research,adjective,high
+99,74,nudity,noun,high
+100,74,nudity Glosbe Research,adjective,high
+101,75,illegally,adverb,high
+102,76,without answering,adverb,high
+103,77,uncertain,adjective,high
+104,77,uncertain TraverseGPAware,adjective,high
+105,78,without eating,adverb,high
+106,79,unconditional,adjective,high
+107,79,unconditional TraverseGPAware,adjective,high
+108,80,patient,adjective,high
+109,80,patient TraverseGPAware,adjective,high
+110,81,inevitably,adverb,high
+111,81,without fail,adverb,high
+112,82,feeble,adjective,high
+113,82,feeble TraverseGPAware,adjective,high
+114,83,unpleasant,adjective,high
+115,83,unpleasant TraverseGPAware,adjective,high
+116,84,secure,adjective,high
+117,84,secure TraverseGPAware,adjective,high
+118,85,harmless,adjective,high
+119,85,harmless TraverseGPAware,adjective,high
+120,86,indefinite,adjective,high
+121,86,indefinite TraverseGPAware,adjective,high
+122,87,unlucky,adjective,high
+123,87,unlucky TraverseGPAware,adjective,high
+124,88,without drinking,adverb,high
+125,89,unarmed,adjective,high
+126,89,unarmed TraverseGPAware,adjective,high
+127,90,unarmed,adjective,high
+128,90,unarmed TraverseGPAware,adjective,high
+129,91,without knowing,verb,high
+130,92,easy,adjective,high
+131,92,easy TraverseGPAware,adjective,high
+132,93,objective,noun,high
+133,93,objective GlosbeResearch,noun,high
+134,94,just,adjective,high
+135,94,just TraverseGPAware,adjective,high
+136,95,unhealthy,adjective,high
+137,95,unhealthy TraverseGPAware,adjective,high
+138,96,needless,adjective,high
+139,96,needless TraverseGPAware,adjective,high
+140,97,unhappy,adjective,high
+141,97,unhappy TraverseGPAware,adjective,high
+142,98,obscene,adjective,high
+143,98,obscene TraverseGPAware,adjective,high
+144,99,carefree,adjective,high
+145,99,carefree TraverseGPAware,adjective,high
+146,99,hectic,adjective,high
+147,99,hectic TraverseGPAware,adjective,high
+148,100,incorrect,adjective,high
+149,100,incorrect TraverseGPAware,adjective,high
+150,101,soon,adverb,high
+151,102,thoughtlessly,adverb,high
+152,103,suddenly,adverb,high
+153,103,unexpectedly,adverb,high
+154,104,without,adverb,high
+155,105,without a doubt,phrase,high
+156,105,without question,noun,high
+157,106,extemporaneously,adverb,high
+158,106,from memory,adverb,high
+159,106,off the top of ones he,phrase,high
+160,106,without reference,noun,high
+161,107,inefficient,adjective,high
+162,107,inefficient TraverseGPAware,adjective,high
+163,108,without difficulty,adverb,high
+164,109,laos,noun,high
+165,110,be able,adjective,high
+166,110,can,verb,high
+167,111,imam,noun,high
+168,112,lesotho,noun,high
+169,113,chase,verb,high
+170,114,banish,verb,high
+171,114,banish TraverseGPAware,verb,high
+172,115,follows,verb,high
+173,116,today,noun,high
+174,117,oily,adjective,high
+175,117,oily TraverseGPAware,adjective,high
+176,118,above,noun,high
+177,118,aboveadpositionTraverseGPAware,noun,high
+178,118,promise,verb,high
+179,119,about,noun,high
+180,120,dangerous,adjective,high
+181,120,risky,adjective,high
+182,120,endanger,noun,medium
+183,121,hazardous,adjective,high
+184,121,hazardous TraverseGPAware,adjective,high
+185,122,last year,adverb,high
+186,122,last yearadverbní èṣíÀjàkáyé àrùn bẹ́ sílẹ̀léṣìí,adverb,high
+187,123,teach,verb,high
+188,123,teach To pass on knowledge and skills.omega,verb,high
+189,123,Could you teach me,phrase,medium
+190,124,libya,noun,high
+191,125,harsh,adjective,high
+192,125,hurricane,noun,medium
+193,126,potent,adjective,high
+194,127,beat,noun,high
+195,127,beating,noun,high
+196,128,beating,noun,high
+197,128,beating TraverseGPAware,noun,high
+198,129,literature,noun,high
+199,129,literaturenounwritten work of art,noun,high
+200,129,history of literature,phrase,medium
+201,129,literary science,noun,medium
+202,129,literary work,noun,medium
+203,129,religious literature,noun,medium
+204,130,religious literature,noun,high
+205,130,religious literaturegenre of literature,phrase,high
+206,131,apply,verb,high
+207,131,take advantage,noun,medium
+208,132,take advantage,verb,high
+209,133,unlawful,adjective,high
+210,133,unlawful TraverseGPAware,adjective,high
+211,134,vain,adjective,high
+212,134,vain TraverseGPAware,adjective,high
+213,135,abrupt,adjective,high
+214,135,abrupt TraverseGPAware,adjective,high
+215,135,abruptly,adverb,high
+216,135,suddenly,adverb,high
+217,135,unaware,adjective,high
+218,136,overnight,adjective,high
+219,137,on,adjective,high
+220,137,active document,noun,medium
+221,137,active sheet,noun,medium
+222,137,Internet Information Services,phrase,medium
+223,137,Internet Message Access Protocol,phrase,medium
+224,137,online help,noun,medium
+225,137,online manual,adjective,medium
+226,137,overtype,noun,medium
+227,137,overtype mode,noun,medium
+228,138,acute,adjective,high
+229,138,acute TraverseGPAware,adjective,high
+230,139,to be pregnant,phrase,high
+231,140,beat,verb,high
+232,140,hit,verb,high
+233,140,knock,verb,high
+234,141,hibernate,verb,high
+235,142,luxembourg,noun,high
+236,143,swim,verb,high
+237,143,swim Mo fẹ́ máalúwẹ̀ẹ́lónìí.I want toswimtoday,verb,high
+238,144,paste,verb,high
+239,145,lebanon,noun,high
+240,146,legend,noun,high
+241,147,spacing character,noun,high
+242,148,non-spacing character,noun,high
+243,149,ampersand,noun,high
+244,149,ampersandnouncharacter.MicrosoftLanguagePortal,noun,high
+245,150,precomposed character,noun,high
+246,151,bullet character,noun,high
+247,152,lowercase,noun,high
+248,153,pipe,verb,high
+249,153,pipe The | character.MicrosoftLanguagePortal,verb,high
+250,154,composite character,noun,high
+251,155,drive letter,noun,high
+252,156,nonprinting character,noun,high
+253,157,base character,noun,high
+254,158,uppercase letter,noun,high
+255,159,capital letter,noun,high
+256,159,capitalized letter,noun,high
+257,160,italic,noun,high
+258,161,uppercase,noun,high
+259,162,after,adverb,high
+260,163,natural pencil,noun,high
+261,164,again,adverb,high
+262,164,again adpositionGbìyànjúlẹ́ẹ̀kan sí i.Tryagain,adverb,high
+263,165,occasionally,adverb,high
+264,165,occasionallyadverbní ẹ̀ẹ̀kọ̀ọ̀kan,adverb,high
+265,165,once in a while,adverb,high
+266,166,in both cases,phrase,high
+267,167,go,verb,high
+268,167,go Jẹ́ kálọoLet'sgo,verb,high
+269,167,grind,verb,high
+270,168,london,noun,high
+271,169,tomorrow,noun,high
+272,169,tomorrow adverbní ọ̀laMàá wálọ́laI'll cometomorrow,noun,high
+273,170,in the afternoon,phrase,high
+274,170,in the afternoonní ọ̀sán,phrase,high
+275,171,on the day after tomorrow,phrase,high

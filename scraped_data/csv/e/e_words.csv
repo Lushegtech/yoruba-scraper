@@ -1,0 +1,324 @@
+id,word,url,scrape_time,status,error
+1,e,https://glosbe.com/yo/en/e,2025-05-08 04:41:49,success,
+2,E ku odun keresimesi,https://glosbe.com/yo/en/E%20ku%20odun%20keresimesi,2025-05-08 04:51:32,success,
+3,e se,https://glosbe.com/yo/en/e%20se,2025-05-08 04:25:58,success,
+4,ebà,https://glosbe.com/yo/en/eba%CC%80,2025-05-08 05:06:22,failed,Status code: 404
+5,ebè,https://glosbe.com/yo/en/ebe%CC%80,2025-05-08 04:59:01,success,
+6,ebi,https://glosbe.com/yo/en/ebi,2025-05-08 04:54:09,success,
+7,ebí,https://glosbe.com/yo/en/ebi%CC%81,2025-05-08 04:54:55,success,
+8,ecaro,https://glosbe.com/yo/en/ecaro,2025-05-08 05:06:07,success,
+9,Ede Greeki,https://glosbe.com/yo/en/Ede%20Greeki,2025-05-08 04:53:31,success,
+10,Ede Latini,https://glosbe.com/yo/en/Ede%20Latini,2025-05-08 04:55:32,success,
+11,ede Yorùbá,https://glosbe.com/yo/en/ede%20Yoru%CC%80ba%CC%81,2025-05-08 04:52:21,failed,Status code: 404
+12,Eedu,https://glosbe.com/yo/en/Eedu,2025-05-08 04:25:39,success,
+13,eegun,https://glosbe.com/yo/en/eegun,2025-05-08 05:00:33,success,
+14,eèré,https://glosbe.com/yo/en/ee%CC%80re%CC%81,2025-05-08 04:46:39,failed,Status code: 404
+15,eégbo̩n,https://glosbe.com/yo/en/ee%CC%81gbo%CC%A9n,2025-05-08 05:02:52,success,
+16,eéjì,https://glosbe.com/yo/en/ee%CC%81ji%CC%80,2025-05-08 04:49:23,success,
+17,eéru,https://glosbe.com/yo/en/ee%CC%81ru,2025-05-08 04:47:09,failed,Status code: 404
+18,eérú,https://glosbe.com/yo/en/ee%CC%81ru%CC%81,2025-05-08 04:26:10,success,
+19,eéwo,https://glosbe.com/yo/en/ee%CC%81wo,2025-05-08 04:29:24,success,
+20,efinrin,https://glosbe.com/yo/en/efinrin,2025-05-08 04:35:57,success,
+21,efirin,https://glosbe.com/yo/en/efirin,2025-05-08 04:53:12,success,
+22,efun,https://glosbe.com/yo/en/efun,2025-05-08 04:34:05,success,
+23,Egbe Omo Oduduwa,https://glosbe.com/yo/en/Egbe%20Omo%20Oduduwa,2025-05-08 04:34:20,success,
+24,Egbe Oselu Olominira ti Puerto Rico,https://glosbe.com/yo/en/Egbe%20Oselu%20Olominira%20ti%20Puerto%20Rico,2025-05-08 04:51:13,success,
+25,egbèje,https://glosbe.com/yo/en/egbe%CC%80je,2025-05-08 04:57:19,success,
+26,egbére,https://glosbe.com/yo/en/egbe%CC%81re,2025-05-08 04:32:30,success,
+27,egbon,https://glosbe.com/yo/en/egbon,2025-05-08 04:59:58,success,
+28,egbò,https://glosbe.com/yo/en/egbo%CC%80,2025-05-08 04:29:07,success,
+29,egbòogi,https://glosbe.com/yo/en/egbo%CC%80ogi,2025-05-08 04:36:44,success,
+30,eginni,https://glosbe.com/yo/en/eginni,2025-05-08 05:04:06,success,
+31,Egungun,https://glosbe.com/yo/en/Egungun,2025-05-08 04:36:22,success,
+32,egungun agbárí,https://glosbe.com/yo/en/egungun%20agba%CC%81ri%CC%81,2025-05-08 04:43:23,success,
+33,egungunikere ìlẹ́kùn,https://glosbe.com/yo/en/egungunikere%20i%CC%80le%CC%A3%CC%81ku%CC%80n,2025-05-08 04:31:12,failed,Status code: 404
+34,ehín,https://glosbe.com/yo/en/ehi%CC%81n,2025-05-08 04:49:39,success,
+35,ehínerìgiògàn,https://glosbe.com/yo/en/ehi%CC%81neri%CC%80gio%CC%80ga%CC%80n,2025-05-08 04:30:07,failed,Status code: 404
+36,ehínerìgiọ̀gàn,https://glosbe.com/yo/en/ehi%CC%81neri%CC%80gio%CC%A3%CC%80ga%CC%80n,2025-05-08 04:43:40,success,
+37,ehínerìgiò̩gàn,https://glosbe.com/yo/en/ehi%CC%81neri%CC%80gio%CC%A9%CC%80ga%CC%80n,2025-05-08 04:31:50,success,
+38,ehoro,https://glosbe.com/yo/en/ehoro,2025-05-08 04:43:54,success,
+39,ehoro onirun,https://glosbe.com/yo/en/ehoro%20onirun,2025-05-08 04:34:38,success,
+40,ehoro onírun,https://glosbe.com/yo/en/ehoro%20oni%CC%81run,2025-05-08 04:54:01,failed,Status code: 404
+41,einsteiniom,https://glosbe.com/yo/en/einsteiniom,2025-05-08 04:27:01,success,
+42,eiye,https://glosbe.com/yo/en/eiye,2025-05-08 04:43:49,success,
+43,eìko,https://glosbe.com/yo/en/ei%CC%80ko,2025-05-08 04:59:36,failed,Status code: 404
+44,eja,https://glosbe.com/yo/en/eja,2025-05-08 05:01:06,success,
+45,eji,https://glosbe.com/yo/en/eji,2025-05-08 04:31:57,success,
+46,eji wọwọ,https://glosbe.com/yo/en/eji%20wo%CC%A3wo%CC%A3,2025-05-08 04:48:40,success,
+47,ejirin weere,https://glosbe.com/yo/en/ejirin%20weere,2025-05-08 04:33:59,success,
+48,ejò,https://glosbe.com/yo/en/ejo%CC%80,2025-05-08 05:02:01,success,
+49,ejọ́,https://glosbe.com/yo/en/ejo%CC%A3%CC%81,2025-05-08 04:57:58,success,
+50,ejó̩,https://glosbe.com/yo/en/ejo%CC%A9%CC%81,2025-05-08 04:36:51,failed,Status code: 404
+51,Eko,https://glosbe.com/yo/en/Eko,2025-05-08 04:37:04,success,
+52,Eku odun ajinde,https://glosbe.com/yo/en/Eku%20odun%20ajinde,2025-05-08 04:58:33,success,
+53,eku ojo meta,https://glosbe.com/yo/en/eku%20ojo%20meta,2025-05-08 04:45:55,success,
+54,ekute,https://glosbe.com/yo/en/ekute,2025-05-08 04:35:15,success,
+55,ekùn,https://glosbe.com/yo/en/eku%CC%80n,2025-05-08 04:52:03,success,
+56,ekún,https://glosbe.com/yo/en/eku%CC%81n,2025-05-08 04:44:32,failed,Status code: 404
+57,el d,https://glosbe.com/yo/en/el%20d,2025-05-08 04:25:52,success,
+58,el salvador,https://glosbe.com/yo/en/el%20salvador,2025-05-08 04:44:55,success,
+59,eld,https://glosbe.com/yo/en/eld,2025-05-08 04:51:22,success,
+60,Eledumare,https://glosbe.com/yo/en/Eledumare,2025-05-08 04:41:01,success,
+61,Eletan,https://glosbe.com/yo/en/Eletan,2025-05-08 04:27:11,success,
+62,elégbede,https://glosbe.com/yo/en/ele%CC%81gbede,2025-05-08 04:42:36,failed,Status code: 404
+63,elégédé,https://glosbe.com/yo/en/ele%CC%81ge%CC%81de%CC%81,2025-05-08 04:42:52,success,
+64,eléré,https://glosbe.com/yo/en/ele%CC%81re%CC%81,2025-05-08 04:30:55,success,
+65,eléré ìtàkìtì,https://glosbe.com/yo/en/ele%CC%81re%CC%81%20i%CC%80ta%CC%80ki%CC%80ti%CC%80,2025-05-08 04:50:02,failed,Status code: 404
+66,eléròkerò,https://glosbe.com/yo/en/ele%CC%81ro%CC%80kero%CC%80,2025-05-08 04:26:03,success,
+67,eliri,https://glosbe.com/yo/en/eliri,2025-05-08 05:06:27,success,
+68,elufidodo,https://glosbe.com/yo/en/elufidodo,2025-05-08 04:59:49,success,
+69,emi,https://glosbe.com/yo/en/emi,2025-05-08 04:29:45,success,
+70,emurẹn,https://glosbe.com/yo/en/emure%CC%A3n,2025-05-08 04:40:45,failed,Status code: 404
+71,enití ngun òkè,https://glosbe.com/yo/en/eniti%CC%81%20ngun%20o%CC%80ke%CC%80,2025-05-08 04:36:29,failed,Status code: 404
+72,Enìkan,https://glosbe.com/yo/en/Eni%CC%80kan,2025-05-08 04:40:13,success,
+73,enìkan,https://glosbe.com/yo/en/eni%CC%80kan,2025-05-08 05:01:12,success,
+74,enìkejì,https://glosbe.com/yo/en/eni%CC%80keji%CC%80,2025-05-08 04:27:19,failed,Status code: 404
+75,ení,https://glosbe.com/yo/en/eni%CC%81,2025-05-08 04:52:30,success,
+76,enu,https://glosbe.com/yo/en/enu,2025-05-08 04:43:10,success,
+77,enu eye ìmú agogo eye,https://glosbe.com/yo/en/enu%20eye%20i%CC%80mu%CC%81%20agogo%20eye,2025-05-08 05:01:46,failed,Status code: 404
+78,enugu,https://glosbe.com/yo/en/enugu,2025-05-08 04:51:56,success,
+79,Enugu,https://glosbe.com/yo/en/Enugu,2025-05-08 04:58:19,success,
+80,epo,https://glosbe.com/yo/en/epo,2025-05-08 04:27:49,success,
+81,Epo,https://glosbe.com/yo/en/Epo,2025-05-08 04:39:51,success,
+82,epo pupa,https://glosbe.com/yo/en/epo%20pupa,2025-05-08 04:32:49,success,
+83,Epo Pupa,https://glosbe.com/yo/en/Epo%20Pupa,2025-05-08 04:56:35,success,
+84,epo rọ̀bì,https://glosbe.com/yo/en/epo%20ro%CC%A3%CC%80bi%CC%80,2025-05-08 05:00:14,success,
+85,Equal-loudness contour,https://glosbe.com/yo/en/Equal-loudness%20contour,2025-05-08 04:40:07,success,
+86,eran,https://glosbe.com/yo/en/eran,2025-05-08 05:03:49,success,
+87,eranko ènìà,https://glosbe.com/yo/en/eranko%20e%CC%80ni%CC%80a%CC%80,2025-05-08 04:39:28,failed,Status code: 404
+88,Erbium,https://glosbe.com/yo/en/Erbium,2025-05-08 04:38:43,success,
+89,ere,https://glosbe.com/yo/en/ere,2025-05-08 04:30:18,success,
+90,ere idanilaraya,https://glosbe.com/yo/en/ere%20idanilaraya,2025-05-08 05:03:28,success,
+91,eré amóhùn máwòrán,https://glosbe.com/yo/en/ere%CC%81%20amo%CC%81hu%CC%80n%20ma%CC%81wo%CC%80ra%CC%81n,2025-05-08 05:05:58,success,
+92,eré àdákọ,https://glosbe.com/yo/en/ere%CC%81%20a%CC%80da%CC%81ko%CC%A3,2025-05-08 04:51:41,failed,Status code: 404
+93,eré ìje,https://glosbe.com/yo/en/ere%CC%81%20i%CC%80je,2025-05-08 05:03:42,success,
+94,eré ìnàjú,https://glosbe.com/yo/en/ere%CC%81%20i%CC%80na%CC%80ju%CC%81,2025-05-08 04:27:28,success,
+95,eré ìtàkìtì,https://glosbe.com/yo/en/ere%CC%81%20i%CC%80ta%CC%80ki%CC%80ti%CC%80,2025-05-08 04:35:36,failed,Status code: 404
+96,eré ládojúdé,https://glosbe.com/yo/en/ere%CC%81%20la%CC%81doju%CC%81de%CC%81,2025-05-08 04:43:17,failed,Status code: 404
+97,eré onítàn olórin,https://glosbe.com/yo/en/ere%CC%81%20oni%CC%81ta%CC%80n%20olo%CC%81rin,2025-05-08 05:04:58,failed,Status code: 404
+98,eré orin,https://glosbe.com/yo/en/ere%CC%81%20orin,2025-05-08 04:41:29,success,
+99,eré oríìtàgé,https://glosbe.com/yo/en/ere%CC%81%20ori%CC%81i%CC%80ta%CC%80ge%CC%81,2025-05-08 05:02:08,failed,Status code: 404
+100,eré ṣíṣé,https://glosbe.com/yo/en/ere%CC%81%20s%CC%A3i%CC%81s%CC%A3e%CC%81,2025-05-08 05:04:12,failed,Status code: 404
+101,erékùṣù,https://glosbe.com/yo/en/ere%CC%81ku%CC%80s%CC%A3u%CC%80,2025-05-08 04:50:18,success,
+102,Erékùṣù,https://glosbe.com/yo/en/Ere%CC%81ku%CC%80s%CC%A3u%CC%80,2025-05-08 04:50:46,success,
+103,erékùṣù brítánì olókìkí,https://glosbe.com/yo/en/ere%CC%81ku%CC%80s%CC%A3u%CC%80%20bri%CC%81ta%CC%81ni%CC%80%20olo%CC%81ki%CC%80ki%CC%81,2025-05-08 04:55:02,failed,Status code: 404
+104,erékùṣù kérésìmesìerékùṣù,https://glosbe.com/yo/en/ere%CC%81ku%CC%80s%CC%A3u%CC%80%20ke%CC%81re%CC%81si%CC%80mesi%CC%80ere%CC%81ku%CC%80s%CC%A3u%CC%80,2025-05-08 04:46:08,failed,Status code: 404
+105,erékùṣù norfolk,https://glosbe.com/yo/en/ere%CC%81ku%CC%80s%CC%A3u%CC%80%20norfolk,2025-05-08 04:47:02,failed,Status code: 404
+106,erékúsù,https://glosbe.com/yo/en/ere%CC%81ku%CC%81su%CC%80,2025-05-08 05:00:24,failed,Status code: 404
+107,erin,https://glosbe.com/yo/en/erin,2025-05-08 04:44:45,success,
+108,Erin,https://glosbe.com/yo/en/Erin,2025-05-08 05:02:43,success,
+109,erinmi,https://glosbe.com/yo/en/erinmi,2025-05-08 04:56:26,success,
+110,erinmi kékeré,https://glosbe.com/yo/en/erinmi%20ke%CC%81kere%CC%81,2025-05-08 04:33:40,success,
+111,ero,https://glosbe.com/yo/en/ero,2025-05-08 04:29:00,success,
+112,ero onisiro,https://glosbe.com/yo/en/ero%20onisiro,2025-05-08 04:45:40,success,
+113,erongba,https://glosbe.com/yo/en/erongba,2025-05-08 04:38:26,success,
+114,eru,https://glosbe.com/yo/en/eru,2025-05-08 05:04:43,success,
+115,eruku,https://glosbe.com/yo/en/eruku,2025-05-08 04:35:20,success,
+116,erù,https://glosbe.com/yo/en/eru%CC%80,2025-05-08 04:35:31,failed,Status code: 404
+117,erùn,https://glosbe.com/yo/en/eru%CC%80n,2025-05-08 05:05:26,failed,Status code: 404
+118,erú,https://glosbe.com/yo/en/eru%CC%81,2025-05-08 04:58:52,failed,Status code: 404
+119,es,https://glosbe.com/yo/en/es,2025-05-08 04:39:15,success,
+120,Esan,https://glosbe.com/yo/en/Esan,2025-05-08 04:28:13,success,
+121,esaro,https://glosbe.com/yo/en/esaro,2025-05-08 04:57:49,success,
+122,ese,https://glosbe.com/yo/en/ese,2025-05-08 04:58:41,success,
+123,esè,https://glosbe.com/yo/en/ese%CC%80,2025-05-08 04:41:24,failed,Status code: 404
+124,esè ènìyàn,https://glosbe.com/yo/en/ese%CC%80%20e%CC%80ni%CC%80ya%CC%80n,2025-05-08 04:42:11,failed,Status code: 404
+125,esé,https://glosbe.com/yo/en/ese%CC%81,2025-05-08 04:52:14,success,
+126,esinsin,https://glosbe.com/yo/en/esinsin,2025-05-08 04:54:25,success,
+127,esperanto,https://glosbe.com/yo/en/esperanto,2025-05-08 04:45:25,success,
+128,Estonia,https://glosbe.com/yo/en/Estonia,2025-05-08 05:01:51,success,
+129,estóníà,https://glosbe.com/yo/en/esto%CC%81ni%CC%81a%CC%80,2025-05-08 04:26:51,failed,Status code: 404
+130,etí,https://glosbe.com/yo/en/eti%CC%81,2025-05-08 04:55:59,success,
+131,èbu,https://glosbe.com/yo/en/e%CC%80bu,2025-05-08 04:34:11,failed,Status code: 404
+132,Èbu,https://glosbe.com/yo/en/E%CC%80bu,2025-05-08 04:57:42,failed,Status code: 404
+133,èbúté,https://glosbe.com/yo/en/e%CC%80bu%CC%81te%CC%81,2025-05-08 04:34:59,success,
+134,ède lárúbáwá,https://glosbe.com/yo/en/e%CC%80de%20la%CC%81ru%CC%81ba%CC%81wa%CC%81,2025-05-08 04:26:36,failed,Status code: 404
+135,Èdè,https://glosbe.com/yo/en/E%CC%80de%CC%80,2025-05-08 04:25:47,success,
+136,èdè,https://glosbe.com/yo/en/e%CC%80de%CC%80,2025-05-08 04:33:16,success,
+137,Èdè agbègbè,https://glosbe.com/yo/en/E%CC%80de%CC%80%20agbe%CC%80gbe%CC%80,2025-05-08 04:39:56,success,
+138,Èdè aláìbá Unicode ṣe,https://glosbe.com/yo/en/E%CC%80de%CC%80%20ala%CC%81i%CC%80ba%CC%81%20Unicode%20s%CC%A3e,2025-05-08 04:59:29,failed,Status code: 404
+139,Èdè Aṣàmì Ọ̀rọ̀,https://glosbe.com/yo/en/E%CC%80de%CC%80%20As%CC%A3a%CC%80mi%CC%80%20O%CC%A3%CC%80ro%CC%A3%CC%80,2025-05-08 04:49:00,failed,Status code: 404
+140,Èdè Aṣèbéèrè Agúnrégé,https://glosbe.com/yo/en/E%CC%80de%CC%80%20As%CC%A3e%CC%80be%CC%81e%CC%80re%CC%80%20Agu%CC%81nre%CC%81ge%CC%81,2025-05-08 04:31:43,failed,Status code: 404
+141,Èdè Aṣèyípadà Èdè Mìíràn,https://glosbe.com/yo/en/E%CC%80de%CC%80%20As%CC%A3e%CC%80yi%CC%81pada%CC%80%20E%CC%80de%CC%80%20Mi%CC%80i%CC%81ra%CC%80n,2025-05-08 04:27:59,failed,Status code: 404
+142,èdè àkólò,https://glosbe.com/yo/en/e%CC%80de%CC%80%20a%CC%80ko%CC%81lo%CC%80,2025-05-08 04:30:13,failed,Status code: 404
+143,èdè àwọn Tàtàmbúlù,https://glosbe.com/yo/en/e%CC%80de%CC%80%20a%CC%80wo%CC%A3n%20Ta%CC%80ta%CC%80mbu%CC%81lu%CC%80,2025-05-08 04:36:03,failed,Status code: 404
+144,èdè áfríkáánì,https://glosbe.com/yo/en/e%CC%80de%CC%80%20a%CC%81fri%CC%81ka%CC%81a%CC%81ni%CC%80,2025-05-08 04:38:06,failed,Status code: 404
+145,èdè Ẹdó,https://glosbe.com/yo/en/e%CC%80de%CC%80%20E%CC%A3do%CC%81,2025-05-08 04:47:39,failed,Status code: 404
+146,èdè faransé,https://glosbe.com/yo/en/e%CC%80de%CC%80%20faranse%CC%81,2025-05-08 04:34:46,success,
+147,èdè Faransé,https://glosbe.com/yo/en/e%CC%80de%CC%80%20Faranse%CC%81,2025-05-08 04:56:44,success,
+148,èdè fínlándì,https://glosbe.com/yo/en/e%CC%80de%CC%80%20fi%CC%81nla%CC%81ndi%CC%80,2025-05-08 04:54:49,failed,Status code: 404
+149,èdè gẹ̀ẹ́sì,https://glosbe.com/yo/en/e%CC%80de%CC%80%20ge%CC%A3%CC%80e%CC%A3%CC%81si%CC%80,2025-05-08 04:51:48,success,
+150,Èdè Gẹ̀ẹ́sì,https://glosbe.com/yo/en/E%CC%80de%CC%80%20Ge%CC%A3%CC%80e%CC%A3%CC%81si%CC%80,2025-05-08 04:57:12,success,
+151,èdè Gíríìkì,https://glosbe.com/yo/en/e%CC%80de%CC%80%20Gi%CC%81ri%CC%81i%CC%80ki%CC%80,2025-05-08 04:39:44,success,
+152,èdè gríkì,https://glosbe.com/yo/en/e%CC%80de%CC%80%20gri%CC%81ki%CC%80,2025-05-08 04:53:38,failed,Status code: 404
+153,èdè Haúsá,https://glosbe.com/yo/en/e%CC%80de%CC%80%20Hau%CC%81sa%CC%81,2025-05-08 04:34:54,success,
+154,èdè hébérù,https://glosbe.com/yo/en/e%CC%80de%CC%80%20he%CC%81be%CC%81ru%CC%80,2025-05-08 04:41:12,success,
+155,èdè Hébérù,https://glosbe.com/yo/en/e%CC%80de%CC%80%20He%CC%81be%CC%81ru%CC%80,2025-05-08 05:02:31,success,
+156,èdè Híńdì,https://glosbe.com/yo/en/e%CC%80de%CC%80%20Hi%CC%81n%CC%81di%CC%80,2025-05-08 04:37:53,success,
+157,èdè húngárì,https://glosbe.com/yo/en/e%CC%80de%CC%80%20hu%CC%81nga%CC%81ri%CC%80,2025-05-08 04:44:02,failed,Status code: 404
+158,èdè Indonéṣíà,https://glosbe.com/yo/en/e%CC%80de%CC%80%20Indone%CC%81s%CC%A3i%CC%81a%CC%80,2025-05-08 04:45:30,success,
+159,Èdè iṣẹ́ọba,https://glosbe.com/yo/en/E%CC%80de%CC%80%20is%CC%A3e%CC%A3%CC%81o%CC%A3ba,2025-05-08 04:29:59,success,
+160,èdè iṣẹ́ọba,https://glosbe.com/yo/en/e%CC%80de%CC%80%20is%CC%A3e%CC%A3%CC%81o%CC%A3ba,2025-05-08 04:53:52,success,
+161,èdè ìdílé,https://glosbe.com/yo/en/e%CC%80de%CC%80%20i%CC%80di%CC%81le%CC%81,2025-05-08 05:00:49,success,
+162,èdè Ìgbò,https://glosbe.com/yo/en/e%CC%80de%CC%80%20I%CC%80gbo%CC%80,2025-05-08 04:37:10,success,
+163,èdè ìpìlè,https://glosbe.com/yo/en/e%CC%80de%CC%80%20i%CC%80pi%CC%80le%CC%80,2025-05-08 04:48:13,failed,Status code: 404
+164,èdè ìpìlẹ̀,https://glosbe.com/yo/en/e%CC%80de%CC%80%20i%CC%80pi%CC%80le%CC%A3%CC%80,2025-05-08 04:31:34,success,
+165,Èdè Ìrànlọ́wọ́ Káríayé,https://glosbe.com/yo/en/E%CC%80de%CC%80%20I%CC%80ra%CC%80nlo%CC%A3%CC%81wo%CC%A3%CC%81%20Ka%CC%81ri%CC%81aye%CC%81,2025-05-08 04:28:54,failed,Status code: 404
+166,èdè ìṣàmìsí ẹ̀tọ́ díjítà,https://glosbe.com/yo/en/e%CC%80de%CC%80%20i%CC%80s%CC%A3a%CC%80mi%CC%80si%CC%81%20e%CC%A3%CC%80to%CC%A3%CC%81%20di%CC%81ji%CC%81ta%CC%80,2025-05-08 04:44:26,failed,Status code: 404
+167,Èdè Ìṣèlànà Kọ̀mpútà,https://glosbe.com/yo/en/E%CC%80de%CC%80%20I%CC%80s%CC%A3e%CC%80la%CC%80na%CC%80%20Ko%CC%A3%CC%80mpu%CC%81ta%CC%80,2025-05-08 04:37:18,failed,Status code: 404
+168,Èdè Ígbò,https://glosbe.com/yo/en/E%CC%80de%CC%80%20I%CC%81gbo%CC%80,2025-05-08 04:25:33,failed,Status code: 404
+169,èdè Ítálì,https://glosbe.com/yo/en/e%CC%80de%CC%80%20I%CC%81ta%CC%81li%CC%80,2025-05-08 04:46:21,success,
+170,èdè japaní,https://glosbe.com/yo/en/e%CC%80de%CC%80%20japani%CC%81,2025-05-08 04:26:43,failed,Status code: 404
+171,èdè Jámánì,https://glosbe.com/yo/en/e%CC%80de%CC%80%20Ja%CC%81ma%CC%81ni%CC%80,2025-05-08 04:44:06,success,
+172,èdè jẹ́mánì,https://glosbe.com/yo/en/e%CC%80de%CC%80%20je%CC%A3%CC%81ma%CC%81ni%CC%80,2025-05-08 04:28:08,failed,Status code: 404
+173,èdè kọ̀ǹpútà,https://glosbe.com/yo/en/e%CC%80de%CC%80%20ko%CC%A3%CC%80n%CC%80pu%CC%81ta%CC%80,2025-05-08 04:37:46,success,
+174,èdè kroatíà,https://glosbe.com/yo/en/e%CC%80de%CC%80%20kroati%CC%81a%CC%80,2025-05-08 04:41:39,failed,Status code: 404
+175,èdè Lárúbáwá,https://glosbe.com/yo/en/e%CC%80de%CC%80%20La%CC%81ru%CC%81ba%CC%81wa%CC%81,2025-05-08 04:58:08,success,
+176,èdè látìnì,https://glosbe.com/yo/en/e%CC%80de%CC%80%20la%CC%81ti%CC%80ni%CC%80,2025-05-08 04:45:19,success,
+177,èdè Látìnì,https://glosbe.com/yo/en/e%CC%80de%CC%80%20La%CC%81ti%CC%80ni%CC%80,2025-05-08 05:05:17,success,
+178,èdè Màléṣíà,https://glosbe.com/yo/en/e%CC%80de%CC%80%20Ma%CC%80le%CC%81s%CC%A3i%CC%81a%CC%80,2025-05-08 04:45:45,failed,Status code: 404
+179,èdè Páṣíà,https://glosbe.com/yo/en/e%CC%80de%CC%80%20Pa%CC%81s%CC%A3i%CC%81a%CC%80,2025-05-08 04:30:26,success,
+180,èdè Potogí,https://glosbe.com/yo/en/e%CC%80de%CC%80%20Potogi%CC%81,2025-05-08 05:02:16,success,
+181,èdè pólándì,https://glosbe.com/yo/en/e%CC%80de%CC%80%20po%CC%81la%CC%81ndi%CC%80,2025-05-08 04:29:51,failed,Status code: 404
+182,èdè pọrtugí,https://glosbe.com/yo/en/e%CC%80de%CC%80%20po%CC%A3rtugi%CC%81,2025-05-08 04:56:17,failed,Status code: 404
+183,èdè rọ́síà,https://glosbe.com/yo/en/e%CC%80de%CC%80%20ro%CC%A3%CC%81si%CC%81a%CC%80,2025-05-08 05:03:35,success,
+184,èdè Rọ́ṣíà,https://glosbe.com/yo/en/e%CC%80de%CC%80%20Ro%CC%A3%CC%81s%CC%A3i%CC%81a%CC%80,2025-05-08 05:03:22,success,
+185,èdè Sípéènì,https://glosbe.com/yo/en/e%CC%80de%CC%80%20Si%CC%81pe%CC%81e%CC%80ni%CC%80,2025-05-08 04:49:33,success,
+186,èdè slofákíà,https://glosbe.com/yo/en/e%CC%80de%CC%80%20slofa%CC%81ki%CC%81a%CC%80,2025-05-08 04:28:30,failed,Status code: 404
+187,èdè spéìn,https://glosbe.com/yo/en/e%CC%80de%CC%80%20spe%CC%81i%CC%80n,2025-05-08 05:04:52,failed,Status code: 404
+188,èdè Sùwàhílì,https://glosbe.com/yo/en/e%CC%80de%CC%80%20Su%CC%80wa%CC%80hi%CC%81li%CC%80,2025-05-08 04:40:30,failed,Status code: 404
+189,èdè swàhílì,https://glosbe.com/yo/en/e%CC%80de%CC%80%20swa%CC%80hi%CC%81li%CC%80,2025-05-08 04:37:40,failed,Status code: 404
+190,èdè Ṣáínà,https://glosbe.com/yo/en/e%CC%80de%CC%80%20S%CC%A3a%CC%81i%CC%81na%CC%80,2025-05-08 04:39:36,success,
+191,èdè ṣáínà,https://glosbe.com/yo/en/e%CC%80de%CC%80%20s%CC%A3a%CC%81i%CC%81na%CC%80,2025-05-08 04:52:44,success,
+192,èdè tàmil,https://glosbe.com/yo/en/e%CC%80de%CC%80%20ta%CC%80mil,2025-05-08 04:41:58,failed,Status code: 404
+193,èdè Tápà,https://glosbe.com/yo/en/e%CC%80de%CC%80%20Ta%CC%81pa%CC%80,2025-05-08 05:03:17,failed,Status code: 404
+194,èdè tháí,https://glosbe.com/yo/en/e%CC%80de%CC%80%20tha%CC%81i%CC%81,2025-05-08 04:59:24,failed,Status code: 404
+195,èdè tii alò,https://glosbe.com/yo/en/e%CC%80de%CC%80%20tii%20alo%CC%80,2025-05-08 04:28:41,failed,Status code: 404
+196,èdè Tọ́kì,https://glosbe.com/yo/en/e%CC%80de%CC%80%20To%CC%A3%CC%81ki%CC%80,2025-05-08 04:50:38,success,
+197,èdè tsẹ́kì,https://glosbe.com/yo/en/e%CC%80de%CC%80%20tse%CC%A3%CC%81ki%CC%80,2025-05-08 04:32:59,failed,Status code: 404
+198,Èdè Tswana,https://glosbe.com/yo/en/E%CC%80de%CC%80%20Tswana,2025-05-08 05:01:30,success,
+199,èdè túrkì,https://glosbe.com/yo/en/e%CC%80de%CC%80%20tu%CC%81rki%CC%80,2025-05-08 04:45:11,failed,Status code: 404
+200,èdè vietnam,https://glosbe.com/yo/en/e%CC%80de%CC%80%20vietnam,2025-05-08 04:58:26,success,
+201,èdè Wọ́lọ́ọ̀fù,https://glosbe.com/yo/en/e%CC%80de%CC%80%20Wo%CC%A3%CC%81lo%CC%A3%CC%81o%CC%A3%CC%80fu%CC%80,2025-05-08 04:55:24,failed,Status code: 404
+202,èdè Yorùbá,https://glosbe.com/yo/en/e%CC%80de%CC%80%20Yoru%CC%80ba%CC%81,2025-05-08 04:46:53,success,
+203,èdè zulu,https://glosbe.com/yo/en/e%CC%80de%CC%80%20zulu,2025-05-08 04:55:39,success,
+204,Èdèe Yorùbá,https://glosbe.com/yo/en/E%CC%80de%CC%80e%20Yoru%CC%80ba%CC%81,2025-05-08 04:42:46,failed,Status code: 404
+205,èdèkòyédè,https://glosbe.com/yo/en/e%CC%80de%CC%80ko%CC%80ye%CC%81de%CC%80,2025-05-08 04:38:50,success,
+206,èdìdì,https://glosbe.com/yo/en/e%CC%80di%CC%80di%CC%80,2025-05-08 05:04:20,success,
+207,èdìdì erù kékeré,https://glosbe.com/yo/en/e%CC%80di%CC%80di%CC%80%20eru%CC%80%20ke%CC%81kere%CC%81,2025-05-08 05:05:34,failed,Status code: 404
+208,èdìdí,https://glosbe.com/yo/en/e%CC%80di%CC%80di%CC%81,2025-05-08 04:34:28,success,
+209,èèhù,https://glosbe.com/yo/en/e%CC%80e%CC%80hu%CC%80,2025-05-08 04:52:38,success,
+210,èèmọ́,https://glosbe.com/yo/en/e%CC%80e%CC%80mo%CC%A3%CC%81,2025-05-08 04:42:16,success,
+211,èèpo,https://glosbe.com/yo/en/e%CC%80e%CC%80po,2025-05-08 04:33:32,success,
+212,èèpo ẹ̀yìn,https://glosbe.com/yo/en/e%CC%80e%CC%80po%20e%CC%A3%CC%80yi%CC%80n,2025-05-08 04:38:16,success,
+213,èèrà,https://glosbe.com/yo/en/e%CC%80e%CC%80ra%CC%80,2025-05-08 04:52:53,success,
+214,èèwọ̀,https://glosbe.com/yo/en/e%CC%80e%CC%80wo%CC%A3%CC%80,2025-05-08 04:42:04,success,
+215,èèyàn,https://glosbe.com/yo/en/e%CC%80e%CC%80ya%CC%80n,2025-05-08 04:48:05,success,
+216,Èèyàn,https://glosbe.com/yo/en/E%CC%80e%CC%80ya%CC%80n,2025-05-08 05:01:40,success,
+217,èèyi,https://glosbe.com/yo/en/e%CC%80e%CC%80yi,2025-05-08 04:47:22,success,
+218,èébì,https://glosbe.com/yo/en/e%CC%80e%CC%81bi%CC%80,2025-05-08 04:33:49,success,
+219,èébu,https://glosbe.com/yo/en/e%CC%80e%CC%81bu,2025-05-08 04:28:36,failed,Status code: 404
+220,èébú,https://glosbe.com/yo/en/e%CC%80e%CC%81bu%CC%81,2025-05-08 04:37:34,success,
+221,èéfí,https://glosbe.com/yo/en/e%CC%80e%CC%81fi%CC%81,2025-05-08 04:56:08,failed,Status code: 404
+222,èéfín,https://glosbe.com/yo/en/e%CC%80e%CC%81fi%CC%81n,2025-05-08 04:48:50,success,
+223,èékánná,https://glosbe.com/yo/en/e%CC%80e%CC%81ka%CC%81nna%CC%81,2025-05-08 04:37:25,success,
+224,èékánná eranko,https://glosbe.com/yo/en/e%CC%80e%CC%81ka%CC%81nna%CC%81%20eranko,2025-05-08 05:05:10,failed,Status code: 404
+225,èémí,https://glosbe.com/yo/en/e%CC%80e%CC%81mi%CC%81,2025-05-08 05:00:59,success,
+226,èépá,https://glosbe.com/yo/en/e%CC%80e%CC%81pa%CC%81,2025-05-08 04:47:54,success,
+227,ègbón àti àbúrò,https://glosbe.com/yo/en/e%CC%80gbo%CC%81n%20a%CC%80ti%20a%CC%80bu%CC%81ro%CC%80,2025-05-08 04:32:06,failed,Status code: 404
+228,ègé abala,https://glosbe.com/yo/en/e%CC%80ge%CC%81%20abala,2025-05-08 04:40:02,failed,Status code: 404
+229,ègún,https://glosbe.com/yo/en/e%CC%80gu%CC%81n,2025-05-08 04:33:25,success,
+230,èjì,https://glosbe.com/yo/en/e%CC%80ji%CC%80,2025-05-08 04:54:18,success,
+231,èjìèkejì,https://glosbe.com/yo/en/e%CC%80ji%CC%80e%CC%80keji%CC%80,2025-05-08 05:04:28,failed,Status code: 404
+232,èjí,https://glosbe.com/yo/en/e%CC%80ji%CC%81,2025-05-08 04:36:59,failed,Status code: 404
+233,èjíká,https://glosbe.com/yo/en/e%CC%80ji%CC%81ka%CC%81,2025-05-08 04:32:16,failed,Status code: 404
+234,Èkánná,https://glosbe.com/yo/en/E%CC%80ka%CC%81nna%CC%81,2025-05-08 04:30:44,failed,Status code: 404
+235,èkánná,https://glosbe.com/yo/en/e%CC%80ka%CC%81nna%CC%81,2025-05-08 04:53:43,failed,Status code: 404
+236,èkejì,https://glosbe.com/yo/en/e%CC%80keji%CC%80,2025-05-08 04:54:34,success,
+237,Èkìtì,https://glosbe.com/yo/en/E%CC%80ki%CC%80ti%CC%80,2025-05-08 04:40:22,success,
+238,èkíní,https://glosbe.com/yo/en/e%CC%80ki%CC%81ni%CC%81,2025-05-08 04:57:05,success,
+239,Èkó,https://glosbe.com/yo/en/E%CC%80ko%CC%81,2025-05-08 05:03:00,success,
+240,èkó,https://glosbe.com/yo/en/e%CC%80ko%CC%81,2025-05-08 05:05:38,success,
+241,èkù,https://glosbe.com/yo/en/e%CC%80ku%CC%80,2025-05-08 04:57:26,success,
+242,èkùlù,https://glosbe.com/yo/en/e%CC%80ku%CC%80lu%CC%80,2025-05-08 04:49:44,failed,Status code: 404
+243,èkúté,https://glosbe.com/yo/en/e%CC%80ku%CC%81te%CC%81,2025-05-08 04:57:34,success,
+244,èlé,https://glosbe.com/yo/en/e%CC%80le%CC%81,2025-05-08 04:46:46,success,
+245,èlò,https://glosbe.com/yo/en/e%CC%80lo%CC%80,2025-05-08 04:55:53,success,
+246,Èlò,https://glosbe.com/yo/en/E%CC%80lo%CC%80,2025-05-08 04:59:11,success,
+247,èlò eléwu,https://glosbe.com/yo/en/e%CC%80lo%CC%80%20ele%CC%81wu,2025-05-08 04:53:02,failed,Status code: 404
+248,èlò ìmu kánilára,https://glosbe.com/yo/en/e%CC%80lo%CC%80%20i%CC%80mu%20ka%CC%81nila%CC%81ra,2025-05-08 04:30:50,failed,Status code: 404
+249,èlò ìrúsókè,https://glosbe.com/yo/en/e%CC%80lo%CC%80%20i%CC%80ru%CC%81so%CC%81ke%CC%80,2025-05-08 04:47:30,failed,Status code: 404
+250,èlò ìrúsókè ara,https://glosbe.com/yo/en/e%CC%80lo%CC%80%20i%CC%80ru%CC%81so%CC%81ke%CC%80%20ara,2025-05-08 05:04:35,failed,Status code: 404
+251,èlò kíkorò inú obì,https://glosbe.com/yo/en/e%CC%80lo%CC%80%20ki%CC%81koro%CC%80%20inu%CC%81%20obi%CC%80,2025-05-08 04:59:16,failed,Status code: 404
+252,èmín,https://glosbe.com/yo/en/e%CC%80mi%CC%81n,2025-05-08 04:32:25,failed,Status code: 404
+253,èniyàn,https://glosbe.com/yo/en/e%CC%80niya%CC%80n,2025-05-08 05:00:04,success,
+254,ènìà,https://glosbe.com/yo/en/e%CC%80ni%CC%80a%CC%80,2025-05-08 04:42:22,failed,Status code: 404
+255,ènìà tí nhùwà eranko,https://glosbe.com/yo/en/e%CC%80ni%CC%80a%CC%80%20ti%CC%81%20nhu%CC%80wa%CC%80%20eranko,2025-05-08 04:35:50,failed,Status code: 404
+256,ènìyàn,https://glosbe.com/yo/en/e%CC%80ni%CC%80ya%CC%80n,2025-05-08 04:28:46,success,
+257,ènìyànkénìyàn,https://glosbe.com/yo/en/e%CC%80ni%CC%80ya%CC%80nke%CC%81ni%CC%80ya%CC%80n,2025-05-08 04:35:42,success,
+258,èní,https://glosbe.com/yo/en/e%CC%80ni%CC%81,2025-05-08 04:40:37,success,
+259,èpè,https://glosbe.com/yo/en/e%CC%80pe%CC%80,2025-05-08 05:03:08,success,
+260,èpìyà,https://glosbe.com/yo/en/e%CC%80pi%CC%80ya%CC%80,2025-05-08 04:29:30,success,
+261,èpo,https://glosbe.com/yo/en/e%CC%80po,2025-05-08 04:48:21,success,
+262,èpo igi,https://glosbe.com/yo/en/e%CC%80po%20igi,2025-05-08 04:42:29,failed,Status code: 404
+263,Èpò,https://glosbe.com/yo/en/E%CC%80po%CC%80,2025-05-08 04:49:50,success,
+264,èrà,https://glosbe.com/yo/en/e%CC%80ra%CC%80,2025-05-08 05:05:04,failed,Status code: 404
+265,èrà é̩rùn,https://glosbe.com/yo/en/e%CC%80ra%CC%80%20e%CC%A9%CC%81ru%CC%80n,2025-05-08 04:46:15,failed,Status code: 404
+266,èràn,https://glosbe.com/yo/en/e%CC%80ra%CC%80n,2025-05-08 04:27:34,failed,Status code: 404
+267,Èràn,https://glosbe.com/yo/en/E%CC%80ra%CC%80n,2025-05-08 04:53:26,failed,Status code: 404
+268,Èràn àìtóagbóguntàrùn ènìyàn,https://glosbe.com/yo/en/E%CC%80ra%CC%80n%20a%CC%80i%CC%80to%CC%81agbo%CC%81gunta%CC%80ru%CC%80n%20e%CC%80ni%CC%80ya%CC%80n,2025-05-08 04:38:35,failed,Status code: 404
+269,èràn kòrónà,https://glosbe.com/yo/en/e%CC%80ra%CC%80n%20ko%CC%80ro%CC%81na%CC%80,2025-05-08 04:51:04,failed,Status code: 404
+270,ère,https://glosbe.com/yo/en/e%CC%80re,2025-05-08 04:31:03,success,
+271,èrè,https://glosbe.com/yo/en/e%CC%80re%CC%80,2025-05-08 05:05:52,success,
+272,èrèdí,https://glosbe.com/yo/en/e%CC%80re%CC%80di%CC%81,2025-05-08 04:29:40,success,
+273,èríí,https://glosbe.com/yo/en/e%CC%80ri%CC%81i%CC%81,2025-05-08 04:54:43,failed,Status code: 404
+274,èroàfiyé,https://glosbe.com/yo/en/e%CC%80roa%CC%80fiye%CC%81,2025-05-08 05:06:16,failed,Status code: 404
+275,èrò,https://glosbe.com/yo/en/e%CC%80ro%CC%80,2025-05-08 04:35:09,success,
+276,Èrò mi l’órí ẹ́kọ́,https://glosbe.com/yo/en/E%CC%80ro%CC%80%20mi%20l%E2%80%99o%CC%81ri%CC%81%20e%CC%A3%CC%81ko%CC%A3%CC%81,2025-05-08 04:40:51,failed,Status code: 404
+277,èrò ọkọ̀,https://glosbe.com/yo/en/e%CC%80ro%CC%80%20o%CC%A3ko%CC%A3%CC%80,2025-05-08 04:44:38,success,
+278,èrò púpọ̀,https://glosbe.com/yo/en/e%CC%80ro%CC%80%20pu%CC%81po%CC%A3%CC%80,2025-05-08 04:55:47,success,
+279,èròjà,https://glosbe.com/yo/en/e%CC%80ro%CC%80ja%CC%80,2025-05-08 04:31:18,success,
+280,èròjà aláìlábùlà,https://glosbe.com/yo/en/e%CC%80ro%CC%80ja%CC%80%20ala%CC%81i%CC%80la%CC%81bu%CC%80la%CC%80,2025-05-08 04:29:16,failed,Status code: 404
+281,èròjà alòfún-ìṣe,https://glosbe.com/yo/en/e%CC%80ro%CC%80ja%CC%80%20alo%CC%80fu%CC%81n-i%CC%80s%CC%A3e,2025-05-08 04:42:57,failed,Status code: 404
+282,èròjà atẹ̀lélànà,https://glosbe.com/yo/en/e%CC%80ro%CC%80ja%CC%80%20ate%CC%A3%CC%80le%CC%81la%CC%80na%CC%80,2025-05-08 04:43:32,failed,Status code: 404
+283,èròjà àwo CD,https://glosbe.com/yo/en/e%CC%80ro%CC%80ja%CC%80%20a%CC%80wo%20CD,2025-05-08 04:50:28,failed,Status code: 404
+284,èròjà gúlúkóòsì,https://glosbe.com/yo/en/e%CC%80ro%CC%80ja%CC%80%20gu%CC%81lu%CC%81ko%CC%81o%CC%80si%CC%80,2025-05-08 04:47:45,success,
+285,èròjà iṣẹ́,https://glosbe.com/yo/en/e%CC%80ro%CC%80ja%CC%80%20is%CC%A3e%CC%A3%CC%81,2025-05-08 04:49:56,success,
+286,èròjà kaféènì,https://glosbe.com/yo/en/e%CC%80ro%CC%80ja%CC%80%20kafe%CC%81e%CC%80ni%CC%80,2025-05-08 04:58:46,success,
+287,èròjà onítááṣì,https://glosbe.com/yo/en/e%CC%80ro%CC%80ja%CC%80%20oni%CC%81ta%CC%81a%CC%81s%CC%A3i%CC%80,2025-05-08 05:02:38,success,
+288,èròjà purotéènì,https://glosbe.com/yo/en/e%CC%80ro%CC%80ja%CC%80%20purote%CC%81e%CC%80ni%CC%80,2025-05-08 04:55:17,success,
+289,èròǹgbà,https://glosbe.com/yo/en/e%CC%80ro%CC%80n%CC%80gba%CC%80,2025-05-08 04:28:18,success,
+290,èròńgbà,https://glosbe.com/yo/en/e%CC%80ro%CC%80n%CC%81gba%CC%80,2025-05-08 04:39:09,success,
+291,èrú,https://glosbe.com/yo/en/e%CC%80ru%CC%81,2025-05-08 04:55:10,success,
+292,èsi,https://glosbe.com/yo/en/e%CC%80si,2025-05-08 04:30:35,success,
+293,Èsì,https://glosbe.com/yo/en/E%CC%80si%CC%80,2025-05-08 04:27:39,success,
+294,èsì,https://glosbe.com/yo/en/e%CC%80si%CC%80,2025-05-08 04:32:39,success,
+295,Èsì sí Gbogbogbò,https://glosbe.com/yo/en/E%CC%80si%CC%80%20si%CC%81%20Gbogbogbo%CC%80,2025-05-08 04:48:31,failed,Status code: 404
+296,èsìsì,https://glosbe.com/yo/en/e%CC%80si%CC%80si%CC%80,2025-05-08 04:26:28,success,
+297,èso,https://glosbe.com/yo/en/e%CC%80so,2025-05-08 04:36:11,success,
+298,èso àjàrà,https://glosbe.com/yo/en/e%CC%80so%20a%CC%80ja%CC%80ra%CC%80,2025-05-08 05:02:25,success,
+299,èso àjàrà gbígbẹ,https://glosbe.com/yo/en/e%CC%80so%20a%CC%80ja%CC%80ra%CC%80%20gbi%CC%81gbe%CC%A3,2025-05-08 04:45:02,success,
+300,èso igi tí a ti sè,https://glosbe.com/yo/en/e%CC%80so%20igi%20ti%CC%81%20a%20ti%20se%CC%80,2025-05-08 04:46:02,failed,Status code: 404
+301,èso kan bí ìyeyè,https://glosbe.com/yo/en/e%CC%80so%20kan%20bi%CC%81%20i%CC%80yeye%CC%80,2025-05-08 04:25:27,failed,Status code: 404
+302,èso òro òyìnbó,https://glosbe.com/yo/en/e%CC%80so%20o%CC%80ro%20o%CC%80yi%CC%80nbo%CC%81,2025-05-08 04:28:25,failed,Status code: 404
+303,èsú,https://glosbe.com/yo/en/e%CC%80su%CC%81,2025-05-08 05:01:21,failed,Status code: 404
+304,èsúró,https://glosbe.com/yo/en/e%CC%80su%CC%81ro%CC%81,2025-05-08 04:39:21,success,
+305,éfí,https://glosbe.com/yo/en/e%CC%81fi%CC%81,2025-05-08 05:00:40,failed,Status code: 404
+306,éjò,https://glosbe.com/yo/en/e%CC%81jo%CC%80,2025-05-08 04:59:42,failed,Status code: 404
+307,émi,https://glosbe.com/yo/en/e%CC%81mi,2025-05-08 04:46:31,failed,Status code: 404
+308,Émile Durkheim,https://glosbe.com/yo/en/E%CC%81mile%20Durkheim,2025-05-08 05:05:45,failed,Status code: 404
+309,êfôn,https://glosbe.com/yo/en/e%CC%82fo%CC%82n,2025-05-08 04:47:16,failed,Status code: 404
+310,êrà,https://glosbe.com/yo/en/e%CC%82ra%CC%80,2025-05-08 05:03:58,failed,Status code: 404
+311,ẹnu,https://glosbe.com/yo/en/e%CC%A3nu,2025-05-08 04:26:20,success,
+312,e̩dùn,https://glosbe.com/yo/en/e%CC%A9du%CC%80n,2025-05-08 04:50:09,success,
+313,e̩ja,https://glosbe.com/yo/en/e%CC%A9ja,2025-05-08 04:50:54,success,
+314,e̩ran,https://glosbe.com/yo/en/e%CC%A9ran,2025-05-08 04:56:54,success,
+315,e̩sè̩,https://glosbe.com/yo/en/e%CC%A9se%CC%A9%CC%80,2025-05-08 04:49:10,success,
+316,è̩bè̩,https://glosbe.com/yo/en/e%CC%A9%CC%80be%CC%A9%CC%80,2025-05-08 04:43:04,success,
+317,è̩dùn,https://glosbe.com/yo/en/e%CC%A9%CC%80du%CC%80n,2025-05-08 04:33:06,success,
+318,è̩ké̩také̩ta,https://glosbe.com/yo/en/e%CC%A9%CC%80ke%CC%A9%CC%81take%CC%A9%CC%81ta,2025-05-08 04:38:00,success,
+319,è̩rè̩ké̩,https://glosbe.com/yo/en/e%CC%A9%CC%80re%CC%A9%CC%80ke%CC%A9%CC%81,2025-05-08 04:36:35,success,
+320,è̩rin,https://glosbe.com/yo/en/e%CC%A9%CC%80rin,2025-05-08 04:38:58,success,
+321,é̩dá,https://glosbe.com/yo/en/e%CC%A9%CC%81da%CC%81,2025-05-08 04:44:15,success,
+322,é̩dá ohunkóhun,https://glosbe.com/yo/en/e%CC%A9%CC%81da%CC%81%20ohunko%CC%81hun,2025-05-08 04:31:25,success,
+323,é̩gbo̩n obìnrin,https://glosbe.com/yo/en/e%CC%A9%CC%81gbo%CC%A9n%20obi%CC%80nrin,2025-05-08 04:53:20,failed,Status code: 404

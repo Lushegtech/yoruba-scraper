@@ -1,0 +1,115 @@
+
+
+> I want to build a modern, production-ready Yoruba-English online dictionary inspired by Glosbe, with the following stack and features:
+>
+> ---
+>
+> **Tech Stack:**
+> - **Backend:** Django with Django REST Framework
+> - **Database:** PostgreSQL
+> - **Frontend:** Next.js (React)
+>
+> ---
+>
+> **Features & Requirements:**
+>
+> 1. **Project Structure**
+>     - Separate repositories/folders for backend (Django) and frontend (Next.js).
+>     - Use environment variables for configuration (database, API URLs, secrets).
+>     - Provide sample `.env` files for both backend and frontend.
+>
+> 2. **Backend (Django + DRF)**
+>     - Models for words, translations, example sentences, and (optionally) user-contributed requests.
+>     - Store both original and normalized (diacritic-stripped) forms of Yoruba words for fast, diacritic-insensitive search.
+>     - Use PostgreSQL’s `unaccent` extension or Python’s `unicodedata` for normalization.
+>     - REST API endpoints for:
+>         - **Autocomplete suggestions:**  
+>             - As the user types, return real-time completions and suggestions drawn from the dictionary.
+>             - Suggestions must match regardless of whether the user includes Yoruba diacritics (e.g., typing “oba” should suggest “ọba”).
+>             - Normalize both the user’s input and all dictionary entries by stripping or canonicalizing diacritic marks before lookup, but always return/display the correct diacritics in the results.
+>             - Suggestions must be returned within 100ms of each keystroke on standard broadband.
+>         - **Word detail lookup:**  
+>             - Return all information for a given word, including translations, part of speech, and example sentences.
+>         - **Fuzzy “Did you mean?” suggestions:**  
+>             - If no exact match exists, return a list of the top 5–10 closest words using fuzzy-string matching (Levenshtein distance or phonetic similarity).
+>             - Include commonly mistyped variants (e.g., tonal or length errors) and auto-corrected suggestions.
+>         - **Recently viewed words and “Words You May Like”:**  
+>             - Return a list of recently viewed words (can be based on session or user history).
+>             - Return a list of “Words You May Like” (random, trending, or based on user behavior).
+>         - **Submit a request for missing words:**  
+>             - Allow users to propose new entries via an API endpoint.
+>     - Management commands to import data from CSV/JSON (with mapping for word IDs if needed).
+>     - CORS enabled for frontend access.
+>     - Django admin enabled for managing dictionary entries.
+>     - Index normalized word fields in the database for fast search.
+>     - Basic tests for API endpoints.
+>
+> 3. **Frontend (Next.js)**
+>     - Clean, responsive UI inspired by Glosbe:
+>         - **Search bar with smart autocomplete:**  
+>             - As the user types, show real-time completions and suggestions from the dictionary.
+>             - Suggestions must match regardless of diacritics in the user’s input.
+>             - Suggestions must appear within 100ms of each keystroke.
+>             - Suggestions should be keyboard-navigable (arrow up/down, Enter to select).
+>             - If the DB lookup is slow (e.g., first load), display a lightweight spinner or shimmer placeholder.
+>         - **Diacritic-insensitive matching:**  
+>             - Normalize both the user’s input and all dictionary entries by stripping or canonicalizing diacritic marks before lookup.
+>             - Always display the correct diacritics in the results.
+>         - **“Word Not Found” experience:**  
+>             - If no exact match exists, automatically display a “Did you mean…?” page with:
+>                 - A list of the top 5–10 closest words (using fuzzy-string matching, Levenshtein distance, or phonetic similarity).
+>                 - Commonly mistyped variants and auto-corrected suggestions.
+>                 - Quick links to recently viewed words or “Words You May Like” based on user behavior.
+>                 - A “Submit a Request” button so users can propose new entries.
+>         - **Word detail page:**  
+>             - Show definitions, translations, part of speech, and example sentences.
+>         - Use Tailwind CSS or Bootstrap for styling.
+>         - Fetch data from Django API using best practices (hooks, SWR, etc.).
+>         - Provide a sample `.env.local` for API URLs.
+>         - Basic tests for main components.
+>
+> 4. **Performance & UX**
+>     - Autocomplete suggestions must appear within 100ms of each keystroke.
+>     - Index normalized word fields in the database for fast search.
+>     - Debounce frontend API calls.
+>     - Show loading indicators if backend is slow.
+>     - Suggestions must be keyboard-navigable (arrow keys, Enter to select).
+>
+> 5. **Development & Deployment**
+>     - Clear instructions for local development (running both frontend and backend).
+>     - Sample Dockerfiles and/or docker-compose for easy setup.
+>     - Instructions for deploying to production (Heroku, Vercel, or similar).
+>
+> 6. **(Optional) User Authentication**
+>     - Allow users to log in and save favorite words or contribute new entries.
+>
+> 7. **(Optional) Analytics**
+>     - Track popular searches and words for “Words You May Like.”
+>
+> 8. **Best Practices**
+>     - Scalable, maintainable code structure.
+>     - Security best practices (secrets, CORS, input validation).
+>     - Documentation for setup, usage, and contribution.
+>
+> ---
+>
+> **Please generate:**
+> - The initial folder structure for both backend and frontend.
+> - Sample code for Django models, API endpoints (including diacritic-insensitive search, autocomplete, fuzzy “Did you mean?”), and management commands for CSV import.
+> - Sample code for Next.js search/autocomplete component (with keyboard navigation, spinner, and “Not Found” page).
+> - Example Dockerfiles and environment files.
+> - Step-by-step setup and run instructions for local development and production.
+> - Any other recommendations for a robust, user-friendly Yoruba-English dictionary web app.
+>
+> ---
+>
+> **If you need sample CSV data, assume columns like:**
+> - `word_id,word,translation,part_of_speech,example_sentence,confidence`
+>
+> ---
+>
+> Please proceed step by step, explaining each part and providing code samples.
+
+please work on the ui, I need it to be the best out there, you visually appealing. if it requires you to use shadcn or other know tools please do and bring the web app to live, on glosbe you'd see a map background can you do it for this project that it'll have the map of yoruba speaking countries?
+
+do what you do best you got this

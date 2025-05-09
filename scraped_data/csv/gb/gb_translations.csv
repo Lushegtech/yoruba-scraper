@@ -1,0 +1,157 @@
+id,word_id,translation,part_of_speech,confidence
+1,1,occupy,verb,high
+2,1,occupy TraverseGPAware,verb,high
+3,3,open,adjective,high
+4,3,plain,adjective,high
+5,4,Prepare,noun,high
+6,5,carry,verb,high
+7,5,carry nounto carry or liftIfedayo H Ayeni,verb,high
+8,5,forlone,noun,medium
+9,6,magnet,noun,high
+10,7,ablaze,adjective,high
+11,7,ablaze TraverseGPAware,adjective,high
+12,9,all,adjective,high
+13,9,"all, complete, entire, every, total, wholeen",adjective,high
+14,9,entire,adjective,high
+15,9,every,adjective,high
+16,9,everyGbogboilé ló jónáEveryhouse was burning,adjective,high
+17,9,All services,verb,medium
+18,9,always,verb,medium
+19,9,Always Move gallery,phrase,medium
+20,9,general,adjective,medium
+21,9,gross domestic product,phrase,medium
+22,9,public building,verb,medium
+23,9,public security,noun,medium
+24,10,general,adjective,high
+25,11,gross domestic product,noun,high
+26,12,All services,verb,high
+27,13,general,adjective,high
+28,14,everything,pronoun,high
+29,15,master,noun,high
+30,15,master document,noun,medium
+31,15,master key,noun,medium
+32,15,slide master,noun,medium
+33,16,slide master,noun,high
+34,17,echo,noun,high
+35,17,echo TraverseGPAware,noun,high
+36,17,microphone,verb,high
+37,17,headphone,noun,medium
+38,18,echo,noun,high
+39,18,echo TraverseGPAware,noun,high
+40,18,microphone,verb,high
+41,18,headphone,noun,medium
+42,19,headphone,noun,high
+43,19,headphone Adekunle David Gbenro,noun,high
+44,20,hot,adjective,high
+45,20,hot Ifedayo H Ayeni,adjective,high
+46,26,forget,verb,high
+47,26,oblivion,verb,high
+48,26,oblivion Glosbe Research,verb,high
+49,26,omit,verb,high
+50,26,omit Glosbe Research,verb,high
+51,26,slip,verb,high
+52,26,slip Glosbe Research,verb,high
+53,27,believe,verb,high
+54,27,believe Agbàgbọ́.Webelieve,verb,high
+55,28,gallery,noun,high
+56,28,Always Move gallery,phrase,medium
+57,28,Desktop Gadget Gallery,phrase,medium
+58,28,Window Gallery,noun,medium
+59,28,Windows Photo Gallery,phrase,medium
+60,29,Windows Photo Gallery,phrase,high
+61,30,Desktop Gadget Gallery,phrase,high
+62,31,Window Gallery,noun,high
+63,32,hit,verb,high
+64,32,hit TraverseGPAware,verb,high
+65,34,cassava,noun,high
+66,34,cassava Gbágùúdála fi ń ṣe ẹ̀bàEba,noun,high
+67,35,full,adjective,high
+68,35,full adverbỌ̀sẹ̀ mẹ́tagbákoThreefullweeks,adjective,high
+69,35,straight,adjective,high
+70,35,straight adverbỌdún mẹ́wàágbákoTen yearsstraight,adjective,high
+71,35,whole,adjective,high
+72,37,Advanced Encryption Standard,noun,high
+73,38,debt,noun,high
+74,38,liability,noun,high
+75,38,liability TraverseGPAware,noun,high
+76,38,loan,noun,high
+77,39,inhabit,verb,high
+78,39,lift,verb,high
+79,39,lift Bá migbéeHelp meliftit,verb,high
+80,39,live,verb,high
+81,39,deliver,noun,medium
+82,39,disable,adjective,medium
+83,39,flat,noun,medium
+84,39,kidnap,noun,medium
+85,39,magnify,noun,medium
+86,39,marry,noun,medium
+87,39,promote,noun,medium
+88,39,swallow,noun,medium
+89,40,promote,verb,high
+90,42,marry,verb,high
+91,42,marry TraverseGPAware,verb,high
+92,44,disable,verb,high
+93,47,advance,verb,high
+94,47,advance TraverseGPAware,verb,high
+95,47,heighten,verb,high
+96,47,heighten TraverseGPAware,verb,high
+97,49,magnet,noun,high
+98,50,magnet,noun,high
+99,51,acceptable,adjective,high
+100,51,acknowledgement,noun,medium
+101,51,downlo,noun,medium
+102,52,acknowledgement,noun,high
+103,52,acknowledgement TraverseGPAware,noun,high
+104,53,downlo,verb,high
+105,53,Downloads,verb,high
+106,54,downlo,verb,high
+107,54,Downloads,verb,high
+108,55,"domestic, dwelling, homeen",phrase,high
+109,55,asynchronous transfer mode,phrase,medium
+110,55,data transfer,noun,medium
+111,55,transfer,noun,medium
+112,56,data transfer,noun,high
+113,57,transfer,verb,high
+114,58,planting,noun,high
+115,58,sowing,noun,high
+116,59,afforestaion,noun,high
+117,59,planting trees,verb,high
+118,61,dry,adjective,high
+119,61,dry Ewékogbígbẹ.Dryplants,adjective,high
+120,61,dried food,noun,medium
+121,61,raisin,noun,medium
+122,62,gain independence,verb,high
+123,63,square root,noun,high
+124,64,root,noun,high
+125,65,obsolete,adjective,high
+126,65,obsolete TraverseGPAware,adjective,high
+127,65,bark,noun,medium
+128,67,raid,verb,high
+129,67,raid TraverseGPAware,verb,high
+130,68,phrase,noun,high
+131,68,sentence,noun,high
+132,68,colon,noun,medium
+133,68,word,noun,medium
+134,69,hot,adjective,high
+135,69,warm,adjective,high
+136,69,glow,noun,medium
+137,70,glow,verb,high
+138,70,glow TraverseGPAware,verb,high
+139,73,dig,verb,high
+140,73,digverbẸ bá migbẹ́kàngaHelp mediga well,verb,high
+141,73,carpenter,noun,medium
+142,73,companionship,noun,medium
+143,73,extended desktop,noun,medium
+144,73,sidebar,noun,medium
+145,74,carpenter,noun,high
+146,77,royal hall,noun,high
+147,78,mall,verb,high
+148,78,shopping centre,verb,high
+149,78,shopping mall,verb,high
+150,79,gymnasium,noun,high
+151,81,squash,noun,high
+152,82,hear,verb,high
+153,82,hearverbṢẹ́ ẹ tigbọ́?Have youheard,verb,high
+154,82,Trojan notifier,noun,medium
+155,83,smart,adjective,high
+156,83,smart nounỌkùnrin yẹngbọ́n féfé.That guyis smart,adjective,high

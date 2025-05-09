@@ -1,0 +1,126 @@
+id,word_id,translation,part_of_speech,confidence
+1,1,high,adjective,high
+2,3,gadoliniumnounelement with the atomic number of 64,noun,high
+3,4,gadoliniumnounelement with the atomic number of 64,noun,high
+4,7,just,adverb,high
+5,7,fact,noun,medium
+6,7,mainland,noun,medium
+7,7,opportunity,noun,medium
+8,8,actually,adverb,high
+9,8,very,adjective,high
+10,8,very Inú mi dùn gan-an!I'm very happy,adverb,high
+11,8,fact,noun,medium
+12,9,actual,adjective,high
+13,9,absolute address,verb,medium
+14,9,absolute cell reference,phrase,medium
+15,9,data point,noun,medium
+16,9,main document,noun,medium
+17,9,point,noun,medium
+18,9,point in time,phrase,medium
+19,9,real address,verb,medium
+20,9,Threshold,noun,medium
+21,10,bucket,noun,high
+22,10,gallon,noun,high
+23,10,gallon Ifedayo H Ayeni,noun,high
+24,11,bucket,noun,high
+25,11,gallon,noun,high
+26,11,gallon Ifedayo H Ayeni,noun,high
+27,12,a woman's headwrapen,phrase,high
+28,17,east germany,noun,medium
+29,18,barber,verb,high
+30,19,Republic of Ghana,noun,high
+31,20,ghana,noun,high
+32,21,Ghana,noun,high
+33,23,indeed,adverb,high
+34,23,real number,noun,medium
+35,23,rich-text box,noun,medium
+36,24,extremely,adverb,high
+37,24,passion fruit,noun,medium
+38,25,tickle,adjective,high
+39,26,GDP,noun,high
+40,30,Grizzy and the Lemmings,phrase,high
+41,31,Greece,noun,high
+42,32,greenland,noun,high
+43,33,greece,noun,high
+44,34,grenada,noun,high
+45,35,guatemala,noun,high
+46,37,Republic of Guinea,noun,high
+47,37,equatorial guinea,noun,medium
+48,37,papua new guinea,phrase,medium
+49,38,Republic of Guinea,noun,high
+50,38,equatorial guinea,noun,medium
+51,38,papua new guinea,phrase,medium
+52,39,equatorial guinea,noun,high
+53,40,east,noun,high
+54,40,east TraverseGPAware,noun,high
+55,41,gabon,noun,high
+56,42,Gabon,noun,high
+57,43,tall,adjective,high
+58,43,tall GlTrav3,adjective,high
+59,44,gadget,noun,high
+60,44,desktop gadget,noun,medium
+61,44,Desktop Gadget Gallery,phrase,medium
+62,45,desktop gadget,noun,high
+63,45,Desktop Gadget Gallery,phrase,medium
+64,46,Ghana,noun,high
+65,47,saddle,noun,high
+66,47,saddle TraverseGPAware,noun,high
+67,48,pen,noun,high
+68,49,Notification bar,noun,high
+69,50,he tie,noun,high
+70,51,amputate,verb,high
+71,51,amputate GlosbeResearch,verb,high
+72,51,cut,verb,high
+73,52,heel,noun,high
+74,52,heel Gìgísẹ̀ń dùn míMyheelhurts,noun,high
+75,53,altitude,noun,high
+76,53,altitude TraverseGPAware,noun,high
+77,53,height,noun,high
+78,53,high,adjective,high
+79,53,tall,adjective,high
+80,53,higher education institution,phrase,medium
+81,54,gigabyte,noun,high
+82,55,skyscraper,noun,high
+83,56,length,noun,high
+84,56,long file name,phrase,medium
+85,56,range,noun,medium
+86,56,skyscraper,noun,medium
+87,57,skyscraper,noun,high
+88,58,range,noun,high
+89,58,range TraverseGPAware,noun,high
+90,59,conditional formatting,verb,high
+91,59,conditional formattingFormatting that,phrase,high
+92,60,text formatting,verb,high
+93,61,paragraph formatting,verb,high
+94,62,glass,noun,high
+95,62,window glass,verb,medium
+96,63,window glass,noun,high
+97,64,grid,noun,high
+98,64,grid lines,verb,medium
+99,64,grid origin,noun,medium
+100,65,grid origin,noun,high
+101,66,chancellor,noun,high
+102,66,chancellornounleader of a university or a college,noun,high
+103,67,adam's apple,noun,high
+104,68,guava,noun,high
+105,69,governor,noun,high
+106,70,gutter,noun,high
+107,71,gold,noun,high
+108,72,long,adjective,high
+109,72,tall,adjective,high
+110,72,tall GlTrav3,adjective,high
+111,72,bramble,noun,medium
+112,73,guyana,noun,high
+113,74,popcorn,verb,high
+114,75,glucose,noun,high
+115,76,guava,noun,high
+116,77,Southeast Asia,noun,high
+117,78,lumber,verb,high
+118,79,cliff,noun,high
+119,80,English,adjective,high
+120,80,england,noun,medium
+121,80,UK,noun,medium
+122,81,Gorbachev,noun,high
+123,82,Spurwinged goose,noun,high
+124,82,Spurwinged goose Plectropterus gambensis,noun,high
+125,83,gutter,noun,high

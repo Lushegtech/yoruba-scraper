@@ -1,0 +1,155 @@
+id,word_id,translation,part_of_speech,confidence
+1,2,Sign Out,noun,high
+2,3,raid,noun,high
+3,3,raid TraverseGPAware,noun,high
+4,4,fight,verb,high
+5,5,fighter,noun,high
+6,5,soldier,noun,high
+7,5,soldier Jagunjagunni bàbá miMy father was asoldier,noun,high
+8,5,warrior,noun,high
+9,5,veteran,noun,medium
+10,7,Jakarta,noun,high
+11,8,gallon,noun,high
+12,8,gallon Stephen Ogunbiyi,noun,high
+13,9,pilfer,verb,high
+14,9,pinch,verb,high
+15,9,steal,verb,high
+16,9,steal TraverseGPAware,verb,high
+17,10,Jamaica,noun,high
+18,11,jamaica,noun,high
+19,12,enjoy,verb,high
+20,13,earn,verb,high
+21,13,earn GlosbeResearch,verb,high
+22,13,eat,verb,high
+23,13,eat GlosbeResearch,verb,high
+24,14,graze,noun,high
+25,14,graze GlosbeResearch,noun,high
+26,15,pamper,verb,high
+27,15,pamper GlosbeResearch,verb,high
+28,16,enjoy,verb,high
+29,16,enjoy GlosbeResearch,verb,high
+30,17,Be deligent,noun,high
+31,17,Be deligentJejeleko,noun,high
+32,19,jerusalem,noun,high
+33,20,Jerusalem,noun,high
+34,21,Jesus,verb,high
+35,22,eat,verb,high
+36,22,eat GlosbeResearch,verb,high
+37,22,mo fe jeun,phrase,medium
+38,23,deep,adjective,high
+39,23,deep TraverseGPAware,adjective,high
+40,24,abundant,adjective,high
+41,24,abundant TraverseGPAware,adjective,high
+42,25,debate,verb,high
+43,26,please,verb,high
+44,26,please GlosbeResearch,verb,high
+45,30,throw,verb,high
+46,30,throw Mojuòkò sọ́dọ̀ ẹ.Ithrewa stone at you,verb,high
+47,31,than,adverb,high
+48,31,than adpositionGlTrav3,adverb,high
+49,32,Julius NyerereHeiNER - the,phrase,high
+50,33,accidental,adjective,high
+51,33,accidental GlosbeResearch,adjective,high
+52,33,fight,verb,high
+53,33,quarrel,verb,high
+54,34,Jamaica,noun,high
+55,35,accident,noun,high
+56,36,neat,adjective,high
+57,36,neat TraverseGPAware,adjective,high
+58,37,object,verb,high
+59,37,object TraverseGPAware,verb,high
+60,38,eject,verb,high
+61,38,exit,verb,high
+62,38,get out,verb,high
+63,38,banish,noun,medium
+64,38,emerge,noun,medium
+65,38,pass,noun,medium
+66,38,publish,noun,medium
+67,38,publisher,noun,medium
+68,38,publishing,verb,medium
+69,39,pass,verb,high
+70,39,pass TraverseGPAware,verb,high
+71,40,Java,noun,high
+72,41,terrorist,adjective,high
+73,41,terrorist nounterrorismIsokan Omo'Odua,adjective,high
+74,42,Germany,noun,high
+75,42,German,noun,medium
+76,43,rubbish,adjective,high
+77,44,abundant,adjective,high
+78,44,countless,adjective,high
+79,44,endless,adjective,high
+80,45,acquire,verb,high
+81,45,gain,verb,high
+82,45,profit,verb,high
+83,46,jesus,noun,high
+84,46,Church of Jesus Christ of Latter-day Saints,phrase,medium
+85,47,Jesus,verb,high
+86,47,Church of Jesus Christ of Latter-day Saints,phrase,medium
+87,48,Jesus,verb,high
+88,49,fight,verb,high
+89,50,undermine,verb,high
+90,50,undermine TraverseGPAware,verb,high
+91,51,far,adjective,high
+92,52,far,adverb,high
+93,52,far TraverseGPAware,adverb,high
+94,53,wake,verb,high
+95,54,kidnap,verb,high
+96,54,kidnap TraverseGPAware,verb,high
+97,55,kidnap,verb,high
+98,55,kidnap TraverseGPAware,verb,high
+99,56,glass,noun,high
+100,56,looking-glass,noun,high
+101,56,mirror,noun,high
+102,57,cannibalism,noun,high
+103,57,cannibalism GlosbeResearch,noun,high
+104,58,pale,adjective,high
+105,58,pale TraverseGPAware,adjective,high
+106,59,far,adverb,high
+107,59,far TraverseGPAware,adverb,high
+108,60,food product,noun,high
+109,60,meal,adjective,medium
+110,61,rotten,adjective,high
+111,61,rotten Oúnjẹjíjẹràmáa ń rùn.Rottenfood stinks,adjective,high
+112,62,eating,adjective,high
+113,63,kidnap,verb,high
+114,63,kidnap TraverseGPAware,verb,high
+115,64,dance,verb,high
+116,65,ablaze,adjective,high
+117,65,ablaze TraverseGPAware,adjective,high
+118,66,sit,verb,high
+119,67,more than,adjective,high
+120,67,more than Mo lè jójùwọ́nlọI can dancemore thanthem,adjective,high
+121,68,Judea,noun,high
+122,69,together,adjective,high
+123,70,Jupiter,noun,high
+124,71,jupiter,noun,high
+125,72,Jupiter,noun,high
+126,73,describe,verb,high
+127,74,Jürgen HabermasHeiNER - the,phrase,high
+128,75,answer,verb,high
+129,75,eaten,verb,high
+130,75,reply,verb,high
+131,75,respond,verb,high
+132,76,chew,verb,high
+133,77,cancer,noun,high
+134,77,breast cancer,noun,medium
+135,77,skin cancer,noun,medium
+136,78,skin cancer,noun,high
+137,79,breast cancer,noun,high
+138,80,dine,verb,high
+139,80,dinner,verb,high
+140,80,eat,verb,high
+141,81,kindergarten,noun,high
+142,81,nursery,noun,high
+143,81,preschool,noun,high
+144,82,kindergarten,noun,high
+145,82,nursery,noun,high
+146,82,preschool,noun,high
+147,83,germany,noun,high
+148,83,west germany,noun,medium
+149,84,Germany,noun,high
+150,85,together,adjective,high
+151,86,Georgia,noun,high
+152,87,journal,noun,high
+153,87,journal entry,noun,medium
+154,88,jordan,noun,high
